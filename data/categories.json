@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "id": "disaster",
+      "title": "Disaster",
+      "shortDescription": "Documented extreme environmental catastrophes, hydrological surges, seismic activity, and severe wildfire emergencies.",
+      "color": "#1b4332",
+      "accentBg": "#e8f5e9",
+      "icon": "alert-triangle",
+      "subcategories": [
+        {
+          "id": "floods",
+          "name": "Floods",
+          "description": "Monsoonal deluges, riverine overflows, flash floods, and glacial lake outburst floods (GLOF)."
+        },
+        {
+          "id": "landslides",
+          "name": "Landslides",
+          "description": "Mass debris flows, slope failures, and hill collapses triggered by cloudbursts and seismic events."
+        },
+        {
+          "id": "cyclones",
+          "name": "Cyclones",
+          "description": "Tropical storms, severe cyclonic systems, storm surges, and coastal wind damage."
+        },
+        {
+          "id": "earthquakes",
+          "name": "Earthquakes",
+          "description": "Tectonic ruptures, seismological faults, liquefaction, and structural geological damage."
+        },
+        {
+          "id": "tsunamis",
+          "name": "Tsunamis",
+          "description": "Undersea earthquake-generated ocean shockwaves, coastal inundation, and marine seismic surges."
+        },
+        {
+          "id": "forest-fires",
+          "name": "Forest Fires",
+          "description": "Wildfires, canopy blazes, dry-season biomass burning, and reserve forest ecological damage."
+        }
+      ]
+    },
+    {
+      "id": "deforestation",
+      "title": "Deforestation & Tree Plantation",
+      "shortDescription": "Historical canopy depletion, commercial clearance, grassroots afforestation drives, and award-winning conservationists.",
+      "color": "#2d6a4f",
+      "accentBg": "#eafaf1",
+      "icon": "trees",
+      "subcategories": [
+        {
+          "id": "deforestation-events",
+          "name": "Deforestation Events",
+          "description": "Documented large-scale clearings for dams, mining projects, linear infrastructure, and illegal logging."
+        },
+        {
+          "id": "tree-plantation-campaigns",
+          "name": "Tree Plantation Campaigns",
+          "description": "Mass afforestation initiatives, state-led greening missions, and public sector canopy restoration drives."
+        },
+        {
+          "id": "forest-conservation-movements",
+          "name": "Forest Conservation Movements",
+          "description": "Grassroots indigenous and community resistance movements dedicated to safeguarding pristine woodlands."
+        },
+        {
+          "id": "award-winning-environmental-work",
+          "name": "Award-Winning Environmental Work",
+          "description": "Recognized individual and organizational breakthroughs in afforestation, silviculture, and habitat revival."
+        }
+      ]
+    },
+    {
+      "id": "pollution",
+      "title": "Pollution",
+      "shortDescription": "Toxic air shed episodes, aquatic contamination, hazardous industrial runoff, acoustic stress, and plastic crisis archives.",
+      "color": "#b05d1a",
+      "accentBg": "#fef5e7",
+      "icon": "cloud-drizzle",
+      "subcategories": [
+        {
+          "id": "air-pollution",
+          "name": "Air Pollution",
+          "description": "Particulate matter surges (PM2.5 / PM10), stubble burning episodes, photochemical smogs, and industrial emissions."
+        },
+        {
+          "id": "water-pollution",
+          "name": "Water Pollution",
+          "description": "Untreated sewage dumping, riverine toxic froth, groundwater arsenic/fluoride crises, and aquatic dead zones."
+        },
+        {
+          "id": "noise-pollution",
+          "name": "Noise Pollution",
+          "description": "Acoustic decibel violations from urban transit, festive sound amplification, and impacts on wildlife and public health."
+        },
+        {
+          "id": "plastic-pollution",
+          "name": "Plastic Pollution",
+          "description": "Single-use polymer accumulation, microplastic contamination, landfill fires, and marine coastal debris."
+        },
+        {
+          "id": "industrial-pollution",
+          "name": "Industrial Pollution",
+          "description": "Catastrophic toxic gas releases, chemical spills, heavy metal effluents, and factory perimeter contamination."
+        }
+      ]
+    },
+    {
+      "id": "climate-change",
+      "title": "Climate Change",
+      "shortDescription": "Thermal heat domes, Himalayan cryosphere retreat, coastal erosion from sea level rises, and extreme climatic anomalies.",
+      "color": "#9d0208",
+      "accentBg": "#fde8e8",
+      "icon": "thermometer",
+      "subcategories": [
+        {
+          "id": "heatwaves",
+          "name": "Heatwaves",
+          "description": "Severe atmospheric heat domes, wet-bulb temperature breaches, urban heat islands, and summer thermal mortality."
+        },
+        {
+          "id": "glacier-changes",
+          "name": "Glacier Changes",
+          "description": "Himalayan and polar glacial recession, ablation rates, permafrost thaw, and moraine lake formation."
+        },
+        {
+          "id": "sea-level-rise",
+          "name": "Sea-Level Rise & Coastal Impacts",
+          "description": "Coastal island submersion, salt-water ingress into aquifers, mangrove retreat, and shoreline erosion."
+        },
+        {
+          "id": "extreme-weather-events",
+          "name": "Extreme Weather Events",
+          "description": "Localized cloudbursts, unseasonal hailstorms, atmospheric rivers, and unprecedented seasonal shifts."
+        }
+      ]
+    },
+    {
+      "id": "conservation",
+      "title": "Conservation & Success Stories",
+      "shortDescription": "Ecological restorations, river basin revivals, endangered species recoveries, and community-managed sanctuaries.",
+      "color": "#1f5e39",
+      "accentBg": "#e8f8f0",
+      "icon": "shield-check",
+      "subcategories": [
+        {
+          "id": "river-restoration",
+          "name": "River Restoration",
+          "description": "Desiltation, catchment afforestation, sewage interception, and ecological rejuvenation of historic river courses."
+        },
+        {
+          "id": "forest-restoration",
+          "name": "Forest Restoration",
+          "description": "Native species reintroduction, degraded landscape rehabilitation, and biodiversity corridor establishment."
+        },
+        {
+          "id": "wildlife-conservation",
+          "name": "Wildlife Conservation",
+          "description": "Keystone species revival (Tigers, Rhinos, Lions), anti-poaching operations, and community reserve models."
+        },
+        {
+          "id": "community-environmental-initiatives",
+          "name": "Community Environmental Initiatives",
+          "description": "Sacred groves protection, community seed banks, traditional rain-harvesting (Johads/Kuhls), and village stewardship."
+        }
+      ]
+    }
+  ]
+}

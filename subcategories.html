@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subcategories Explorer | Environmental Knowledge Hub</title>
+  <meta name="description" content="Filter and search documented real-world environmental case studies across floods, landslides, cyclones, deforestation, pollution crises, and conservation models.">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- Top Academic Notice Bar -->
+  <div class="top-notice-bar">
+    <div class="container top-notice-content">
+      <span>
+        <span class="badge-academic">Archive Explorer</span>
+        Filter by Topic, Subcategory, Location, and Verification Status
+      </span>
+      <span>
+        Click any case study to review the complete factual dossier
+      </span>
+    </div>
+  </div>
+
+  <!-- Main Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="site-brand">
+        <div class="brand-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            <path d="m9 12 2 2 4-4"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Environmental Knowledge Hub</h1>
+          <span class="brand-subtitle">Empirical Case Studies & Disaster Archive</span>
+        </div>
+      </a>
+
+      <button class="mobile-nav-toggle" id="mobileNavToggle" aria-label="Toggle navigation menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/>
+        </svg>
+      </button>
+
+      <nav class="site-nav" id="siteNav">
+        <a href="index.html" class="nav-link">Home Dashboard</a>
+        <a href="subcategories.html" class="nav-link active">Explore Case Studies</a>
+        <a href="about.html" class="nav-link">Verification Checklist & Sources</a>
+        <a href="about.html#audit-section" class="nav-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>
+          </svg>
+          Audit Progress
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Header & Breadcrumbs -->
+  <div style="background-color: var(--bg-surface); border-bottom: 1px solid var(--border-subtle); padding: 1.5rem 0 2rem;">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb navigation">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-separator">/</span>
+        <a href="subcategories.html" id="breadcrumbCat">Case Studies</a>
+        <span class="breadcrumb-separator">/</span>
+        <span class="breadcrumb-current" id="breadcrumbSubcat" style="display: none;">Subcategory</span>
+      </nav>
+
+      <h1 class="hero-title" id="explorerTitle" style="font-size: 2.25rem; margin-bottom: 0.5rem;">
+        Environmental Case Studies Archive
+      </h1>
+      <p class="hero-lead" id="explorerDesc" style="margin-bottom: 1.5rem; font-size: 1.05rem;">
+        Filter verified environmental events by specialized subcategory, geographic location, event year, and source verification state.
+      </p>
+
+      <!-- Subcategory Tabs / Pills -->
+      <div class="subcategory-pills-bar" id="subcategoryPillsContainer">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Explorer Body -->
+  <main class="container" style="padding-top: 2rem; padding-bottom: 4rem;">
+    <!-- Multifaceted Filter Bar -->
+    <div class="search-filter-wrapper" style="margin-bottom: 2rem;">
+      <div class="search-main-row">
+        <div class="search-input-group">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+          <input type="text" id="explorerSearchInput" class="search-input" placeholder="Search title, impact keywords, river basin, district, or cause...">
+        </div>
+      </div>
+
+      <div class="filter-row">
+        <span class="filter-label">Filter By:</span>
+
+        <select id="filterCategory" class="select-filter" aria-label="Select Main Category">
+          <option value="all">All Topics</option>
+        </select>
+
+        <select id="filterSubcategory" class="select-filter" aria-label="Select Subcategory">
+          <option value="all">All Subcategories</option>
+        </select>
+
+        <select id="filterLocation" class="select-filter" aria-label="Select Location">
+          <option value="all">All Locations</option>
+        </select>
+
+        <select id="filterYear" class="select-filter" aria-label="Select Year">
+          <option value="all">All Years</option>
+        </select>
+
+        <select id="filterVerification" class="select-filter" aria-label="Select Verification Status">
+          <option value="all">All Verification States</option>
+          <option value="Verified - Official Record">Verified - Official Record</option>
+          <option value="Documented - In Review">Documented - In Review</option>
+          <option value="Needs verification">Needs verification</option>
+        </select>
+
+        <button type="button" class="btn-reset-filters" id="btnResetExplorerFilters">Reset All</button>
+      </div>
+    </div>
+
+    <!-- Results Status Count Bar -->
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 0.5rem;">
+      <span id="resultsCountBadge" style="font-weight: 700; color: var(--color-primary-900); font-size: 1.05rem;">
+        Showing Case Studies...
+      </span>
+      <span style="font-size: 0.8125rem; color: var(--text-muted);">
+        Click any card to open full event dossier
+      </span>
+    </div>
+
+    <!-- Case Studies Grid Container -->
+    <div class="case-study-grid" id="caseStudiesContainer">
+      <div class="state-container" style="grid-column: 1 / -1;">
+        <div class="loading-spinner"></div>
+        <p class="state-desc">Loading case study entries...</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h3>Environmental Knowledge Hub</h3>
+          <p class="footer-desc">
+            A comprehensive collegiate database of verified disaster logs, ecological restorations, pollution investigations, and climate anomaly dossiers.
+          </p>
+        </div>
+
+        <div class="footer-column">
+          <h4>Navigate Sections</h4>
+          <ul class="footer-links">
+            <li><a href="index.html">Home Dashboard</a></li>
+            <li><a href="subcategories.html">All Case Studies</a></li>
+            <li><a href="about.html">Verification Checklist</a></li>
+            <li><a href="about.html#sources-directory">Official Sources Index</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Research Methodology</h4>
+          <ul class="footer-links">
+            <li><a href="about.html#verification-standards">Strict Verification Rules</a></li>
+            <li><a href="about.html#schema-definition">Case Study Schema</a></li>
+            <li><a href="about.html#audit-section">Live Progress Audit</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Verified Government Repositories</h4>
+          <ul class="footer-sources-list">
+            <li><a href="https://ndma.gov.in/" target="_blank" rel="noopener noreferrer">NDMA Official Site</a></li>
+            <li><a href="https://nidm.gov.in/CaseStudies.asp" target="_blank" rel="noopener noreferrer">NIDM Case Studies Archive</a></li>
+            <li><a href="https://cpcb.nic.in/" target="_blank" rel="noopener noreferrer">Central Pollution Control Board</a></li>
+            <li><a href="https://moef.gov.in/" target="_blank" rel="noopener noreferrer">MoEFCC Portal</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2026 Environmental Knowledge Hub • Empirical Open Educational Resource
+        </div>
+        <div>
+          <a href="about.html">Source Verification Protocol</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/icons.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/subcategories.js"></script>
+</body>
+</html>

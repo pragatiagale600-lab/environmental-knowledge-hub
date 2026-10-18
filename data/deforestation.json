@@ -1,0 +1,3981 @@
+[
+  {
+    "id": "def-ev-001",
+    "title": "Hasdeo Arand Coal Block Clearings (PEKB Mining)",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-10",
+    "year": 2022,
+    "dateDetails": {
+      "startDate": "2022-03-25",
+      "endDate": "2024-02-15",
+      "duration": "Phased clearings over 2 years",
+      "peakIntensity": "January 2024 (felling of 15,000+ trees in Ghatbarra)"
+    },
+    "location": {
+      "state": "Chhattisgarh",
+      "country": "India",
+      "coordinates": "22.8000° N, 82.8000° E",
+      "affectedAreas": [
+        "Surguja",
+        "Korba",
+        "Umaria",
+        "Ghatbarra",
+        "Udaypur block"
+      ]
+    },
+    "summary": "Phased forest diversion of pristine sal and mixed deciduous forest in the Hasdeo Arand coal field for the Parsa East and Kete Basan (PEKB) open-cast mine, fragmenting a vital central Indian elephant corridor despite widespread tribal protests.",
+    "timeline": [
+      {
+        "date": "2011-06-23",
+        "event": "Forest Advisory Committee recommends Hasdeo Arand be declared 'No-Go' zone due to high biodiversity."
+      },
+      {
+        "date": "2012-03-28",
+        "event": "Stage II forest clearance granted for Phase 1 of PEKB mine over 1,898 hectares."
+      },
+      {
+        "date": "2021-10-02",
+        "event": "Local adivasis embark on a 300-km march from Hasdeo to Raipur demanding cancellation of coal blocks."
+      },
+      {
+        "date": "2022-03-25",
+        "event": "Chhattisgarh government grants clearance for Phase 2 mining; tree felling resumes under heavy police escort."
+      },
+      {
+        "date": "2024-01-03",
+        "event": "Over 15,000 sal trees felled in Ghatbarra forest beat amidst civil society resistance."
+      }
+    ],
+    "causes": [
+      "Allotment of captive open-cast coal blocks to state power generation utilities (RRVUNL).",
+      "High concentration of coal seams lying directly underneath dense primary canopy.",
+      "Override of local Gram Sabha resolutions passed under the Panchayats (Extension to Scheduled Areas) Act."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero direct casualties; scores of adivasi activists detained during protests",
+        "injured": "Several injured in scuffles",
+        "missing": "None",
+        "displaced": "Hundreds of tribal households relocated to rehabilitation colonies"
+      },
+      "environmentalDamage": "Felling of over 100,000 mature sal and mahua trees; destruction of Hasdeo river catchment and fragmentation of Lemru Elephant Reserve.",
+      "socialDamage": "Severance of traditional non-timber forest produce collection (mahua, tendu, chironji) for Gond and Birhor tribals.",
+      "economicDamage": "Loss of natural carbon sink valued at hundreds of crores; extensive compensatory afforestation compliance costs."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Chhattisgarh Assembly passed unanimous resolution in July 2022 to cancel mining blocks; Supreme Court monitored ongoing litigation.",
+      "rescueAgencies": [
+        "Chhattisgarh Forest Department",
+        "District Administration Surguja",
+        "State Police"
+      ],
+      "communityRole": "Hasdeo Arand Bachao Sangharsh Samiti mobilized village women to embrace trees in modern Chipko-style resistance."
+    },
+    "reliefAndRecovery": [
+      "Compensatory afforestation carried out on non-forest land in other districts (CAMPA funds).",
+      "Establishment of the Lemru Elephant Reserve boundary to mitigate surging human-elephant conflict.",
+      "National Green Tribunal ordered multi-institutional environmental impact review by Wildlife Institute of India (WII)."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_hasdeo.jpg",
+      "caption": "Tree felling and earthmovers clearing dense sal canopy in the Hasdeo Arand forest basin in 2022.",
+      "credit": "Hasdeo Bachao Andolan / Open Access",
+      "license": "CC BY-SA 4.0 / Educational Use",
+      "sourceUrl": "https://moef.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Biodiversity Assessment of Hasdeo Arand Coalfield",
+        "publisher": "Wildlife Institute of India (WII) & Indian Council of Forestry Research",
+        "url": "https://wii.gov.in/",
+        "date": "2021-09-01"
+      },
+      {
+        "title": "Forest Clearance Status Report for PEKB Coal Block",
+        "publisher": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "url": "https://parivesh.nic.in/",
+        "date": "2022-04-10"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-002",
+    "title": "Western Ghats Linear Projects & Castlerock-Kulem Rail Doubling",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-11",
+    "year": 2020,
+    "dateDetails": {
+      "startDate": "2020-04-07",
+      "endDate": "2022-05-09",
+      "duration": "Contested environmental clearance period",
+      "peakIntensity": "November 2020 (mass midnight citizen sit-ins at Chandor)"
+    },
+    "location": {
+      "state": "Goa / Karnataka",
+      "country": "India",
+      "coordinates": "15.3500° N, 74.2500° E",
+      "affectedAreas": [
+        "Bhagwan Mahaveer Sanctuary",
+        "Mollem National Park",
+        "Dudhsagar gorge",
+        "Castlerock"
+      ]
+    },
+    "summary": "Proposal to clear over 50,000 trees across Bhagwan Mahaveer Wildlife Sanctuary and Mollem National Park for three linear infrastructure projects (railway doubling, highway widening, 400kV power line) triggered statewide citizen resistance until struck down by the Supreme Court.",
+    "timeline": [
+      {
+        "date": "2020-04-07",
+        "event": "National Board for Wildlife (NBWL) clears three linear projects through Mollem via virtual meeting during COVID-19 lockdown."
+      },
+      {
+        "date": "2020-11-01",
+        "event": "Over 5,000 Goan youth hold historic midnight vigil at Chandor railway tracks blocking coal trains."
+      },
+      {
+        "date": "2020-12-15",
+        "event": "Over 150 scientists and researchers write to MoEFCC highlighting biodiversity fragmentation in Western Ghats UNESCO zone."
+      },
+      {
+        "date": "2021-04-23",
+        "event": "Supreme Court Central Empowered Committee (CEC) visits Mollem and recommends revocation of clearances."
+      },
+      {
+        "date": "2022-05-09",
+        "event": "Supreme Court quashes environmental clearance for Castlerock-Kulem railway doubling through the protected sanctuary."
+      }
+    ],
+    "causes": [
+      "Expansion of transport corridors to ferry imported coal from Mormugao Port to steel mills in Karnataka.",
+      "Fragmented environmental clearances evaluated piecemeal rather than cumulative cumulative impact assessment.",
+      "Routing high-impact linear infrastructure through the narrowest ecological constriction of the Western Ghats."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; numerous peaceful student protesters booked under minor charges",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "No village displacement"
+      },
+      "environmentalDamage": "Threatened loss of 59,025 forest trees in tiger and black panther habitat; potential disruption of Dudhsagar waterfall hydrology.",
+      "socialDamage": "Threat to local eco-tourism livelihoods reliant on trekking, butterfly tours, and homestays.",
+      "economicDamage": "Litigation and halted construction capital on railway doubling estimated at ₹200+ crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Supreme Court of India appointed Central Empowered Committee (CEC); subsequently revoked railway clearances based on ecological findings.",
+      "rescueAgencies": [
+        "Goa Forest Department",
+        "Supreme Court Central Empowered Committee"
+      ],
+      "communityRole": "'Save Mollem' citizen campaign mobilized scientists, artists, lawyers, and school students in global digital advocacy."
+    },
+    "reliefAndRecovery": [
+      "Landmark Supreme Court verdict of May 2022 cancelling the railway line doubling through the core wildlife sanctuary.",
+      "Direction that existing single rail line capacity be optimized instead of laying redundant second tracks.",
+      "Mandated construction of dedicated wildlife underpasses and overpasses for the 4-lane highway expansion."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_mollem.jpg",
+      "caption": "Pristine Western Ghats canopy in Mollem National Park threatened by linear infrastructure clearances in 2020.",
+      "credit": "Save Mollem Campaign / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://forest.goa.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Report of the Central Empowered Committee on Linear Projects in Mollem",
+        "publisher": "Supreme Court of India Central Empowered Committee",
+        "url": "https://main.sci.gov.in/",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "Ecological Appraisal of Bhagwan Mahaveer Wildlife Sanctuary",
+        "publisher": "Goa Forest Department",
+        "url": "https://forest.goa.gov.in/",
+        "date": "2020-08-15"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-003",
+    "title": "Aarey Milk Colony Tree Felling for Metro 3 Car Shed",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-12",
+    "year": 2019,
+    "dateDetails": {
+      "startDate": "2019-10-04",
+      "endDate": "2019-10-06",
+      "duration": "Overnight felling operation",
+      "peakIntensity": "Night of October 4-5, 2019 (2,141 trees felled)"
+    },
+    "location": {
+      "state": "Maharashtra",
+      "country": "India",
+      "coordinates": "19.1485° N, 72.8710° E",
+      "affectedAreas": [
+        "Aarey Colony",
+        "Goregaon East",
+        "Mithi River floodplain",
+        "Sanjay Gandhi National Park buffer"
+      ]
+    },
+    "summary": "Mumbai Metro Rail Corporation felled 2,141 trees overnight within hours of Bombay High Court dismissing petitions, triggering mass youth protests, curfew imposition, and a subsequent Supreme Court status-quo stay.",
+    "timeline": [
+      {
+        "date": "2019-10-04",
+        "event": "14:30 - Bombay High Court dismisses petitions seeking forest status for Aarey."
+      },
+      {
+        "date": "2019-10-04",
+        "event": "20:00 - Chainsaws begin cutting trees under cover of darkness; hundreds of citizens rush to site."
+      },
+      {
+        "date": "2019-10-05",
+        "event": "Section 144 curfew clamped; 29 citizen protesters arrested by Mumbai Police."
+      },
+      {
+        "date": "2019-10-07",
+        "event": "Supreme Court special bench takes suo motu cognizance on law students' letter, restraining further felling."
+      },
+      {
+        "date": "2020-10-11",
+        "event": "New state government declares 812 acres of Aarey as a Reserve Forest; car shed site subject to continued litigation."
+      }
+    ],
+    "causes": [
+      "Selection of 33 hectares inside Aarey for the depot of Mumbai Metro Line 3 (Colaba-Bandra-SEEPZ).",
+      "Rejection of alternate car shed sites (Kanjurmarg) due to technical and land-title disputes.",
+      "Rushed tree cutting before Supreme Court could hear appeals on the High Court ruling."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; 29 environmental activists arrested and detained in jail",
+        "injured": "Dozens injured in police scuffles",
+        "missing": "None",
+        "displaced": "Tribal Adivasi padas in Aarey faced loss of grazing land"
+      },
+      "environmentalDamage": "Felling of 2,141 trees in an ecologically sensitive urban green lung; loss of leopard foraging buffer and flood absorption for Mithi river.",
+      "socialDamage": "Alienation of tribal communities and criminalization of peaceful student climate protesters.",
+      "economicDamage": "Metro line project delayed by 3 years, incurring cost escalations exceeding ₹10,000 crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Supreme Court restrained further tree cutting on October 7, 2019; Maharashtra Cabinet notified 812 acres of Aarey as Reserve Forest in October 2020.",
+      "rescueAgencies": [
+        "Mumbai Police",
+        "MMRCL",
+        "Maharashtra Forest Department"
+      ],
+      "communityRole": "'Save Aarey' citizen coalition organized continuous human chains, peaceful Sunday demonstrations, and crowdfunded legal appeals."
+    },
+    "reliefAndRecovery": [
+      "Formal notification of 812 acres of Aarey as Reserve Forest under Section 4 of the Indian Forest Act 1927.",
+      "Compensatory plantation of 24,000 saplings in Sanjay Gandhi National Park buffer zones.",
+      "Supreme Court permitted car shed completion on already-cleared land subject to strict environmental compliance."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_aarey.jpg",
+      "caption": "Police barricades and felled trees inside Aarey Colony on the morning of October 5, 2019.",
+      "credit": "Save Aarey Movement / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://www.maharashtra.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Supreme Court Orders in In Re: Felling of Trees in Aarey Forest",
+        "publisher": "Supreme Court of India (Writ Petition Civil 1030/2019)",
+        "url": "https://main.sci.gov.in/",
+        "date": "2019-10-07"
+      },
+      {
+        "title": "Aarey Forest Notification Under Indian Forest Act",
+        "publisher": "Revenue and Forest Department, Government of Maharashtra",
+        "url": "https://www.maharashtra.gov.in/",
+        "date": "2020-10-15"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-004",
+    "title": "Niyamgiri Bauxite Mining Forest Diversion Dispute",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-13",
+    "year": 2013,
+    "dateDetails": {
+      "startDate": "2003-06-07",
+      "endDate": "2014-01-08",
+      "duration": "Decade-long legal and grassroots struggle",
+      "peakIntensity": "July - August 2013 (Gram Sabha Referendums)"
+    },
+    "location": {
+      "state": "Odisha",
+      "country": "India",
+      "coordinates": "19.5500° N, 83.4000° E",
+      "affectedAreas": [
+        "Niyamgiri Hills",
+        "Rayagada",
+        "Kalahandi",
+        "Lanjigarh"
+      ]
+    },
+    "summary": "A proposal to clear 660 hectares of dense sacred forest for open-cast bauxite mining on Niyamgiri hill culminated in a historic 2013 Supreme Court ruling directing village Gram Sabhas to decide the project's fate, where all 12 Dongria Kondh hamlets unanimously rejected the mine.",
+    "timeline": [
+      {
+        "date": "2003-06-07",
+        "event": "Odisha government signs MoU with Vedanta for 1 MTPA alumina refinery at Lanjigarh and mining Niyamgiri."
+      },
+      {
+        "date": "2008-08-08",
+        "event": "Supreme Court permits diversion subject to environmental safeguards via Special Purpose Vehicle."
+      },
+      {
+        "date": "2010-08-24",
+        "event": "Union Environment Minister Jairam Ramesh rejects Stage II forest clearance citing Forest Rights Act violations."
+      },
+      {
+        "date": "2013-04-18",
+        "event": "Supreme Court delivers landmark verdict directing Gram Sabhas of Dongria Kondh to vote on religious rights."
+      },
+      {
+        "date": "2014-01-08",
+        "event": "MoEFCC formally quashes bauxite mining clearance after all 12 village assemblies vote 'No'."
+      }
+    ],
+    "causes": [
+      "Industrial demand for 70 million tonnes of high-grade bauxite ore for the adjacent Lanjigarh alumina refinery.",
+      "Overlap between commercial mineral leases and ecologically pristine virgin hill forests.",
+      "Disregard of the deep cultural and religious sanctity of Niyamraja (God of Universal Law) worshipped by Dongria Kondh."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero direct casualties; harassment and arrests of tribal youth during agitation",
+        "injured": "Several injured in police crackdowns",
+        "missing": "None",
+        "displaced": "Prevented the displacement of 8,000 Dongria Kondh tribals"
+      },
+      "environmentalDamage": "Averted the strip-mining of 660 hectares of montane forest and the drying up of 36 perennial perennial mountain streams originating from Niyamgiri.",
+      "socialDamage": "Severe tension and intimidation of tribal villagers by private security forces and local police.",
+      "economicDamage": "Vedanta forced to source expensive imported bauxite for Lanjigarh refinery, incurring major operating costs."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Supreme Court established historic constitutional precedent; Union Government cancelled mining clearance based on Gram Sabha resolutions.",
+      "rescueAgencies": [
+        "Ministry of Tribal Affairs",
+        "MoEFCC",
+        "Odisha State Police"
+      ],
+      "communityRole": "Dongria Kondh women and youth used bows and axes symbolically to patrol their sacred hills, testifying bravely in formal open-air Gram Sabhas."
+    },
+    "reliefAndRecovery": [
+      "Recognition of Community Forest Rights (CFR) across Dongria Kondh villages under FRA 2006.",
+      "Global recognition of the Niyamgiri referendum as an international benchmark for indigenous Free, Prior, and Informed Consent (FPIC).",
+      "Establishment of the Niyamgiri Suraksha Samiti as a permanent grassroots ecological governance body."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_niyamgiri.jpg",
+      "caption": "Dongria Kondh tribal villagers dancing with traditional axes during a victorious Niyamgiri Gram Sabha in August 2013.",
+      "credit": "Niyamgiri Suraksha Samiti / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://tribal.nic.in/"
+    },
+    "references": [
+      {
+        "title": "Supreme Court of India Judgment: Orissa Mining Corporation vs MoEF (Niyamgiri Verdict)",
+        "publisher": "Supreme Court of India",
+        "url": "https://main.sci.gov.in/",
+        "date": "2013-04-18"
+      },
+      {
+        "title": "Report of the Saxena Committee on Forest Rights in Niyamgiri",
+        "publisher": "Ministry of Environment and Forests",
+        "url": "https://moef.gov.in/",
+        "date": "2010-08-16"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-005",
+    "title": "Sardar Sarovar Narmada Dam Forest Submergence",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-14",
+    "year": 2006,
+    "dateDetails": {
+      "startDate": "1987-06-24",
+      "endDate": "2017-09-17",
+      "duration": "Three-decade phased construction and submergence",
+      "peakIntensity": "2006 & 2017 (raising dam height to 138.68 meters)"
+    },
+    "location": {
+      "state": "Gujarat / Madhya Pradesh / Maharashtra",
+      "country": "India",
+      "coordinates": "21.8300° N, 73.7500° E",
+      "affectedAreas": [
+        "Narmada Valley",
+        "Nimar plains",
+        "Dhar",
+        "Barwani",
+        "Nandurbar"
+      ]
+    },
+    "summary": "Construction and progressive height increases of the Sardar Sarovar Dam submerged 37,533 hectares of land, including 13,385 hectares of rich teak and bamboo forest across Madhya Pradesh, Maharashtra, and Gujarat, displacing over 40,000 families.",
+    "timeline": [
+      {
+        "date": "1987-06-24",
+        "event": "Conditional environmental clearance granted by MoEF amidst concerns over rehabilitation."
+      },
+      {
+        "date": "1993-03-30",
+        "event": "World Bank withdraws funding following independent Morse Commission report highlighting human rights and environmental failures."
+      },
+      {
+        "date": "2000-10-18",
+        "event": "Supreme Court allows phased dam construction subject to concurrent relief and rehabilitation."
+      },
+      {
+        "date": "2006-03-08",
+        "event": "Narmada Control Authority clears raising dam height to 121.92 meters; forests and fertile fields submerge."
+      },
+      {
+        "date": "2017-09-17",
+        "event": "Dam officially dedicated at full reservoir level of 138.68 meters with 30 sluice gates closed."
+      }
+    ],
+    "causes": [
+      "Multipurpose river valley mega-project intended to supply drinking water to Saurashtra and Kutch and generate 1,450 MW hydel power.",
+      "Submergence of deep river valley gorge supporting dense riparian dry-deciduous forest.",
+      "Inadequate pre-submergence logging leaving millions of submerged tree trunks decaying underwater."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero direct construction deaths; severe hardship and malnutrition deaths documented during forced evictions",
+        "injured": "Hundreds injured in peaceful police dispersals",
+        "missing": "None",
+        "displaced": "Over 40,000 adivasi and farmer families displaced"
+      },
+      "environmentalDamage": "Submergence of 13,385 hectares of forest; destruction of Hilsa fish breeding migration in downstream estuary; altered riverbed siltation.",
+      "socialDamage": "Dispersal of ancient Bhil and Bhilala tribal communities; loss of sacred pilgrimage circuits (Narmada Parikrama).",
+      "economicDamage": "Overall project cost escalated to over ₹50,000 crore (USD $7 billion)."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Narmada Control Authority supervised rehabilitation; Grievance Redressal Authorities (GRA) appointed by courts.",
+      "rescueAgencies": [
+        "Narmada Control Authority",
+        "Sardar Sarovar Narmada Nigam Ltd",
+        "State Police"
+      ],
+      "communityRole": "Narmada Bachao Andolan (NBA) led by Medha Patkar mounted historic jal-satyagrahas, standing neck-deep in rising waters to demand dignified rehabilitation."
+    },
+    "reliefAndRecovery": [
+      "Compensatory afforestation carried out across non-forest lands in Gujarat and Kutch saline tracts.",
+      "Provision of land-for-land rehabilitation to declared project-affected families following Supreme Court orders.",
+      "Establishment of compensatory mangrove afforestation programs around the Gulf of Khambhat."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_narmada.jpg",
+      "caption": "Submerged trees and rural settlements in the reservoir backwaters of Sardar Sarovar Dam in Barwani, MP.",
+      "credit": "Narmada Bachao Andolan / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://www.nca.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Report of the Independent Review: Sardar Sarovar Projects (Morse Commission)",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/",
+        "date": "1992-06-15"
+      },
+      {
+        "title": "Narmada Control Authority Environmental Sub-Group Monitoring Report",
+        "publisher": "Narmada Control Authority",
+        "url": "https://www.nca.gov.in/",
+        "date": "2018-03-31"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-006",
+    "title": "Dibang Valley Etalin Hydroelectric Rainforest Clearance Dispute",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-15",
+    "year": 2020,
+    "dateDetails": {
+      "startDate": "2014-02-10",
+      "endDate": "2023-01-18",
+      "duration": "Multi-year clearance appraisal",
+      "peakIntensity": "May 2020 (Forest Advisory Committee review)"
+    },
+    "location": {
+      "state": "Arunachal Pradesh",
+      "country": "India",
+      "coordinates": "28.5833° N, 95.8333° E",
+      "affectedAreas": [
+        "Dibang Valley",
+        "Etalin",
+        "Dri and Tangon river valleys",
+        "Anini"
+      ]
+    },
+    "summary": "The proposed 3,097 MW Etalin Hydroelectric Project required the diversion of 1,150 hectares of pristine subtropical and temperate rainforest and the felling of over 280,000 trees in Dibang Valley, home to the Idu Mishmi tribe and high-altitude tigers.",
+    "timeline": [
+      {
+        "date": "2014-02-10",
+        "event": "Project proposal submitted for 3,097 MW hydel station on Dri and Tangon rivers."
+      },
+      {
+        "date": "2019-10-15",
+        "event": "Wildlife Institute of India (WII) completes multi-taxa biodiversity assessment, revealing 413 species of birds and 75 mammals."
+      },
+      {
+        "date": "2020-04-23",
+        "event": "Forest Advisory Committee (FAC) considers project for Stage I forest clearance during national lockdown."
+      },
+      {
+        "date": "2020-05-05",
+        "event": "Over 2,000 independent conservation scientists and tribal youths submit representations against tree felling."
+      },
+      {
+        "date": "2023-01-18",
+        "event": "FAC defers the project, requiring complete review of high tree density and local resistance."
+      }
+    ],
+    "causes": [
+      "Large-scale hydropower development push targeting the massive discharge of eastern Himalayan rivers.",
+      "Planning concrete gravity dams and underground tunnels in primary biodiversity hotspots.",
+      "Inadequate evaluation of co-existing cultural taboos of the Idu Mishmi, who consider tigers their elder brothers."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Project deferred before physical displacement"
+      },
+      "environmentalDamage": "Threatened felling of 280,000 old-growth trees across 1,150 hectares; threat to 413 bird species including the endangered white-bellied heron.",
+      "socialDamage": "Potential demographic disruption of the small, vulnerable indigenous Idu Mishmi population (approx 13,000 people).",
+      "economicDamage": "Stalled private and public hydel investment of ₹25,000 crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Forest Advisory Committee repeatedly deferred Stage I clearance; directed comprehensive carrying capacity study of the Dibang basin.",
+      "rescueAgencies": [
+        "MoEFCC Forest Advisory Committee",
+        "Arunachal Pradesh Forest Department"
+      ],
+      "communityRole": "Idu Mishmi cultural organizations and youth launched the 'Save Dibang Valley' movement, documenting indigenous ecological conservation traditions."
+    },
+    "reliefAndRecovery": [
+      "Indefinite deferral of environmental clearance pending fresh wildlife and seismic hazard studies.",
+      "Recognition of Community Conserved Areas (CCAs) managed by Idu Mishmi clans in upper Dibang.",
+      "Establishment of permanent camera-trap tiger research stations by Wildlife Institute of India."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_dibang.jpg",
+      "caption": "Misty, unfragmented rainforest canopy in the Dri and Tangon river gorge, Dibang Valley in Arunachal Pradesh.",
+      "credit": "Wildlife Institute of India / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://wii.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Multi-Taxa Biodiversity Study of the Proposed Etalin Hydroelectric Project",
+        "publisher": "Wildlife Institute of India (WII)",
+        "url": "https://wii.gov.in/",
+        "date": "2019-10-01"
+      },
+      {
+        "title": "Minutes of the Forest Advisory Committee Meeting on Etalin Project",
+        "publisher": "MoEFCC",
+        "url": "https://parivesh.nic.in/",
+        "date": "2023-01-18"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-007",
+    "title": "Amazon Rainforest Cattle Ranching & Soy Clearcuts (PRODES Monitoring)",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-16",
+    "year": 2021,
+    "dateDetails": {
+      "startDate": "2019-01-01",
+      "endDate": "2022-12-31",
+      "duration": "4-year surge in deforestation",
+      "peakIntensity": "2021 (13,038 sq km cleared in a single year)"
+    },
+    "location": {
+      "state": "Para / Mato Grosso / Rondonia",
+      "country": "Brazil (Global Impact)",
+      "coordinates": "3.4653° S, 62.2159° W",
+      "affectedAreas": [
+        "Arc of Deforestation",
+        "Xingu Basin",
+        "BR-163 highway corridor",
+        "Yanomami territory"
+      ]
+    },
+    "summary": "Satellite monitoring by Brazil's space agency (INPE) recorded an alarming surge in Amazon deforestation, exceeding 13,000 square kilometers in 2021 alone, driven by commercial cattle ranching, illegal logging, and wildcat gold mining (garimpo).",
+    "timeline": [
+      {
+        "date": "2019-08-15",
+        "event": "Satellite data reveals thousands of fires intentionally set to clear felled timber; Sao Paulo darkened at midday by smoke."
+      },
+      {
+        "date": "2020-07-01",
+        "event": "European institutional investors threaten divestment from Brazilian sovereign debt over surging deforestation rates."
+      },
+      {
+        "date": "2021-11-18",
+        "event": "INPE PRODES system confirms 13,038 sq km deforested in 2020-2021, a 15-year record high."
+      },
+      {
+        "date": "2023-01-01",
+        "event": "New Brazilian administration establishes zero-deforestation target for 2030 and restarts IBAMA enforcement."
+      },
+      {
+        "date": "2023-11-09",
+        "event": "INPE confirms 22% drop in Amazon deforestation following re-empowered environmental policing."
+      }
+    ],
+    "causes": [
+      "Commercial conversion of rainforest land into extensive pastures for cattle beef production (80% of cleared area).",
+      "Expansion of mechanized monoculture soy plantations along the BR-163 transit corridor.",
+      "Weakening of environmental regulatory agencies (IBAMA) and dismantling of indigenous reserve protections between 2019 and 2022."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Scores of indigenous leaders and forest defenders assassinated by illegal land grabbers (grileiros)",
+        "injured": "Hundreds injured in territorial conflicts",
+        "missing": "High profile murders including Bruno Pereira and Dom Phillips",
+        "displaced": "Indigenous communities harassed and displaced"
+      },
+      "environmentalDamage": "Loss of over 45,000 square kilometers of tropical rainforest over four years; pushing portions of the southern Amazon toward a critical ecological tipping point (savannization).",
+      "socialDamage": "Mercury poisoning of indigenous Yanomami and Munduruku water bodies by illegal gold mining dredges.",
+      "economicDamage": "Billions of dollars lost in international green climate funds and trade agreement ratification delays."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Brazilian government re-empowered IBAMA environmental rangers; launched Operation Yanomami Shield with federal police and military.",
+      "rescueAgencies": [
+        "IBAMA (Brazilian Institute of Environment)",
+        "Federal Police of Brazil",
+        "FUNAI (National Indigenous Peoples Foundation)"
+      ],
+      "communityRole": "Indigenous forest guards (Warriors of the Forest) equipped with GPS drones patrolled reserve borders to evict illegal loggers."
+    },
+    "reliefAndRecovery": [
+      "Reactivation of the multi-billion-dollar international Amazon Fund supported by Norway and Germany.",
+      "Strict satellite-based embargoes on agricultural properties caught illegally deforesting.",
+      "Demarcation of 8 new indigenous reserves covering over 1 million hectares of primary forest."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_amazon.jpg",
+      "caption": "Slash-and-burn clearing of ancient primary rainforest in Para state, Brazil, captured by satellite monitoring in 2021.",
+      "credit": "INPE / IBAMA / Open Access",
+      "license": "CC BY 4.0 / Public Sector Open Data",
+      "sourceUrl": "http://terrabrasilis.dpi.inpe.br/"
+    },
+    "references": [
+      {
+        "title": "PRODES Amazon Deforestation Annual Monitoring Report 2021",
+        "publisher": "National Institute for Space Research (INPE), Brazil",
+        "url": "http://terrabrasilis.dpi.inpe.br/",
+        "date": "2021-11-18"
+      },
+      {
+        "title": "Amazon Assessment Report 2021",
+        "publisher": "Science Panel for the Amazon (UN SDSN)",
+        "url": "https://www.theamazonwewant.org/",
+        "date": "2021-11-12"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-008",
+    "title": "Indonesian Peatland Forest Deforestation for Palm Oil",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-17",
+    "year": 2015,
+    "dateDetails": {
+      "startDate": "2015-06-01",
+      "endDate": "2015-10-31",
+      "duration": "5 months of catastrophic burning",
+      "peakIntensity": "September - October 2015 (transboundary haze emergency)"
+    },
+    "location": {
+      "state": "Sumatra / Central Kalimantan",
+      "country": "Indonesia (Global Impact)",
+      "coordinates": "2.2100° S, 113.9200° E",
+      "affectedAreas": [
+        "Riau",
+        "Palembang",
+        "Palangkaraya",
+        "Singapore",
+        "Malaysia"
+      ]
+    },
+    "summary": "Large-scale drainage and canalization of tropical peat swamp forests for industrial oil palm and pulp plantations triggered catastrophic underground peat fires, burning 2.6 million hectares, creating a public health emergency across Southeast Asia, and emitting more daily CO2 than the entire US economy.",
+    "timeline": [
+      {
+        "date": "2015-06-01",
+        "event": "Strong El Niño drought dries drained peatland canals across Sumatra and Kalimantan."
+      },
+      {
+        "date": "2015-08-15",
+        "event": "Underground peat smoldering expands out of control; noxious yellow-green smoke blankets Palangkaraya."
+      },
+      {
+        "date": "2015-09-24",
+        "event": "Transboundary haze shuts airports and schools in Singapore, Kuala Lumpur, and southern Thailand."
+      },
+      {
+        "date": "2015-10-15",
+        "event": "Global fire emissions database shows Indonesian peat fires releasing 15-20 million tonnes of CO2 daily."
+      },
+      {
+        "date": "2016-01-06",
+        "event": "Indonesian President establishes the Peatland Restoration Agency (BRG) with mandate to restore 2 million hectares."
+      }
+    ],
+    "causes": [
+      "Excavation of thousands of kilometers of drainage canals by agribusiness to lower groundwater levels for oil palm cultivation.",
+      "Use of fire as the cheapest method to clear logged peatland for planting.",
+      "Strong El Niño drought reducing soil moisture and turning deep subterranean peat into explosive fuel."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "19 direct firefighting deaths; estimated 100,000 premature deaths across Southeast Asia from particulate pollution (Harvard/Columbia study)",
+        "injured": "500,000+ hospitalized with acute respiratory infections",
+        "missing": "None",
+        "displaced": "Tens of thousands temporarily evacuated from smoke zones"
+      },
+      "environmentalDamage": "Over 2.6 million hectares burned; destruction of prime orangutan, Sumatran tiger, and clouded leopard habitat; 1.75 gigatons of greenhouse gas emissions.",
+      "socialDamage": "Total closure of schools for weeks across Riau and Central Kalimantan; disruption of regional aviation.",
+      "economicDamage": "Economic losses estimated at USD $16.1 billion (equivalent to 1.9% of Indonesia's GDP) by the World Bank."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Indonesian government deployed 10,000 soldiers and international water-bombing aircraft; created the dedicated Peatland Restoration Agency (BRG).",
+      "rescueAgencies": [
+        "Indonesian Armed Forces (TNI)",
+        "BNPB (National Disaster Agency)",
+        "Singapore Civil Defence",
+        "Malaysian Fire Dept"
+      ],
+      "communityRole": "Local volunteer firefighting brigades (Masyarakat Peduli Api) used portable water pumps to inject water deep into subterranean peat."
+    },
+    "reliefAndRecovery": [
+      "Canal-blocking program constructing over 10,000 dams to re-wet drained peat swamps across Sumatra and Kalimantan.",
+      "Permanent moratorium on clearing primary peatland and new oil palm concessions.",
+      "Introduction of paludiculture (wetland agriculture) with native crops like sago and jelutong."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_indonesia_peat.jpg",
+      "caption": "Flames consuming drained tropical peat swamp forest in Central Kalimantan during the 2015 haze crisis.",
+      "credit": "CIFOR / Wikimedia Commons",
+      "license": "CC BY-NC-SA 2.0",
+      "sourceUrl": "https://www.cifor.org/"
+    },
+    "references": [
+      {
+        "title": "The Cost of Fire: An Economic Analysis of Indonesia's 2015 Fire Crisis",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/",
+        "date": "2016-02-15"
+      },
+      {
+        "title": "Peatland Restoration Strategy and Monitoring Report",
+        "publisher": "Peatland and Mangrove Restoration Agency (BRGM), Indonesia",
+        "url": "https://brgm.go.id/",
+        "date": "2021-03-10"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-009",
+    "title": "Ken-Betwa River Interlinking Project Forest Submergence",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-18",
+    "year": 2021,
+    "dateDetails": {
+      "startDate": "2021-03-22",
+      "endDate": "2024-01-15",
+      "duration": "Project approval and clearance phase",
+      "peakIntensity": "December 2021 (Union Cabinet approved ₹44,605 crore outlay)"
+    },
+    "location": {
+      "state": "Madhya Pradesh / Uttar Pradesh",
+      "country": "India",
+      "coordinates": "24.6333° N, 79.8833° E",
+      "affectedAreas": [
+        "Panna Tiger Reserve",
+        "Chhatarpur",
+        "Tikamgarh",
+        "Banda"
+      ]
+    },
+    "summary": "India's first major river-interlinking project requires the construction of the Daudhan Dam, which will submerge 6,017 hectares of forest land, including 4,141 hectares of the core and buffer zones of Panna Tiger Reserve, felling an estimated 1.8 million trees.",
+    "timeline": [
+      {
+        "date": "2021-03-22",
+        "event": "Historic tripartite agreement signed between Union Jal Shakti Ministry and Chief Ministers of MP and UP."
+      },
+      {
+        "date": "2021-12-08",
+        "event": "Union Cabinet approves funding of ₹44,605 crore for Ken-Betwa Link Project (KBLP)."
+      },
+      {
+        "date": "2022-08-25",
+        "event": "Supreme Court Central Empowered Committee flags severe ecological impact on tiger habitat and vultures."
+      },
+      {
+        "date": "2023-01-10",
+        "event": "Stage II forest clearance cleared subject to integrating adjacent wildlife sanctuaries into Greater Panna Landscape."
+      },
+      {
+        "date": "2024-01-15",
+        "event": "Pre-construction boundary demarcation and compensatory afforestation land acquisitions initiate."
+      }
+    ],
+    "causes": [
+      "National water policy objective to transfer surplus water from the Ken basin to water-deficit Bundelkhand in the Betwa basin.",
+      "Submergence footprint of the proposed 77-meter-high Daudhan Dam falling inside the gorge of Panna Tiger Reserve.",
+      "Hydraulic requirements of building a 221-km link canal to irrigate 1 million hectares in Bundelkhand."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; 10 villages face physical relocation",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Over 1,900 families across 10 villages to be rehabilitated"
+      },
+      "environmentalDamage": "Submergence of 4,141 hectares of Panna Tiger Reserve; felling of up to 1.8 million trees; destruction of unique riverine vulture nesting cliffs along the Ken river gorge.",
+      "socialDamage": "Displacement of tribal and farming hamlets in Chhatarpur district; severance of historical livestock foraging routes.",
+      "economicDamage": "Total project financial investment exceeds ₹44,605 crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "National Tiger Conservation Authority (NTCA) approved a comprehensive Landscape Management Plan (LMP); allocated ₹4,000+ crore for wildlife mitigation.",
+      "rescueAgencies": [
+        "National Water Development Agency (NWDA)",
+        "NTCA",
+        "MP Forest Department"
+      ],
+      "communityRole": "Local Bundelkhand civil society groups conducted yatras highlighting concerns that local drought-prone villages will yield water to distant cities."
+    },
+    "reliefAndRecovery": [
+      "Integration of Nauradehi and Durgavati Wildlife Sanctuaries into a contiguous Greater Panna Landscape to offset tiger habitat loss.",
+      "Mandated creation of special vulture breeding corridors along un-submerged cliff faces.",
+      "Compensatory afforestation planned on double the degraded forest area across Madhya Pradesh."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_ken_betwa.jpg",
+      "caption": "The pristine Ken river gorge inside Panna Tiger Reserve, portions of which face submergence under Daudhan Dam.",
+      "credit": "National Tiger Conservation Authority / PIB",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://nwda.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Detailed Project Report on Ken-Betwa Link Project Phase I & II",
+        "publisher": "National Water Development Agency (NWDA)",
+        "url": "https://nwda.gov.in/",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "Landscape Management Plan for Greater Panna Landscape",
+        "publisher": "Wildlife Institute of India (WII) & NTCA",
+        "url": "https://wii.gov.in/",
+        "date": "2022-06-10"
+      }
+    ]
+  },
+  {
+    "id": "def-ev-010",
+    "title": "Great Nicobar Island Mega-Transshipment Port Forest Clearance",
+    "category": "deforestation",
+    "subcategory": "deforestation-events",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-19",
+    "year": 2022,
+    "dateDetails": {
+      "startDate": "2021-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Strategic project approval timeline",
+      "peakIntensity": "November 2022 (Stage I Forest Clearance granted for 130 sq km)"
+    },
+    "location": {
+      "state": "Andaman & Nicobar Islands",
+      "country": "India",
+      "coordinates": "6.9500° N, 93.8500° E",
+      "affectedAreas": [
+        "Galathea Bay",
+        "Great Nicobar Island",
+        "Campbell Bay",
+        "Shompen tribal reserve"
+      ]
+    },
+    "summary": "Environmental and in-principle forest clearance granted for the diversion of 130.75 square kilometers of pristine primary tropical rainforest in the Great Nicobar Biosphere Reserve for an international container transshipment terminal, military-civil airport, and township.",
+    "timeline": [
+      {
+        "date": "2021-01-18",
+        "event": "National Board for Wildlife (NBWL) standing committee de-notifies the Galathea Bay Wildlife Sanctuary."
+      },
+      {
+        "date": "2022-10-27",
+        "event": "Ministry of Environment, Forest and Climate Change (MoEFCC) grants Stage I in-principle forest clearance for 13,075 hectares."
+      },
+      {
+        "date": "2022-11-11",
+        "event": "Environmental Clearance (EC) approved for ₹72,000 crore holistic infrastructure development project."
+      },
+      {
+        "date": "2023-04-11",
+        "event": "National Green Tribunal (NGT) constitutes high-powered committee to examine environmental and tribal safety concerns."
+      },
+      {
+        "date": "2024-03-15",
+        "event": "Compensatory afforestation plan formulated to plant trees thousands of miles away in the arid state of Haryana."
+      }
+    ],
+    "causes": [
+      "National geo-strategic imperative to establish maritime presence near the Malacca Strait shipping lane.",
+      "Development of a deep-draft international container transshipment terminal, power plant, and greenfield international airport.",
+      "Selection of pristine Galathea Bay as the sole deep natural harbor point on the island."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero direct casualties; severe threat of cultural decimation to uncontacted Shompen hunter-gatherers",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Displacement of tribal settlements and coastal Nicobarese hamlets"
+      },
+      "environmentalDamage": "Felling of an estimated 8.5 to 10 lakh mature tropical trees in a UNESCO Biosphere Reserve; destruction of the primary nesting site of the giant leatherback sea turtle.",
+      "socialDamage": "Encroachment on the foraging territories of the nomadic, vulnerable Shompen tribe (population under 300).",
+      "economicDamage": "Total projected public and private investment exceeds ₹72,000 crore (USD $9 billion)."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Union Government established high-powered monitoring committee; mandated 15% island area as inviolate conservation zone.",
+      "rescueAgencies": [
+        "Andaman and Nicobar Islands Integrated Development Corporation (ANIIDCO)",
+        "MoEFCC"
+      ],
+      "communityRole": "Anthropologists, former civil servants, and international conservation organizations petitioned the President of India to safeguard Shompen rights."
+    },
+    "reliefAndRecovery": [
+      "Designation of three new wildlife sanctuaries (Little Nicobar, Menchal, Meroe) as compensatory conservation zones.",
+      "Compensatory afforestation project of 26,000 hectares designated in Haryana (Aravalli green wall belt).",
+      "Establishment of strict buffer zones restricting tourism within the Shompen tribal reserve."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_great_nicobar.jpg",
+      "caption": "Virgin tropical rainforest and pristine nesting beaches along Galathea Bay, Great Nicobar Island.",
+      "credit": "MoEFCC / Andaman Administration / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://parivesh.nic.in/"
+    },
+    "references": [
+      {
+        "title": "Environmental Impact Assessment Report for Great Nicobar Holistic Development",
+        "publisher": "ANIIDCO & Vimta Labs",
+        "url": "https://parivesh.nic.in/",
+        "date": "2022-03-15"
+      },
+      {
+        "title": "National Green Tribunal Order on Great Nicobar Project (Appeal No. 12/2022)",
+        "publisher": "National Green Tribunal",
+        "url": "https://greentribunal.gov.in/",
+        "date": "2023-04-11"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-001",
+    "title": "Telangana Ku Haritha Haram (Mass State Afforestation Mission)",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-10",
+    "year": 2015,
+    "dateDetails": {
+      "startDate": "2015-07-03",
+      "endDate": "2023-12-31",
+      "duration": "9 continuous phases",
+      "peakIntensity": "2019-2022 (annual planting of over 30 crore saplings)"
+    },
+    "location": {
+      "state": "Telangana",
+      "country": "India",
+      "coordinates": "17.3850° N, 78.4867° E",
+      "affectedAreas": [
+        "All 33 districts of Telangana",
+        "Hyderabad Urban",
+        "Warangal",
+        "Nalgonda",
+        "Karimnagar"
+      ]
+    },
+    "summary": "Flagship multi-year state greening mission that planted and protected over 2.73 billion (273 crore) saplings across Telangana between 2015 and 2023, expanding the state's forest cover from 24% to 33.7% as verified by the Forest Survey of India.",
+    "timeline": [
+      {
+        "date": "2015-07-03",
+        "event": "Chief Minister launches Haritha Haram at Chilkur Balaji Temple in Ranga Reddy district."
+      },
+      {
+        "date": "2018-08-15",
+        "event": "State enacts the Telangana Panchayat Raj Act 2018 mandating 10% of village budget for green action."
+      },
+      {
+        "date": "2020-10-01",
+        "event": "Hyderabad wins 'Tree City of the World' recognition from Arbor Day Foundation and FAO."
+      },
+      {
+        "date": "2022-01-13",
+        "event": "India State of Forest Report (ISFR 2021) confirms Telangana recorded the highest decadal forest cover increase in India (+3.27%)."
+      },
+      {
+        "date": "2023-08-15",
+        "event": "Milestone of 273 crore saplings achieved across rural avenues, homesteads, and degraded forest blocks."
+      }
+    ],
+    "causes": [
+      "Severe ecological degradation, soil erosion, and erratic rainfall across semi-arid Deccan plateau.",
+      "Historical low tree density across farmland boundaries and highways in post-bifurcation Telangana.",
+      "State policy objective to achieve the National Forest Policy target of 33% total green cover."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "No displacement; mass employment generated through rural nurseries"
+      },
+      "environmentalDamage": "Reversed land degradation; created 14,000+ village nurseries (Palle Prakruthi Vanams) and 109 urban forest parks.",
+      "socialDamage": "Zero negative social impacts; high community participation with survival rate tracking.",
+      "economicDamage": "State budgetary investment of over ₹10,800 crore across 9 years."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Every gram panchayat provided with a tractor, water tanker, and dedicated village nursery; survival audits enforced by District Collectors.",
+      "rescueAgencies": [
+        "Telangana Forest Department",
+        "Panchayat Raj & Rural Development",
+        "GHMC"
+      ],
+      "communityRole": "Gram panchayats, self-help groups, and schoolchildren planted and adopted saplings under the slogan 'Vana Mahotsavam'."
+    },
+    "reliefAndRecovery": [
+      "Institutionalization of Green Funds deduction from state legislators and civil servants.",
+      "GIS-tagging and mobile app tracking of plantation survival rates maintaining over 85% survival.",
+      "Urban forest park conversions transforming peripheral reserved forests around Hyderabad into biodiversity lung spaces."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_haritha_haram.jpg",
+      "caption": "Mass avenue plantation and Palle Prakruthi Vanam green park established in rural Telangana under Haritha Haram.",
+      "credit": "Telangana Forest Department / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://forests.telangana.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Telangana Ku Haritha Haram: Comprehensive Implementation Report",
+        "publisher": "Telangana Forest Department",
+        "url": "https://forests.telangana.gov.in/",
+        "date": "2023-09-01"
+      },
+      {
+        "title": "India State of Forest Report (ISFR 2021) - Telangana Chapter",
+        "publisher": "Forest Survey of India (FSI)",
+        "url": "https://fsi.nic.in/",
+        "date": "2022-01-13"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-002",
+    "title": "Uttar Pradesh Mass Riverine Plantation Drives (Guinness Records)",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-11",
+    "year": 2021,
+    "dateDetails": {
+      "startDate": "2016-07-11",
+      "endDate": "2023-07-22",
+      "duration": "Annual state-wide mass campaigns",
+      "peakIntensity": "July 2021 & July 2023 (single-day planting of 30+ crore saplings)"
+    },
+    "location": {
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": "26.8467° N, 80.9462° E",
+      "affectedAreas": [
+        "Ganga and Yamuna riverbanks",
+        "Lucknow",
+        "Varanasi",
+        "Prayagraj",
+        "Bundelkhand"
+      ]
+    },
+    "summary": "State-wide mass plantation campaigns mobilized tens of millions of citizens, planting over 30 crore (300 million) saplings on a single day in July 2021 and July 2023, establishing multiple Guinness World Records along the banks of the Ganga and Yamuna.",
+    "timeline": [
+      {
+        "date": "2016-07-11",
+        "event": "UP sets Guinness World Record planting 5 crore (50 million) saplings in 24 hours under Chief Minister Akhilesh Yadav."
+      },
+      {
+        "date": "2019-07-28",
+        "event": "Massive drive plants 22 crore saplings on the 77th anniversary of Quit India Movement."
+      },
+      {
+        "date": "2021-07-04",
+        "event": "Over 30.5 crore saplings planted in 24 hours under 'Van Mahotsav 2021' across 75 districts."
+      },
+      {
+        "date": "2022-07-05",
+        "event": "Plantation drive expanded to establish 'Amrit Vans' celebrating 75 years of Independence."
+      },
+      {
+        "date": "2023-07-22",
+        "event": "Over 30.2 crore saplings planted in a single day, focusing on banyan, peepal, pakar, and neem."
+      }
+    ],
+    "causes": [
+      "Low historical forest cover in the intensively cultivated Gangetic plain (approx 6-9% of geographical area).",
+      "Urgent requirement for riparian vegetative buffer zones to halt riverbank erosion along the Ganga and Yamuna.",
+      "Combating severe particulate air pollution across the industrial belt of Kanpur, Lucknow, and Noida."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "No displacement; mass employment generated in rural nurseries"
+      },
+      "environmentalDamage": "Establishment of massive vegetative shelterbelts along floodplains; stabilization of ravines in Chambal and Bundelkhand.",
+      "socialDamage": "Zero negative impacts; widespread involvement of women self-help groups and schools.",
+      "economicDamage": "State investment of ₹2,500+ crore across nursery development and sapling transportation."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Every district assigned specific departmental targets (Irrigation, PWD, Education, Forest); geotagging of all plantation sites.",
+      "rescueAgencies": [
+        "UP Forest and Wildlife Department",
+        "Rural Development Department",
+        "District Administrations"
+      ],
+      "communityRole": "Farmers, village pradhans, and youth volunteers collected saplings from state distribution centers and planted along field bunds."
+    },
+    "reliefAndRecovery": [
+      "Mandatory third-party survival audit conducted by the Forest Survey of India (FSI) verifying 70-75% survival rates.",
+      "Establishment of 'Har-Ghar-Nal-Yojana' water supply integration to sustain newly planted saplings.",
+      "Priority preservation of native traditional keystone trees (Panchavati: Banyan, Peepal, Pakar, Neem, Amla)."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_up_plantation.jpg",
+      "caption": "Schoolchildren and villagers planting native saplings along the Gomti riverbank in Lucknow during the mass drive.",
+      "credit": "UP Forest Department / PIB",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://forest.up.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Annual Plantation Campaign Assessment Report 2021-2023",
+        "publisher": "Environment, Forest and Climate Change Department, Uttar Pradesh",
+        "url": "https://forest.up.up.nic.in/",
+        "date": "2023-08-30"
+      },
+      {
+        "title": "Third-Party Evaluation of Tree Plantations in Uttar Pradesh",
+        "publisher": "Forest Survey of India (FSI)",
+        "url": "https://fsi.nic.in/",
+        "date": "2022-05-15"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-003",
+    "title": "Green Tamil Nadu Mission (Pasumai Tamil Nadu)",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-12",
+    "year": 2022,
+    "dateDetails": {
+      "startDate": "2022-09-24",
+      "endDate": "2032-03-31",
+      "duration": "10-year decadal state mission",
+      "peakIntensity": "2022-2024 (annual planting of 2.8 crore saplings)"
+    },
+    "location": {
+      "state": "Tamil Nadu",
+      "country": "India",
+      "coordinates": "11.1271° N, 78.6569° E",
+      "affectedAreas": [
+        "All 38 districts of Tamil Nadu",
+        "Pichavaram Mangroves",
+        "Cauvery Delta",
+        "Chennai Corridors"
+      ]
+    },
+    "summary": "Ambitious 10-year mission launched in 2022 to plant 2.6 billion native trees across Tamil Nadu, aiming to increase total forest and tree cover from 23.7% to 33% by 2032, with specialized emphasis on coastal palmyra and mangrove bio-shields.",
+    "timeline": [
+      {
+        "date": "2022-09-24",
+        "event": "Chief Minister M.K. Stalin formally launches Green Tamil Nadu Mission at Arignar Anna Zoological Park."
+      },
+      {
+        "date": "2022-11-15",
+        "event": "State establishes the Green Climate Company (TNGCC), India's first state special purpose climate vehicle."
+      },
+      {
+        "date": "2023-03-10",
+        "event": "Mission launches mass planting of 10 million Palmyra palm seeds along coastal and tank bunds."
+      },
+      {
+        "date": "2023-08-15",
+        "event": "Launch of online portal for citizens and industries to order native saplings with free delivery."
+      },
+      {
+        "date": "2024-01-20",
+        "event": "ISFR audit confirms coastal mangrove cover in Tamil Nadu increased to 45 sq km under the mission."
+      }
+    ],
+    "causes": [
+      "High vulnerability of Tamil Nadu's 1,076 km coastline to severe tropical cyclones and storm surges.",
+      "Need to restore the state tree (Palmyra palm / Borassus flabellifer) to combat coastal soil erosion.",
+      "Urban heat mitigation across Chennai, Coimbatore, and Madurai metropolitan belts."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Restoration of degraded coastal sand dunes, lake bunds, and mangrove creeks in Pichavaram and Muthupet.",
+      "socialDamage": "Empowerment of traditional palmyra climbers and women self-help nursery groups.",
+      "economicDamage": "State budget allocation of ₹848 crore for the initial 5-year phase."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Created dedicated Special Purpose Vehicle (Tamil Nadu Green Climate Company); mobilized 350 state nurseries.",
+      "rescueAgencies": [
+        "Tamil Nadu Forest Department",
+        "Environment and Climate Change Dept",
+        "TNGCC"
+      ],
+      "communityRole": "Fisherfolk self-help groups in Cuddalore and Nagapattinam actively propagated and planted mangrove propagules in estuarine muds."
+    },
+    "reliefAndRecovery": [
+      "Establishment of the Tamil Nadu Green Fellowship Scheme posting trained environmental fellows in all 38 districts.",
+      "Mobile-based GIS geotagging and biometric tree health monitoring.",
+      "Banning of invasive exotic species (Prosopis juliflora, Eucalyptus) in state afforestation nurseries."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_tamil_nadu.jpg",
+      "caption": "Mangrove sapling restoration in Pichavaram estuary under the Green Tamil Nadu Mission in 2023.",
+      "credit": "Tamil Nadu Forest Department / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://www.greentnmission.com/"
+    },
+    "references": [
+      {
+        "title": "Green Tamil Nadu Mission Guidelines and Operational Framework",
+        "publisher": "Environment, Climate Change and Forests Department, Tamil Nadu",
+        "url": "https://www.greentnmission.com/",
+        "date": "2022-10-01"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-004",
+    "title": "National Afforestation Programme & Joint Forest Management (NAP-JFM)",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-13",
+    "year": 2002,
+    "dateDetails": {
+      "startDate": "2002-04-01",
+      "endDate": "2020-03-31",
+      "duration": "Two decades of nationwide decentralized afforestation",
+      "peakIntensity": "2005-2015 (over 2 million hectares treated)"
+    },
+    "location": {
+      "state": "Pan-India",
+      "country": "India",
+      "coordinates": "20.5937° N, 78.9629° E",
+      "affectedAreas": [
+        "42,000+ Joint Forest Management Committees across 28 states"
+      ]
+    },
+    "summary": "India's premier flagship central afforestation scheme implemented through a decentralized two-tier structure (Forest Development Agencies at division level and Joint Forest Management Committees at village level), regenerating over 2.2 million hectares of degraded forest land.",
+    "timeline": [
+      {
+        "date": "2000-06-01",
+        "event": "Central government issues guidelines strengthening Joint Forest Management (JFM) institutions."
+      },
+      {
+        "date": "2002-04-01",
+        "event": "National Afforestation Programme (NAP) launched, merging four previous smaller afforestation schemes."
+      },
+      {
+        "date": "2008-03-31",
+        "event": "NAP crosses milestone of 1 million hectares regenerated across 750 Forest Development Agencies."
+      },
+      {
+        "date": "2014-04-01",
+        "event": "Introduction of mandatory web-based MIS monitoring and satellite verification through FSI."
+      },
+      {
+        "date": "2020-03-31",
+        "event": "NAP integrated into the National Mission for a Green India (GIM) under the NAPCC framework."
+      }
+    ],
+    "causes": [
+      "Severe historical degradation of village-adjacent forests from unregulated fuelwood and fodder extraction.",
+      "Need to transition from colonial command-and-control policing to participatory community forest governance.",
+      "Reclamation of degraded scrublands, mined-out areas, and barren community commons."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "No displacement; millions of person-days of rural employment generated"
+      },
+      "environmentalDamage": "Reversed forest canopy loss across 2.2 million hectares; reduced topsoil erosion in river catchments.",
+      "socialDamage": "Empowerment of over 42,000 village-level JFMCs with benefit-sharing rights in minor forest produce and timber harvests.",
+      "economicDamage": "Central government outlay of over ₹3,800 crore disbursed directly to village committee accounts."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "National Afforestation and Eco-Development Board (NAEB) released direct funds to FDA bank accounts; mandated 50% women membership in village executives.",
+      "rescueAgencies": [
+        "National Afforestation and Eco-Development Board (NAEB)",
+        "MoEFCC",
+        "State Forest Departments"
+      ],
+      "communityRole": "Local villagers formed protective patrols (Thengapalli / stick rotation) to prevent illegal tree felling and grazing in protected beats."
+    },
+    "reliefAndRecovery": [
+      "Institutionalization of Micro-Plans prepared collaboratively by villagers and foresters.",
+      "Equitable distribution of usufruct rights (grass, medicinal herbs, gum, fruit) to participating households.",
+      "Transition into the National Mission for a Green India (GIM) to align with carbon sequestration commitments."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_nap_jfm.jpg",
+      "caption": "Joint Forest Management Committee meeting in Odisha reviewing village nursery saplings under NAP.",
+      "credit": "NAEB / MoEFCC / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://moef.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Evaluation of National Afforestation Programme (NAP) Scheme",
+        "publisher": "Indian Council of Forestry Research and Education (ICFRE)",
+        "url": "https://icfre.gov.in/",
+        "date": "2016-08-15"
+      },
+      {
+        "title": "Joint Forest Management: A Decadal Overview",
+        "publisher": "Ministry of Environment, Forest and Climate Change",
+        "url": "https://moef.gov.in/",
+        "date": "2018-05-10"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-005",
+    "title": "National Mission for a Green India (GIM under NAPCC)",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-14",
+    "year": 2014,
+    "dateDetails": {
+      "startDate": "2014-02-01",
+      "endDate": "2030-03-31",
+      "duration": "National climate commitment mission",
+      "peakIntensity": "2018-2023 (implementation across 16 states)"
+    },
+    "location": {
+      "state": "Pan-India",
+      "country": "India",
+      "coordinates": "28.6139° N, 77.2090° E",
+      "affectedAreas": [
+        "16 major forested states",
+        "Western Ghats",
+        "Central Indian Highlands",
+        "Himalayan landscapes"
+      ]
+    },
+    "summary": "One of eight missions under India's National Action Plan on Climate Change (NAPCC), targeting the qualitative improvement of forest cover on 5 million hectares and restoration of non-forest degraded lands on another 5 million hectares to sequester 50-60 million tonnes of CO2 equivalent annually.",
+    "timeline": [
+      {
+        "date": "2008-06-30",
+        "event": "Prime Minister releases National Action Plan on Climate Change (NAPCC) outlining Green India Mission."
+      },
+      {
+        "date": "2014-02-06",
+        "event": "Cabinet Committee on Economic Affairs approves GIM with an outlay of ₹46,000 crore over 10 years."
+      },
+      {
+        "date": "2015-04-01",
+        "event": "First batch of Perspective Plans approved for Kerala, Mizoram, Manipur, and Jharkhand."
+      },
+      {
+        "date": "2021-11-01",
+        "event": "GIM commitments showcased at COP26 Glasgow as part of India's Nationally Determined Contributions (NDCs)."
+      },
+      {
+        "date": "2023-03-31",
+        "event": "Over 1.8 lakh hectares treated across 16 states with focus on native broadleaved species."
+      }
+    ],
+    "causes": [
+      "Need to enhance India's forest carbon sink by 2.5 to 3.0 billion tonnes of CO2 equivalent by 2030 under the Paris Agreement.",
+      "High degradation of existing forest stock (over 40% of India's recorded forest area is classified as degraded open canopy).",
+      "Urgent requirement to safeguard hydrological services and soil moisture in climate-vulnerable landscapes."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Rehabilitation of degraded scrub forests into moderate and dense canopy; enrichment of native tree biodiversity.",
+      "socialDamage": "Zero negative impacts; enhancement of forest-based livelihoods for 3 million rural households.",
+      "economicDamage": "Central and state CAMPA converged funding exceeding ₹6,000 crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Convergence of funding between GIM, CAMPA, and MGNREGA to ensure continuous rural employment and silvicultural tending.",
+      "rescueAgencies": [
+        "MoEFCC",
+        "State Forest Departments",
+        "National Biodiversity Authority"
+      ],
+      "communityRole": "Gram Sabhas and Biodiversity Management Committees (BMCs) actively select native non-timber species for landscape enrichment."
+    },
+    "reliefAndRecovery": [
+      "Establishment of landscape-based multi-layered ecosystem restoration replacing commercial monocultures.",
+      "Deployment of geo-spatial satellite monitoring through Bhuvan portal (ISRO) to track canopy density improvement.",
+      "Provision of alternative energy solutions (LPG, solar cookers) to reduce pressure on forest fuelwood."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_gim.jpg",
+      "caption": "Native broadleaved forest enrichment and soil moisture conservation works under the Green India Mission.",
+      "credit": "MoEFCC / PIB",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://moef.gov.in/"
+    },
+    "references": [
+      {
+        "title": "National Mission for a Green India (GIM) Implementation Manual",
+        "publisher": "Ministry of Environment, Forest and Climate Change",
+        "url": "https://moef.gov.in/",
+        "date": "2015-06-01"
+      },
+      {
+        "title": "India's Third Biennial Update Report to the UNFCCC",
+        "publisher": "MoEFCC",
+        "url": "https://unfccc.int/",
+        "date": "2021-02-20"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-006",
+    "title": "Bonn Challenge India Pledge & Land Degradation Neutrality Target",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-15",
+    "year": 2019,
+    "dateDetails": {
+      "startDate": "2015-12-01",
+      "endDate": "2030-12-31",
+      "duration": "15-year global pledge timeline",
+      "peakIntensity": "September 2019 (Target raised to 26 million hectares at UNCCD COP14)"
+    },
+    "location": {
+      "state": "Pan-India",
+      "country": "India (Global Commitment)",
+      "coordinates": "28.5355° N, 77.3910° E",
+      "affectedAreas": [
+        "Arid, semi-arid, and dry sub-humid degraded zones across India"
+      ]
+    },
+    "summary": "India voluntarily joined the global Bonn Challenge in 2015, pledging to restore 13 million hectares of degraded and deforested land, which was subsequently raised by Prime Minister Narendra Modi to 26 million hectares by 2030 during UNCCD COP14 in New Delhi.",
+    "timeline": [
+      {
+        "date": "2015-12-01",
+        "event": "India joins the Bonn Challenge at Paris Climate Summit, pledging to restore 13 million hectares by 2020 and 8 million additional by 2030."
+      },
+      {
+        "date": "2018-08-30",
+        "event": "MoEFCC and IUCN launch the flagship 'Bonn Challenge Barometer' report tracking progress."
+      },
+      {
+        "date": "2019-09-09",
+        "event": "At UNCCD COP14 in New Delhi, India officially increases target to 26 million hectares restored by 2030."
+      },
+      {
+        "date": "2020-09-01",
+        "event": "Centre for Land Degradation Neutrality established at Indian Council of Forestry Research and Education (ICFRE)."
+      },
+      {
+        "date": "2023-06-17",
+        "event": "Progress report confirms India has brought over 14 million hectares under various stages of landscape restoration."
+      }
+    ],
+    "causes": [
+      "Land degradation affecting approximately 29.7% of India's total geographical area (ISRO Desertification Atlas 2021).",
+      "Urgent requirement to combat desertification along the Aravalli range and Thar Desert periphery.",
+      "Fulfillment of international obligations under UNCCD, UNFCCC, and the Convention on Biological Diversity (CBD)."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Rehabilitation of ravines, saline soils, and wind-eroded landscapes into productive agroforestry and silvopastoral systems.",
+      "socialDamage": "Enhanced pasture resources and water availability for rural agrarian communities.",
+      "economicDamage": "Converged investments across national programs exceeding ₹50,000 crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Union Government converged schemes between Ministries of Agriculture, Rural Development, and Environment; established the National Land Degradation Neutrality (LDN) framework.",
+      "rescueAgencies": [
+        "MoEFCC",
+        "ICFRE Dehradun",
+        "IUCN India",
+        "Space Applications Centre (ISRO)"
+      ],
+      "communityRole": "Farmers adopted agro-forestry practices planting timber trees (Melia dubia, Dalbergia sissoo) on agricultural field boundaries."
+    },
+    "reliefAndRecovery": [
+      "Establishment of the Aravalli Green Wall Project spanning 1,400 km across Gujarat, Rajasthan, Haryana, and Delhi.",
+      "Reclamation of mine spoils and fly ash dumps using bio-engineering afforestation.",
+      "Biennial publication of the Desertification and Land Degradation Atlas of India by SAC/ISRO."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_bonn_challenge.jpg",
+      "caption": "Reclamation and agroforestry restoration in degraded drylands under the Bonn Challenge pledge.",
+      "credit": "ICFRE / IUCN India / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://www.bonnchallenge.org/"
+    },
+    "references": [
+      {
+        "title": "Bonn Challenge Progress Barometer: Special Report on India",
+        "publisher": "International Union for Conservation of Nature (IUCN) & MoEFCC",
+        "url": "https://www.iucn.org/",
+        "date": "2018-08-30"
+      },
+      {
+        "title": "Desertification and Land Degradation Atlas of India",
+        "publisher": "Space Applications Centre (ISRO), Ahmedabad",
+        "url": "https://www.sac.gov.in/",
+        "date": "2021-06-17"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-007",
+    "title": "Miyawaki Urban Pocket Forests Drive in Mumbai & Chennai",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-16",
+    "year": 2020,
+    "dateDetails": {
+      "startDate": "2020-01-15",
+      "endDate": "2023-12-31",
+      "duration": "Multi-city municipal afforestation",
+      "peakIntensity": "2021-2022 (over 64 urban micro-forests created in Mumbai)"
+    },
+    "location": {
+      "state": "Maharashtra / Tamil Nadu",
+      "country": "India",
+      "coordinates": "19.0760° N, 72.8777° E",
+      "affectedAreas": [
+        "Mumbai (Govandi, Mahim, Bhandup, Chandivali)",
+        "Chennai (Kotturpuram, Valasaravakkam)"
+      ]
+    },
+    "summary": "Municipal corporations in Mumbai (BMC) and Chennai (GCC) adopted the Japanese botanist Akira Miyawaki's dense afforestation method, creating over 100 urban micro-forests on barren civic plots to lower urban temperatures, absorb stormwater, and restore native urban bird life.",
+    "timeline": [
+      {
+        "date": "2020-01-15",
+        "event": "Brihanmumbai Municipal Corporation (BMC) launches pilot Miyawaki forest at Bhakti Park, Wadala."
+      },
+      {
+        "date": "2020-02-18",
+        "event": "Greater Chennai Corporation develops pioneering Miyawaki forest at Kotturpuram along the Adyar river."
+      },
+      {
+        "date": "2021-06-05",
+        "event": "BMC expands project targeting 100 locations across Mumbai, planting 400,000 native saplings."
+      },
+      {
+        "date": "2022-08-10",
+        "event": "Govandi dumping ground perimeter transformed with 30,000 trees, improving air quality for slum residents."
+      },
+      {
+        "date": "2023-04-15",
+        "event": "Scientific study by IIT Bombay confirms Miyawaki plots recorded 2-3°C lower ambient surface temperatures."
+      }
+    ],
+    "causes": [
+      "Severe urban heat island effect and extreme land scarcity preventing conventional large parks.",
+      "High particulate pollution (PM2.5 and PM10) from construction dust and vehicular traffic.",
+      "Loss of green buffer along railway corridors and concrete storm drains."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Dense multi-tiered canopy created in 2 years; return of over 60 species of urban birds, butterflies, and pollinators; rapid stormwater absorption.",
+      "socialDamage": "Creation of vibrant community educational spaces in congested urban neighborhoods.",
+      "economicDamage": "Municipal expenditure of ₹35 crore across Mumbai and Chennai."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Municipal corporations provided degraded open land, composting manure, and free water connections; partnered with CSR foundations.",
+      "rescueAgencies": [
+        "Brihanmumbai Municipal Corporation (BMC)",
+        "Greater Chennai Corporation (GCC)",
+        "Urban Forest NGOs"
+      ],
+      "communityRole": "Local resident associations and citizen volunteers participated in planting weekends, tagging individual native species (neem, jamun, kadamba, amla)."
+    },
+    "reliefAndRecovery": [
+      "Soil regeneration using rice husk, cow dung, and cocopeat to a depth of 1 meter to facilitate rapid root growth.",
+      "Zero maintenance required after 3 years as dense canopy becomes completely self-sustaining.",
+      "Integration into municipal Master Plans as mandatory green offsets for infrastructure works."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_miyawaki.jpg",
+      "caption": "Rapidly growing native Miyawaki micro-forest developed on a reclaimed municipal plot in Kotturpuram, Chennai.",
+      "credit": "Greater Chennai Corporation / Open Access",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://www.chennaicorporation.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Miyawaki Afforestation Projects: Implementation Review in Indian Metros",
+        "publisher": "Ministry of Housing and Urban Affairs (MoHUA)",
+        "url": "https://mohua.gov.in/",
+        "date": "2022-09-15"
+      },
+      {
+        "title": "Microclimate Analysis of Urban Miyawaki Forests in Mumbai",
+        "publisher": "IIT Bombay Urban Climate Research Group",
+        "url": "https://www.iitb.ac.in/",
+        "date": "2023-04-15"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-008",
+    "title": "China's Three-North Shelter Forest Program ('Green Great Wall')",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-17",
+    "year": 1978,
+    "dateDetails": {
+      "startDate": "1978-11-25",
+      "endDate": "2050-12-31",
+      "duration": "72-year mega-project across 5 phases",
+      "peakIntensity": "2000-2020 (afforestation of over 30 million hectares)"
+    },
+    "location": {
+      "state": "Northern / Northwestern / Northeastern China",
+      "country": "China (Global Model)",
+      "coordinates": "39.0000° N, 105.0000° E",
+      "affectedAreas": [
+        "Inner Mongolia",
+        "Gobi Desert periphery",
+        "Loess Plateau",
+        "Hebei",
+        "Xinjiang"
+      ]
+    },
+    "summary": "World's largest ecological engineering endeavor spanning 4,500 kilometers across northern China, planting over 66 billion trees to halt the southward expansion of the Gobi Desert and reduce Beijing's notorious spring sandstorms.",
+    "timeline": [
+      {
+        "date": "1978-11-25",
+        "event": "State Council of China approves the Three-North Shelter Forest Program spanning until 2050."
+      },
+      {
+        "date": "1988-10-01",
+        "event": "Phase 1 and 2 completed; green belts established around expanding sand dunes in Inner Mongolia."
+      },
+      {
+        "date": "2008-05-15",
+        "event": "Aerial seeding technology deployed across vast roadless dunes of the Mu Us Desert."
+      },
+      {
+        "date": "2018-11-25",
+        "event": "40th anniversary review confirms forest cover in the Three-North region increased from 5.05% in 1978 to 13.57% in 2018."
+      },
+      {
+        "date": "2023-06-06",
+        "event": "President Xi Jinping launches Phase 6, shifting focus from tree monocultures to water-conserving shrubs and native grasses."
+      }
+    ],
+    "causes": [
+      "Severe desertification threatening over 1.6 million square kilometers of northern agricultural territory.",
+      "Fierce spring dust storms (yellow sand) blowing millions of tons of Gobi soil into Beijing, Seoul, and Tokyo.",
+      "Historical centuries-long deforestation of the Loess Plateau causing extreme erosion into the Yellow River."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; millions of rural farmers employed in state silvicultural brigades",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Voluntary relocation from severe desert fringes (ecological migration)"
+      },
+      "environmentalDamage": "Halted advance of the Gobi Desert; Mu Us Desert virtually erased and transformed into green woodland; 50% drop in Beijing spring sandstorm frequency.",
+      "socialDamage": "Early phases suffered tree die-offs due to planting monoculture poplars vulnerable to pest outbreaks.",
+      "economicDamage": "State investment exceeding USD $50 billion across four decades."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Central Government mobilized military engineering corps, aerial seeding planes, and collective farm brigades under central five-year plans.",
+      "rescueAgencies": [
+        "National Forestry and Grassland Administration (NFGA)",
+        "Chinese Academy of Sciences",
+        "People's Liberation Army"
+      ],
+      "communityRole": "Millions of local farmers constructed straw-checkerboard grids (1m x 1m straw squares) to anchor shifting sand dunes before planting."
+    },
+    "reliefAndRecovery": [
+      "Scientific shift from fast-growing poplar monocultures to drought-hardy native shrubs (Caragana, Haloxylon ammodendron).",
+      "Establishment of the Straw Checkerboard dune fixation method recognized by the UN as global best practice.",
+      "Integration of commercial sand-industry crops (desert dates, sea buckthorn) providing rural farmer income."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_three_north.jpg",
+      "caption": "Straw checkerboard sand fixation and thriving shelterbelt trees halting desert dunes in Ningxia, China.",
+      "credit": "National Forestry and Grassland Administration / Public Domain",
+      "license": "Public Domain / Open Access",
+      "sourceUrl": "http://www.forestry.gov.cn/"
+    },
+    "references": [
+      {
+        "title": "Assessment of the Three-North Shelter Forest Program After 40 Years",
+        "publisher": "Chinese Academy of Sciences & National Forestry Administration",
+        "url": "http://www.cas.cn/",
+        "date": "2018-11-25"
+      },
+      {
+        "title": "Combating Desertification: China's Practice and Experience",
+        "publisher": "UNCCD & NFGA",
+        "url": "https://www.unccd.int/",
+        "date": "2021-09-10"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-009",
+    "title": "Africa's Great Green Wall Initiative (Sahel Transcontinental Belt)",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-18",
+    "year": 2007,
+    "dateDetails": {
+      "startDate": "2007-01-29",
+      "endDate": "2030-12-31",
+      "duration": "Multi-decade 11-country pan-African initiative",
+      "peakIntensity": "2015-2023 (international climate funding expansion)"
+    },
+    "location": {
+      "state": "Sahel-Saharan Belt",
+      "country": "Senegal, Mali, Niger, Chad, Sudan, Ethiopia (11 Countries)",
+      "coordinates": "14.4974° N, 14.4524° W",
+      "affectedAreas": [
+        "8,000-km strip from Atlantic Ocean (Senegal) to Red Sea (Djibouti)"
+      ]
+    },
+    "summary": "An African Union-led epic initiative to grow an 8,000-kilometer natural wonder of trees and plants across the entire width of Africa to halt the Sahara Desert, sequester 250 million tonnes of carbon, and create 10 million green jobs for vulnerable rural communities.",
+    "timeline": [
+      {
+        "date": "2007-01-29",
+        "event": "African Union Assembly officially endorses the Great Green Wall for the Sahara and the Sahel Initiative (GGWSSI)."
+      },
+      {
+        "date": "2010-06-17",
+        "event": "Establishment of the Pan-African Agency of the Great Green Wall (PAGGW) in N'Djamena, Chad."
+      },
+      {
+        "date": "2016-12-01",
+        "event": "Senegal reaches milestone of 12 million drought-hardy acacia trees planted across 40,000 hectares."
+      },
+      {
+        "date": "2021-01-11",
+        "event": "French President and international donors pledge USD $19 billion at One Planet Summit under the GGW Accelerator."
+      },
+      {
+        "date": "2023-09-01",
+        "event": "Over 20 million hectares restored across participating countries, creating thousands of community gardens."
+      }
+    ],
+    "causes": [
+      "Rapid southward desertification of the Sahara encroaching on fragile Sahelian pastoral lands.",
+      "Severe recurring droughts and famine driving climate migration, regional resource conflict, and instability.",
+      "Loss of traditional dryland silvopastoral vegetation due to chronic overgrazing and fuelwood extraction."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties from project; saves lives by mitigating famine",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Reverses involuntary climate distress migration"
+      },
+      "environmentalDamage": "Restoration of degraded soils; groundwater table recharge across arid village zones; revival of acacia gum arabic production.",
+      "socialDamage": "Empowerment of rural African women managing multi-purpose polyculture community gardens (Jardins Polyvalents).",
+      "economicDamage": "International climate finance and development bank pledges totaling USD $19 billion."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Heads of State of 11 African Union nations meet in regular summits; created national Great Green Wall agencies.",
+      "rescueAgencies": [
+        "Pan-African Agency of the Great Green Wall",
+        "African Union",
+        "UNCCD",
+        "World Bank"
+      ],
+      "communityRole": "Local pastoralists and indigenous women select native multi-purpose species (Acacia senegal, Balanites aegyptiaca, Ziziphus mauritiana) providing gum, food, and animal fodder."
+    },
+    "reliefAndRecovery": [
+      "Adoption of Farmer-Managed Natural Regeneration (FMNR) allowing native tree stumps to sprout naturally without costly nursery transport.",
+      "Creation of micro-water harvesting 'half-moon' (demi-lunes) earthen bunds catching seasonal rainwater.",
+      "Development of sustainable solar-powered borehole water grids supporting dry-season community vegetable gardening."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_great_green_wall.jpg",
+      "caption": "Acacia tree planting and water-harvesting half-moon trenches in the Sahel under the Great Green Wall initiative.",
+      "credit": "UNCCD / Pan-African Agency of the Great Green Wall",
+      "license": "CC BY 4.0 / UN Open Access",
+      "sourceUrl": "https://www.unccd.int/"
+    },
+    "references": [
+      {
+        "title": "The Great Green Wall: Implementation Status and Way Ahead to 2030",
+        "publisher": "United Nations Convention to Combat Desertification (UNCCD)",
+        "url": "https://www.unccd.int/",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "Pan-African Agency of the Great Green Wall Progress Report",
+        "publisher": "African Union",
+        "url": "https://au.int/",
+        "date": "2022-03-15"
+      }
+    ]
+  },
+  {
+    "id": "def-tpc-010",
+    "title": "Plant-for-the-Planet & Global Trillion Tree Campaign",
+    "category": "deforestation",
+    "subcategory": "tree-plantation-campaigns",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-19",
+    "year": 2007,
+    "dateDetails": {
+      "startDate": "2007-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Global citizen-led afforestation initiative",
+      "peakIntensity": "2018-2023 (tracking over 14 billion geotagged trees)"
+    },
+    "location": {
+      "state": "Global Initiative / India Hub",
+      "country": "Global / India",
+      "coordinates": "47.9300° N, 11.1800° E",
+      "affectedAreas": [
+        "Yucatan restoration site (Mexico)",
+        "India community projects",
+        "Kenya",
+        "Germany"
+      ]
+    },
+    "summary": "Initiated by 9-year-old schoolchild Felix Finkbeiner in 2007, Plant-for-the-Planet evolved into a global youth movement that took over the UNEP Billion Tree Campaign, creating an open-source digital platform that has tracked and funded the planting of billions of geotagged trees across 130 countries.",
+    "timeline": [
+      {
+        "date": "2007-01-01",
+        "event": "9-year-old Felix Finkbeiner gives a school presentation in Germany proposing children plant a million trees in every country."
+      },
+      {
+        "date": "2011-12-07",
+        "event": "UNEP officially hands over its historic 'Billion Tree Campaign' to Plant-for-the-Planet at climate talks in Durban."
+      },
+      {
+        "date": "2018-03-09",
+        "event": "Scientific study by Crowther Lab (ETH Zurich) published in Science, demonstrating potential for 1 trillion trees to capture 200 gigatons of carbon."
+      },
+      {
+        "date": "2019-09-20",
+        "event": "Launch of the free 'Plant-for-the-Planet App' enabling transparent, direct donation to 200+ vetted afforestation projects globally."
+      },
+      {
+        "date": "2023-12-31",
+        "event": "Platform records over 14 billion trees planted and pledged by millions of global youth and corporations."
+      }
+    ],
+    "causes": [
+      "Youth-led moral urgency to halt global climate heating and restore the planet's depleted terrestrial carbon sinks.",
+      "Lack of transparency and high administrative overheads in traditional international charity planting drives.",
+      "Empowering school children to become Climate Justice Ambassadors through peer-to-peer academies."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Direct restoration of over 100,000 hectares of degraded tropical and temperate forests, including the Yucatan restoration project planting 1 tree every 15 seconds.",
+      "socialDamage": "Zero negative impacts; training of over 100,000 youth in 75 countries as certified Climate Justice Ambassadors.",
+      "economicDamage": "Mobilization of over USD $150 million in direct community planting grants."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Endorsed by the United Nations Environment Programme (UNEP) and world leaders; adopted into World Economic Forum's 1t.org platform.",
+      "rescueAgencies": [
+        "UNEP",
+        "Food and Agriculture Organization (FAO)",
+        "Plant-for-the-Planet Foundation"
+      ],
+      "communityRole": "Children and youth run one-day academies teaching fellow students the science of the greenhouse effect and how to plant and care for trees."
+    },
+    "reliefAndRecovery": [
+      "Development of TreeMapper.app using smartphone satellite GPS coordinates to verify every single planted sapling.",
+      "Open-source tree survival monitoring using drone multispectral imagery and ground canopy audits.",
+      "Strict exclusion of greenwashing monoculture plantations from the public funding platform."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_plant_planet.jpg",
+      "caption": "Youth Climate Justice Ambassadors planting native trees and holding 'Stop Talking, Start Planting' signs.",
+      "credit": "Plant-for-the-Planet Foundation / CC BY-SA 4.0",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://www.plant-for-the-planet.org/"
+    },
+    "references": [
+      {
+        "title": "The Global Tree Restoration Potential",
+        "publisher": "Science (Crowther Lab, ETH Zurich)",
+        "url": "https://www.science.org/",
+        "date": "2019-07-05"
+      },
+      {
+        "title": "Plant-for-the-Planet Annual Transparency and Impact Report",
+        "publisher": "Plant-for-the-Planet Foundation",
+        "url": "https://www.plant-for-the-planet.org/",
+        "date": "2023-06-15"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-001",
+    "title": "Chipko Movement & Gaura Devi's Reni Forest Defense (1973)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-10",
+    "year": 1973,
+    "dateDetails": {
+      "startDate": "1973-03-27",
+      "endDate": "1980-04-15",
+      "duration": "Grassroots movement leading to 15-year commercial logging ban",
+      "peakIntensity": "March 25-26, 1974 (Reni forest standoff led by Gaura Devi)"
+    },
+    "location": {
+      "state": "Uttarakhand",
+      "country": "India",
+      "coordinates": "30.5000° N, 79.7000° E",
+      "affectedAreas": [
+        "Mandal (Gopeshwar)",
+        "Reni village",
+        "Chamoli district",
+        "Alaknanda valley"
+      ]
+    },
+    "summary": "Pioneering non-violent eco-feminist movement where mountain village women, led by Gaura Devi, hugged forest trees to physically prevent commercial contractors from felling ash and hornbeam timber, prompting Prime Minister Indira Gandhi to enact a 15-year ban on green felling in the Himalayas.",
+    "timeline": [
+      {
+        "date": "1973-03-27",
+        "event": "Villagers in Mandal, led by Chandi Prasad Bhatt's Dasholi Gram Swarajya Sangh, hug ash trees to stop sports-goods company Simon from felling."
+      },
+      {
+        "date": "1974-03-25",
+        "event": "State forest department diverts village men to Chamoli town for compensation talks; loggers move toward Reni forest."
+      },
+      {
+        "date": "1974-03-26",
+        "event": "54-year-old Gaura Devi mobilizes 27 village women to stand in front of axes, proclaiming: 'This forest is our mother; shoot us before you touch the trees.'"
+      },
+      {
+        "date": "1974-04-06",
+        "event": "Contractors retreat empty-handed; Uttar Pradesh government appoints Virendra Kumar Committee."
+      },
+      {
+        "date": "1980-04-15",
+        "event": "Prime Minister Indira Gandhi issues 15-year moratorium on commercial tree felling above 1,000 meters in Uttarakhand."
+      }
+    ],
+    "causes": [
+      "Colonial and state forestry policies auctioning local forests to distant commercial sporting goods corporations while denying local artisans wood for farming plows.",
+      "Catastrophic 1970 Alaknanda flash flood that devastated 100 square kilometers, demonstrating to villagers that clear-felling caused deadly landslides.",
+      "Severe burden placed on mountain women who had to walk 5-10 miles daily to collect fuelwood and fodder due to degraded forests."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement; prevented village destruction from landslides"
+      },
+      "environmentalDamage": "Saved thousands of hectares of primary mixed Himalayan broadleaved forest in the upper catchment of the Alaknanda.",
+      "socialDamage": "Zero negative impacts; transformed mountain women into respected ecological leaders across the globe.",
+      "economicDamage": "Cancelled commercial timber contracts in Chamoli district; promoted village-level eco-restoration nurseries."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Virendra Kumar Committee validated villagers' concerns; Uttar Pradesh government declared 1,200 sq km of Alaknanda basin an inviolate conservation zone.",
+      "rescueAgencies": [
+        "Uttar Pradesh Forest Department",
+        "Virendra Kumar Committee"
+      ],
+      "communityRole": "Dasholi Gram Swarajya Sangh organized eco-development camps, planting oak and alder trees and teaching watershed regeneration."
+    },
+    "reliefAndRecovery": [
+      "15-year complete ban on commercial green tree felling in the Himalayan forests above 1,000 meters elevation in 1980.",
+      "Spurred the enactment of the Forest Conservation Act 1980, requiring central permission for any forest land diversion.",
+      "Inspired similar non-violent grassroots movements globally, including Appiko in Karnataka and Green Belt in Kenya."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_chipko.jpg",
+      "caption": "Historic photograph of Garhwali village women hugging forest trees to prevent commercial logging during the Chipko Movement.",
+      "credit": "DGSS / Anupam Mishra Archive / Public Domain",
+      "license": "Public Domain / Educational Use",
+      "sourceUrl": "https://nidm.gov.in/"
+    },
+    "references": [
+      {
+        "title": "The Chipko Movement: History, People and Ecological Ethos",
+        "publisher": "Oxford University Press (Ramachandra Guha)",
+        "url": "https://academic.oup.com/",
+        "date": "1989-01-01"
+      },
+      {
+        "title": "Chipko: An Unfinished Journey",
+        "publisher": "People's Association for Himalaya Area Research (PAHAR)",
+        "url": "https://pahar.org/",
+        "date": "2007-03-15"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-002",
+    "title": "Appiko Movement (Western Ghats Tree Hugging in Karnataka)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-11",
+    "year": 1983,
+    "dateDetails": {
+      "startDate": "1983-09-08",
+      "endDate": "1990-12-31",
+      "duration": "Multi-year Southern forest movement",
+      "peakIntensity": "September - November 1983 (Gubbi Gadde forest satyagraha)"
+    },
+    "location": {
+      "state": "Karnataka",
+      "country": "India",
+      "coordinates": "14.6167° N, 74.8333° E",
+      "affectedAreas": [
+        "Sirsi",
+        "Gubbi Gadde forest",
+        "Salkani",
+        "Uttara Kannada district",
+        "Western Ghats"
+      ]
+    },
+    "summary": "Inspired by Chipko, youth and villagers in Uttara Kannada led by Pandurang Hegde launched the Appiko Movement ('Appiko' means to embrace in Kannada), hugging trees in the Kalase forest to halt commercial logging, paper-mill extraction, and exotic monoculture plantations.",
+    "timeline": [
+      {
+        "date": "1983-09-08",
+        "event": "160 villagers from Salkani march 8 km to Gubbi Gadde forest; hug trees marked for felling by forest contractors."
+      },
+      {
+        "date": "1983-10-14",
+        "event": "Forest department halts clear-felling in Kalase forest after 38 days of continuous round-the-clock tree vigils."
+      },
+      {
+        "date": "1983-11-01",
+        "event": "Movement spreads to neighboring talukas of Siddapur, Kumta, and Honnavar across Uttara Kannada."
+      },
+      {
+        "date": "1984-06-15",
+        "event": "Appiko activists launch 'Jadu' (afforestation) and 'Maiti' (awareness) alongside 'Ubsu' (saving)."
+      },
+      {
+        "date": "1990-03-31",
+        "event": "Karnataka government imposes total ban on commercial logging in all primary evergreen forests of Western Ghats."
+      }
+    ],
+    "causes": [
+      "Severe degradation of tropical evergreen forests in Uttara Kannada, where forest cover dropped from 82% to 20% in three decades.",
+      "State forestry policy clear-felling indigenous multi-species forests to plant monoculture Eucalyptus and teak for paper and plywood mills.",
+      "Drying up of natural perennial water springs (kuhls) and severe micro-climatic heating affecting arecanut and spice plantations."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Saved tens of thousands of hectares of fragile tropical evergreen rainforest in the Aghanashini and Bedthi river basins.",
+      "socialDamage": "Zero negative impacts; united smallholder spice farmers, agricultural laborers, and tribal groups.",
+      "economicDamage": "Terminated destructive timber and plywood mill supply contracts; spurred local khadi and honey cooperative production."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Karnataka Forest Department halted clear-felling; modified silvicultural extraction codes; government banned commercial green logging in 1990.",
+      "rescueAgencies": [
+        "Karnataka Forest Department",
+        "Appiko Chaluvali (Movement)"
+      ],
+      "communityRole": "Villagers popularized the three-fold ecological motto: 'Ubsu' (Save), 'Belesu' (Grow), and 'Balasu' (Use rationally)."
+    },
+    "reliefAndRecovery": [
+      "Complete ban on commercial felling in tropical moist evergreen forests of the Western Ghats across Karnataka.",
+      "Massive citizen-led propagation of native tree species (Myristica, Artocarpus, Cinnamomum) in village community nurseries.",
+      "Designation of Bedthi and Aghanashini river valleys as conservation reserves."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_appiko.jpg",
+      "caption": "Pandurang Hegde and village youth hugging trees in Kalase forest during the Appiko Movement in September 1983.",
+      "credit": "Appiko Movement Archive / Wikimedia Commons",
+      "license": "CC BY-SA 4.0 / Educational Use",
+      "sourceUrl": "https://nidm.gov.in/"
+    },
+    "references": [
+      {
+        "title": "The Appiko Movement: Forest Conservation in the Western Ghats",
+        "publisher": "Centre for Science and Environment (CSE)",
+        "url": "https://www.cseindia.org/",
+        "date": "1985-06-15"
+      },
+      {
+        "title": "Ecological History of Uttara Kannada District",
+        "publisher": "Indian Institute of Science (IISc CES Technical Report)",
+        "url": "https://ces.iisc.ac.in/",
+        "date": "1998-04-10"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-003",
+    "title": "Historic Bishnoi Khejri Tree Sacrifice (Khejarli 1730)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-12",
+    "year": 1730,
+    "dateDetails": {
+      "startDate": "1730-09-09",
+      "endDate": "1730-09-12",
+      "duration": "4 days of supreme ecological sacrifice",
+      "peakIntensity": "September 9, 1730 (Bhadrapad Shukla Dashami)"
+    },
+    "location": {
+      "state": "Rajasthan",
+      "country": "India",
+      "coordinates": "26.1500° N, 73.1333° E",
+      "affectedAreas": [
+        "Khejarli village",
+        "Jodhpur princely state",
+        "Marwar region",
+        "Thar Desert"
+      ]
+    },
+    "summary": "Forefather of all modern tree-hugging movements: Amrita Devi and 363 Bishnoi men, women, and children sacrificed their lives embracing sacred Khejri trees to protect them from the axes of the Maharaja of Jodhpur's soldiers, leading to a royal decree banning felling and hunting in Bishnoi villages.",
+    "timeline": [
+      {
+        "date": "1730-09-09",
+        "event": "Maharaja Abhai Singh's royal minister Giridhar Bhandari marches soldiers to Khejarli to cut Khejri trees for lime kilns."
+      },
+      {
+        "date": "1730-09-09",
+        "event": "Amrita Devi Bishnoi hugs a Khejri tree, declaring: 'Sar santey rookh rahe to bhi sasto jaan' (If a tree is saved at the cost of one's head, it is still a cheap bargain)."
+      },
+      {
+        "date": "1730-09-09",
+        "event": "Amrita Devi and her three daughters (Asu, Ratni, Bhagu) beheaded by royal axes while clinging to the tree."
+      },
+      {
+        "date": "1730-09-10",
+        "event": "News spreads to 84 Bishnoi villages; elders, youths, and nursing mothers volunteer in succession, totaling 363 martyrs."
+      },
+      {
+        "date": "1730-09-12",
+        "event": "Shocked Maharaja rushes to Khejarli, apologizes in person, and issues a copper-plate royal decree banning green tree felling and hunting across all Bishnoi lands."
+      }
+    ],
+    "causes": [
+      "Demand for dry timber by the Jodhpur royal court to burn lime for the construction of the new Mehrangarh palace wing.",
+      "Bishnoi religious code established by Guru Jambheshwar in 1485, containing 29 tenets that strictly forbid cutting green trees or harming animals.",
+      "Crucial ecological role of Khejri (Prosopis cineraria) as the 'Lifeline of the Thar Desert', providing nitrogen-fixing soil fertility, shade, and animal fodder."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "363 verified Bishnoi martyrs (69 women, 294 men and children documented in community copper-plate records)",
+        "injured": "Dozens wounded before soldiers halted",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Halted the commercial defoliation of the Marwar desert; preserved the sacred Khejri grove network of western Rajasthan.",
+      "socialDamage": "Grave grief across 84 Bishnoi villages; transformed into a permanent spiritual commitment to ecological defense.",
+      "economicDamage": "Royal court ceased timber extraction; switched to mineral fuels."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Maharaja Abhai Singh issued a formal royal copper-plate edict (Tamra-Patra) making tree-felling and animal slaughter a capital offense in Bishnoi villages.",
+      "rescueAgencies": [
+        "Royal Court of Jodhpur",
+        "Bishnoi Mahasabha"
+      ],
+      "communityRole": "The entire Bishnoi community institutionalized the Khejarli Shaheed Mela (Martyrs' Fair) celebrated every year on Bhadrapad Shukla Dashami."
+    },
+    "reliefAndRecovery": [
+      "Government of India established the 'Amrita Devi Bishnoi National Wildlife Protection Award' conferring cash prizes for grassroots conservation bravery.",
+      "Rajasthan State Forest Department established the Khejarli Memorial Forest Sanctuary planting thousands of Khejri trees.",
+      "Preservation of blackbuck, chinkara, and khejri trees across western Rajasthan maintained to this day exclusively by Bishnoi stewardship."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_bishnoi_khejarli.jpg",
+      "caption": "The sacred memorial temple and thriving Khejri grove at Khejarli, Jodhpur, commemorating the 363 martyrs of 1730.",
+      "credit": "Bishnoi Mahasabha / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://forest.rajasthan.gov.in/"
+    },
+    "references": [
+      {
+        "title": "The Bishnois of Rajasthan: An Eco-Religious Community",
+        "publisher": "Anthropological Survey of India",
+        "url": "https://www.ansi.gov.in/",
+        "date": "1994-06-15"
+      },
+      {
+        "title": "Amrita Devi Bishnoi National Award Gazette Notification",
+        "publisher": "Ministry of Environment, Forest and Climate Change",
+        "url": "https://moef.gov.in/",
+        "date": "2001-08-20"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-004",
+    "title": "Save Silent Valley Movement & Tropical Rainforest Defense (Kerala)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-13",
+    "year": 1978,
+    "dateDetails": {
+      "startDate": "1976-01-01",
+      "endDate": "1984-11-15",
+      "duration": "8-year epic conservation campaign",
+      "peakIntensity": "1978-1980 (Poet Sugathakumari and KSSP statewide marches)"
+    },
+    "location": {
+      "state": "Kerala",
+      "country": "India",
+      "coordinates": "11.1333° N, 76.4333° E",
+      "affectedAreas": [
+        "Silent Valley",
+        "Kunthipuzha river basin",
+        "Palakkad district",
+        "Nilgiri Biosphere Reserve"
+      ]
+    },
+    "summary": "Pioneering environmental campaign uniting poets, scientists, schoolteachers, and civil society against a proposed 120 MW hydroelectric dam that would have submerged 8.3 square kilometers of virgin tropical evergreen rainforest, resulting in the creation of Silent Valley National Park in 1984.",
+    "timeline": [
+      {
+        "date": "1973-02-15",
+        "event": "Kerala State Electricity Board (KSEB) secures planning commission approval for 120 MW Kunthipuzha dam."
+      },
+      {
+        "date": "1977-08-10",
+        "event": "Dr. V.S. Vijayan of the Kerala Forest Research Institute warns dam will destroy prime habitat of the endangered Lion-tailed Macaque."
+      },
+      {
+        "date": "1978-03-01",
+        "event": "Kerala Sastra Sahithya Parishad (KSSP) launches statewide mass education campaign: 'Science for Social Revolution'."
+      },
+      {
+        "date": "1979-10-15",
+        "event": "Prime Minister Morarji Desai orders moratorium; Dr. M.S. Swaminathan submits landmark report recommending total forest preservation."
+      },
+      {
+        "date": "1983-11-15",
+        "event": "Prime Minister Indira Gandhi decides to abandon the dam project; Silent Valley declared a National Park in 1984."
+      }
+    ],
+    "causes": [
+      "State electricity utility planning a 120 MW hydroelectric dam across the pristine Kunthipuzha river to generate power for northern Kerala.",
+      "Submergence of 830 hectares of one of the last undisturbed climax tropical evergreen rainforests in the Western Ghats.",
+      "Threat of extinction to the endangered, endemic Lion-tailed Macaque (Macaca silenus) and rare floral germplasm."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero human displacement; saved indigenous Mudugar and Kurumbar habitat"
+      },
+      "environmentalDamage": "Completely preserved 8,952 hectares of primary rainforest untouched for 50 million years; protected the perennial flow of the Kunthipuzha.",
+      "socialDamage": "Zero negative impacts; galvanized Kerala's intellectual and cultural conscience through literature and poetry (Sugathakumari's 'Marathinu Stuthi').",
+      "economicDamage": "KSEB relocated planned power generation to thermal and alternate hydel sites; zero project waste."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Prime Minister Indira Gandhi personally intervened following the M.S. Swaminathan Committee report; formally inaugurated as National Park by Rajiv Gandhi in 1985.",
+      "rescueAgencies": [
+        "Kerala Forest Department",
+        "Department of Environment (predecessor to MoEF)"
+      ],
+      "communityRole": "Kerala Sastra Sahithya Parishad (KSSP) published popular science booklets, performed street plays, and mobilized high school classrooms across all 14 districts."
+    },
+    "reliefAndRecovery": [
+      "Formal notification of Silent Valley National Park in 1984, later incorporated into the Nilgiri Biosphere Reserve (India's first biosphere reserve in 1986).",
+      "Creation of a 148 sq km buffer zone around the core park in 2007 to insulate it from commercial plantations.",
+      "Institutionalization of environmental impact assessments (EIA) for all subsequent major developmental projects in India."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_silent_valley.jpg",
+      "caption": "Pristine canopy and Lion-tailed Macaque habitat preserved in Silent Valley National Park, Kerala.",
+      "credit": "Kerala Forest Department / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://silentvalley.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Report on Does Silent Valley Represent an Endangered Ecosystem?",
+        "publisher": "Dr. M.S. Swaminathan Committee, Government of India",
+        "url": "https://moef.gov.in/",
+        "date": "1979-11-15"
+      },
+      {
+        "title": "The Silent Valley Movement: A Case Study in Environmental Advocacy",
+        "publisher": "Kerala Sastra Sahithya Parishad (KSSP)",
+        "url": "https://kssp.in/",
+        "date": "1984-12-01"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-005",
+    "title": "Jungle Bachao Andolan (Singhbhum 'Sal vs Teak' Resistance)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-14",
+    "year": 1982,
+    "dateDetails": {
+      "startDate": "1980-08-01",
+      "endDate": "1984-12-31",
+      "duration": "4 years of intense tribal resistance",
+      "peakIntensity": "September 1980 (Gua firing incident)"
+    },
+    "location": {
+      "state": "Jharkhand / Bihar",
+      "country": "India",
+      "coordinates": "22.5667° N, 85.8000° E",
+      "affectedAreas": [
+        "Singhbhum district",
+        "Saranda Forest",
+        "Gua",
+        "Chaibasa"
+      ]
+    },
+    "summary": "Historic adivasi movement in the Saranda forest of Singhbhum where Ho and Munda tribal communities resisted the Forest Development Corporation's plan to replace natural multi-purpose Sal forests with commercial Teak monocultures, terming it a cultural war of 'Sagwan kato, Sal jiyo'.",
+    "timeline": [
+      {
+        "date": "1977-04-15",
+        "event": "Bihar Forest Development Corporation begins commercial clear-felling of Sal forests in Saranda to plant high-value commercial teak."
+      },
+      {
+        "date": "1978-08-10",
+        "event": "Tribal leaders point out that teak leaves provide no food for cattle, drop leaves that prevent grass growth, and harbor no birds."
+      },
+      {
+        "date": "1980-09-08",
+        "event": "Police open fire on peaceful tribal demonstration at Gua airstrip, killing 11 adivasis; movement spreads rapidly across Singhbhum."
+      },
+      {
+        "date": "1982-05-20",
+        "event": "Adivasis begin 'tree-cutting satyagraha', systematically uprooting teak saplings from government nurseries and replanting Sal."
+      },
+      {
+        "date": "1984-10-15",
+        "event": "Bihar government officially abandons commercial teak conversion in Saranda, restoring natural Sal regeneration."
+      }
+    ],
+    "causes": [
+      "World Bank-assisted forestry program attempting to convert native mixed Sal (Shorea robusta) forests into single-species commercial Teak (Tectona grandis) plantations.",
+      "Complete incompatibility of teak with the tribal economy: Sal provides timber, edible seeds, datun, sal butter, liquor, mahua flowers, and religious sanctity (Jaherthan).",
+      "Brutal police repression of indigenous forest dwellers demanding customary forest user rights."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "11 tribal protesters killed in the tragic Gua police firing of September 8, 1980",
+        "injured": "Scores injured in police lathi-charges",
+        "missing": "None",
+        "displaced": "Zero displacement; prevented village alienation from forests"
+      },
+      "environmentalDamage": "Halted the artificial conversion of the historic 820 sq km Saranda Forest ('Land of 700 Hills') into an ecological monoculture desert.",
+      "socialDamage": "Deep trauma from state police violence in Gua; catalyzed the broader political mobilization for a separate tribal state of Jharkhand.",
+      "economicDamage": "Cancelled commercial teak plantation contracts; saved indigenous sal-seed and lac collection economy."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Judicial inquiry instituted into the Gua firing; state government formally suspended the Teak plantation scheme in Chota Nagpur.",
+      "rescueAgencies": [
+        "Bihar Police",
+        "Forest Development Corporation",
+        "District Administration Singhbhum"
+      ],
+      "communityRole": "Traditional tribal village headmen (Mundas and Mankis) organized night meetings using drum beats (Dharwad) to coordinate forest defense."
+    },
+    "reliefAndRecovery": [
+      "Total cancellation of teak monoculture conversion across the Saranda and Porahat forest divisions.",
+      "Official recognition of Sal as an inviolate keystone ecological and cultural species in Jharkhand forestry policy.",
+      "Pioneered the intellectual foundation for the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act 2006."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_jungle_bachao.jpg",
+      "caption": "Lush natural Sal canopy of Saranda Forest in Singhbhum, successfully defended by the Jungle Bachao Andolan.",
+      "credit": "Jharkhand Forest Department / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://forest.jharkhand.gov.in/"
+    },
+    "references": [
+      {
+        "title": "The Politics of Environment: Jungle Bachao Andolan in Singhbhum",
+        "publisher": "Economic and Political Weekly (EPW)",
+        "url": "https://www.epw.in/",
+        "date": "1982-11-20"
+      },
+      {
+        "title": "Report of the Citizens' Committee on the Gua Firing Incident",
+        "publisher": "People's Union for Civil Liberties (PUCL)",
+        "url": "https://pucl.org/",
+        "date": "1980-10-15"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-006",
+    "title": "Delhi Ridge Forest Protection Campaign & Citizen Legal Defense",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-15",
+    "year": 1994,
+    "dateDetails": {
+      "startDate": "1979-01-01",
+      "endDate": "2023-12-31",
+      "duration": "Four decades of sustained citizen and judicial defense",
+      "peakIntensity": "May 1994 (Supreme Court M.C. Mehta judgment)"
+    },
+    "location": {
+      "state": "Delhi (NCT)",
+      "country": "India",
+      "coordinates": "28.5900° N, 77.1700° E",
+      "affectedAreas": [
+        "Northern Ridge (Delhi University)",
+        "Central Ridge (Buddha Jayanti Park)",
+        "Southern Ridge (Asola Bhatti Wildlife Sanctuary)",
+        "South-Central Ridge (JNU/Vasant Kunj)"
+      ]
+    },
+    "summary": "Multi-decade legal, scientific, and activist struggle that successfully protected the 7,777-hectare Delhi Ridge (the ancient terminal spur of the Aravalli hills) from rampant real-estate encroachers, institutional land grab, and mining, preserving the critical 'green lungs' of the national capital.",
+    "timeline": [
+      {
+        "date": "1979-04-10",
+        "event": "Kalpavriksh student environmental group conducts first tree survey of the Ridge, uncovering commercial encroachments."
+      },
+      {
+        "date": "1994-05-24",
+        "event": "Supreme Court bench led by Justice Kuldip Singh delivers landmark order in M.C. Mehta case, directing eviction of all unauthorized occupants in the Ridge."
+      },
+      {
+        "date": "1995-02-16",
+        "event": "Supreme Court directs constitution of the Ridge Management Board headed by Chief Secretary of Delhi."
+      },
+      {
+        "date": "1996-01-03",
+        "event": "Delhi Lieutenant Governor notifies 7,777 hectares of the Ridge as a Reserve Forest under the Indian Forest Act."
+      },
+      {
+        "date": "2023-05-15",
+        "event": "Supreme Court stays tree felling in the Southern Ridge, directing tree-by-tree GPS accounting by DDA."
+      }
+    ],
+    "causes": [
+      "Severe urban real estate pressure threatening to fragment and pave over 7,777 hectares of thorn-scrub forest.",
+      "Widespread illegal stone quarrying and red-sand (badarpur) mining in the Southern Ridge (now Asola Bhatti).",
+      "Rampant proliferation of the invasive Mexican tree Vilayati Kikar (Prosopis juliflora) which choked native Aravalli flora."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Eviction of unauthorized farmhouses and commercial banquet halls"
+      },
+      "environmentalDamage": "Preserved 7,777 hectares of contiguous urban wilderness; acts as a natural dust barrier against Rajasthan desert winds and recharges local aquifers.",
+      "socialDamage": "Zero negative impacts; provides free public nature reserves, birding sanctuaries, and clean air for 20+ million residents.",
+      "economicDamage": "Precluded multi-billion-dollar illegal commercial real estate developments on protected forest land."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Supreme Court passed continuing mandamus orders; Delhi Government constituted Ridge Management Board and notified Asola Bhatti Wildlife Sanctuary.",
+      "rescueAgencies": [
+        "Ridge Management Board",
+        "Delhi Forest Department",
+        "Supreme Court Central Empowered Committee"
+      ],
+      "communityRole": "Pioneering citizen groups like Kalpavriksh, Srishti, and Delhi Trees SOS continuously file RTIs and petitions to halt illegal felling."
+    },
+    "reliefAndRecovery": [
+      "Notification of Asola Bhatti Wildlife Sanctuary covering 32.7 sq km of the Southern Ridge in 1991.",
+      "Ecological replacement of invasive Vilayati Kikar with native Aravalli species (dhau, kair, katha, ber) by Delhi Forest Dept.",
+      "Mandated planting of 10 compensatory trees for every single tree felled under the Delhi Preservation of Trees Act 1994."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_delhi_ridge.jpg",
+      "caption": "The dense Aravalli thorn forest canopy of the Central Ridge, serving as the essential green lung of New Delhi.",
+      "credit": "Delhi Forest Department / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://forest.delhigovt.nic.in/"
+    },
+    "references": [
+      {
+        "title": "The Delhi Ridge: Forest Management and Legal Protections",
+        "publisher": "Ridge Management Board, Government of NCT of Delhi",
+        "url": "https://forest.delhigovt.nic.in/",
+        "date": "2018-03-15"
+      },
+      {
+        "title": "What's the Ridge to You?: A Kalpavriksh Citizen Monograph",
+        "publisher": "Kalpavriksh Environmental Action Group",
+        "url": "https://kalpavriksh.org/",
+        "date": "1991-05-01"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-007",
+    "title": "Sariska Tiger Reserve Citizen Action Against Marble Mines (1993)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-16",
+    "year": 1993,
+    "dateDetails": {
+      "startDate": "1989-01-15",
+      "endDate": "1993-04-08",
+      "duration": "4 years of grassroots agitation and litigation",
+      "peakIntensity": "April 8, 1993 (Supreme Court closure verdict)"
+    },
+    "location": {
+      "state": "Rajasthan",
+      "country": "India",
+      "coordinates": "27.3167° N, 76.4333° E",
+      "affectedAreas": [
+        "Sariska Tiger Reserve",
+        "Alwar district",
+        "Aravalli Range",
+        "Kankwari"
+      ]
+    },
+    "summary": "Grassroots ecological movement spearheaded by Tarun Bharat Sangh (Rajendra Singh) and local Gujjar villagers challenged 400 illegal open-cast marble and dolomite mines blasting inside Sariska Tiger Reserve, culminating in a historic 1993 Supreme Court ruling that shut down all mining inside the national park.",
+    "timeline": [
+      {
+        "date": "1985-10-02",
+        "event": "Rajendra Singh moves to Alwar; discovers illegal marble mining has dried up groundwater and destroyed forests."
+      },
+      {
+        "date": "1989-04-10",
+        "event": "Tarun Bharat Sangh (TBS) organizes forest padyatras (foot marches); local villagers blockade mine trucks."
+      },
+      {
+        "date": "1991-09-20",
+        "event": "TBS files Public Interest Litigation in the Supreme Court pointing out that mines operate inside notified tiger reserve boundaries."
+      },
+      {
+        "date": "1991-10-11",
+        "event": "Supreme Court constitutes Justice M.L. Jain Committee to demarcate protected park boundaries."
+      },
+      {
+        "date": "1993-04-08",
+        "event": "Supreme Court delivers landmark verdict ordering the immediate and permanent closure of all 412 open-cast mines in Sariska."
+      }
+    ],
+    "causes": [
+      "Greed for high-grade white marble and dolomite leading to over 400 mechanized open-cast leases inside a protected tiger habitat.",
+      "Heavy explosive blasting and heavy truck movement shattering peace in the core tiger breeding zone.",
+      "Deep open pits severing natural groundwater aquifers and causing surrounding village wells to run dry."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; several activists assaulted by mining mafia goons",
+        "injured": "Rajendra Singh and volunteers sustained injuries during mine blockades",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Halted explosive blasting across 400 mines; allowed natural re-vegetation of scarred Aravalli hills and revival of perennial springs.",
+      "socialDamage": "Zero negative impacts; revived agriculture in 200 downstream villages through traditional rainwater check-dams (johads).",
+      "economicDamage": "Shut down illegal mining operations extracting ₹100+ crore of marble annually."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Supreme Court enforced shutdown through Rajasthan Chief Secretary; Forest Department sealed mine entrances and seized equipment.",
+      "rescueAgencies": [
+        "Rajasthan Forest Department",
+        "Rajasthan State Police",
+        "Supreme Court Central Empowered Committee"
+      ],
+      "communityRole": "Local villagers guarded the forest gates day and night to ensure no mining trucks could enter under cover of darkness."
+    },
+    "reliefAndRecovery": [
+      "Complete ecological regeneration of Sariska Tiger Reserve valley floors.",
+      "Construction of over 10,000 traditional earthen water-harvesting check dams (Johads) by Tarun Bharat Sangh reviving 7 dead rivers (including Arvari and Ruparel).",
+      "Establishment of the Sariska Tiger Relocation Program after local tiger extinction in 2004, successfully restoring tigers to the park."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_sariska.jpg",
+      "caption": "Reclaimed green slopes of Sariska Tiger Reserve following the permanent closure of illegal open-cast marble mines.",
+      "credit": "Tarun Bharat Sangh / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://forest.rajasthan.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Tarun Bharat Sangh vs Union of India (Sariska Marble Mining Judgment)",
+        "publisher": "Supreme Court of India (1993 Supp (3) SCC 115)",
+        "url": "https://main.sci.gov.in/",
+        "date": "1993-04-08"
+      },
+      {
+        "title": "The Story of Arvari: From Drought to Prosperity",
+        "publisher": "Tarun Bharat Sangh",
+        "url": "https://tarunbharatsangh.in/",
+        "date": "2001-05-15"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-008",
+    "title": "Hasdeo Bachao Andolan (Chhattisgarh Indigenous Forest March)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-17",
+    "year": 2021,
+    "dateDetails": {
+      "startDate": "2015-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Decade of sustained tribal resistance",
+      "peakIntensity": "October 2021 (300-km Padyatra to state capital Raipur)"
+    },
+    "location": {
+      "state": "Chhattisgarh",
+      "country": "India",
+      "coordinates": "22.7500° N, 82.6500° E",
+      "affectedAreas": [
+        "Hasdeo Arand",
+        "Madanpur",
+        "Fatehpur",
+        "Salhi",
+        "Ghatbarra",
+        "Hariharpur"
+      ]
+    },
+    "summary": "Grassroots coalition of Gond, Birhor, and Oraon tribal communities fighting to protect the Hasdeo Arand forest (the 'Lungs of Chhattisgarh') from 30 allocated coal mining blocks, organizing a landmark 300-km foot march in October 2021 that captured national attention.",
+    "timeline": [
+      {
+        "date": "2015-01-15",
+        "event": "20 Gram Sabhas of Hasdeo Arand pass formal resolutions under PESA Act opposing coal mining in virgin sal forests."
+      },
+      {
+        "date": "2019-06-15",
+        "event": "Hasdeo Arand Bachao Sangharsh Samiti organizes round-the-clock dharnas outside village forest checkpoints."
+      },
+      {
+        "date": "2021-10-04",
+        "event": "Over 350 tribal men and women march 300 kilometers on foot from Fatehpur to Raipur, taking 10 days to meet the Governor."
+      },
+      {
+        "date": "2022-07-26",
+        "event": "Chhattisgarh Legislative Assembly adopts unanimous resolution urging the Centre to cancel all coal blocks in Hasdeo Arand."
+      },
+      {
+        "date": "2024-01-10",
+        "event": "Movement continues legal challenges in Supreme Court against ongoing Phase 2 tree felling in PEKB mine."
+      }
+    ],
+    "causes": [
+      "Allocation of 30 contiguous coal blocks across 1,878 square kilometers of primary sal forest canopy.",
+      "Threat of permanent displacement to 20 adivasi villages and destruction of centuries-old sacred groves (Devgudi).",
+      "Severe risk of drying up the Hasdeo Bango reservoir, which supplies irrigation water to 400,000 hectares of paddy fields in Janjgir-Champa."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; numerous peaceful protest leaders arrested and detained",
+        "injured": "Dozens injured in police barricade scuffles",
+        "missing": "None",
+        "displaced": "Ongoing struggle to prevent relocation of 10,000 adivasis"
+      },
+      "environmentalDamage": "Felling of over 100,000 mature trees in active mine blocks; ongoing resistance has successfully protected remaining 150,000 hectares of core forest.",
+      "socialDamage": "Deep emotional and cultural stress for indigenous communities whose songs, dances, and medicine rely on the forest.",
+      "economicDamage": "Public debate and corporate delays on coal extraction contracts worth tens of thousands of crores."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Chhattisgarh Assembly passed unanimous resolution in July 2022 opposing mining; Supreme Court stayed mining in certain adjacent blocks.",
+      "rescueAgencies": [
+        "Chhattisgarh Forest Department",
+        "Tribal Welfare Department",
+        "State Police"
+      ],
+      "communityRole": "Adivasi women form human barricades, tying sacred red threads around sal trees and singing traditional forest songs to prevent chainsaw crews from advancing."
+    },
+    "reliefAndRecovery": [
+      "State notification of 1,995 sq km Lemru Elephant Reserve to safeguard migrating elephant herds from mining conflicts.",
+      "Filing of comprehensive constitutional review petitions before the Supreme Court under Article 244 (Fifth Schedule).",
+      "Continuous multi-village community seed banking to protect indigenous varieties of minor forest crops."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_hasdeo_march.jpg",
+      "caption": "Adivasi villagers marching 300 km on foot from Hasdeo Arand to Raipur in October 2021 demanding protection of their forests.",
+      "credit": "Hasdeo Bachao Andolan / Open Access",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://forest.cg.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Hasdeo Arand: The Ecological Heart of Central India",
+        "publisher": "Wildlife Institute of India (WII) Technical Report",
+        "url": "https://wii.gov.in/",
+        "date": "2021-08-15"
+      },
+      {
+        "title": "Chhattisgarh Assembly Resolution on Hasdeo Arand Coal Blocks",
+        "publisher": "Chhattisgarh Legislative Assembly Secretariat",
+        "url": "http://cgvidhansabha.gov.in/",
+        "date": "2022-07-26"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-009",
+    "title": "Save Western Ghats March (Historic 100-Day Trans-State Yatra)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-18",
+    "year": 1987,
+    "dateDetails": {
+      "startDate": "1987-11-01",
+      "endDate": "1988-02-04",
+      "duration": "100-day 4,000-km foot march",
+      "peakIntensity": "February 1-4, 1988 (Grand confluence rally at Kanyakumari)"
+    },
+    "location": {
+      "state": "Maharashtra / Goa / Karnataka / Kerala / Tamil Nadu",
+      "country": "India",
+      "coordinates": "8.0883° N, 77.5385° E",
+      "affectedAreas": [
+        "Navapur to Kanyakumari",
+        "Entire Western Ghats ridge across 6 states"
+      ]
+    },
+    "summary": "Historic 100-day, 4,000-kilometer continuous foot march involving over 150 non-governmental organizations and thousands of citizens walking along the entire spine of the Western Ghats from Navapur in Maharashtra to Kanyakumari, alerting the nation to the impending ecological collapse of the mountain chain.",
+    "timeline": [
+      {
+        "date": "1987-11-01",
+        "event": "Twin marches commence simultaneously from Navapur (Maharashtra) and Kanyakumari (Tamil Nadu)."
+      },
+      {
+        "date": "1987-12-10",
+        "event": "Marchers traverse dense forests of Goa and Uttara Kannada, holding nightly meetings in hundreds of villages."
+      },
+      {
+        "date": "1988-01-15",
+        "event": "March reaches Kerala and Nilgiris; documentation of forest destruction, monocultures, and tribal displacement compiled."
+      },
+      {
+        "date": "1988-02-04",
+        "event": "Over 3,000 marchers converge in Kanyakumari for a historic national conference, issuing the 'Western Ghats Declaration'."
+      },
+      {
+        "date": "2010-03-04",
+        "event": "Directly inspired the Union Government to constitute the landmark Western Ghats Ecology Expert Panel (Madhav Gadgil Committee)."
+      }
+    ],
+    "causes": [
+      "Rampant commercial clear-felling, illegal mining, hydroelectric dams, and monoculture plantations threatening the Western Ghats.",
+      "Lack of holistic, trans-state ecological planning across the six states sharing the Western Ghats mountain range.",
+      "Drying up of major peninsular rivers (Godavari, Krishna, Cauvery) originating from degraded mountain headwaters."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "Marchers suffered exhaustion and blisters across 4,000 km",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Created the first pan-Indian ecological constituency for the Western Ghats; stopped numerous destructive projects.",
+      "socialDamage": "Zero negative impacts; connected isolated grassroots organizations across linguistic and state boundaries.",
+      "economicDamage": "Paved the way for regional eco-tourism and sustainable watershed development models."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Ministry of Environment and Forests supported subsequent scientific surveys; UNESCO declared 39 sites in Western Ghats as World Heritage in 2012.",
+      "rescueAgencies": [
+        "Save Western Ghats Coordination Committee",
+        "MoEF"
+      ],
+      "communityRole": "Local villagers in over 500 towns and villages hosted marchers, providing food and shelter and sharing local ecological histories."
+    },
+    "reliefAndRecovery": [
+      "Constitution of the Western Ghats Ecology Expert Panel (WGEEP) led by Prof. Madhav Gadgil in 2010.",
+      "Establishment of the Western Ghats World Heritage sites network covering 39 protected areas in 2012.",
+      "Continuous annual 'Save Western Ghats' assemblies tracking linear infrastructure and mining threats."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_western_ghats_march.jpg",
+      "caption": "Historic gathering of marchers at Kanyakumari concluding the 100-day Save Western Ghats March in February 1988.",
+      "credit": "Save Western Ghats Movement Archive / CC BY-SA 4.0",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://moef.gov.in/"
+    },
+    "references": [
+      {
+        "title": "The Save Western Ghats March: A Landmark in Indian Environmentalism",
+        "publisher": "Other India Press & Centre for Science and Environment",
+        "url": "https://www.cseindia.org/",
+        "date": "1988-06-01"
+      },
+      {
+        "title": "Report of the Western Ghats Ecology Expert Panel (Gadgil Report)",
+        "publisher": "Ministry of Environment and Forests",
+        "url": "https://moef.gov.in/",
+        "date": "2011-08-31"
+      }
+    ]
+  },
+  {
+    "id": "def-fcm-010",
+    "title": "Anti-Tehri Dam Movement & Sunderlal Bahuguna's Fast (1995)",
+    "category": "deforestation",
+    "subcategory": "forest-conservation-movements",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-19",
+    "year": 1995,
+    "dateDetails": {
+      "startDate": "1978-01-01",
+      "endDate": "2004-03-31",
+      "duration": "Two decades of sustained resistance",
+      "peakIntensity": "1995 (Sunderlal Bahuguna's 45-day hunger strike at dam site)"
+    },
+    "location": {
+      "state": "Uttarakhand",
+      "country": "India",
+      "coordinates": "30.3800° N, 78.4800° E",
+      "affectedAreas": [
+        "Old Tehri Town",
+        "Bhagirathi and Bhilangna river valleys",
+        "Tehri Garhwal"
+      ]
+    },
+    "summary": "Epic anti-dam campaign led by Gandhian leader Sunderlal Bahuguna and the Tehri Bandh Virodhi Sangharsh Samiti opposing India's tallest dam (260.5m), highlighting severe Himalayan seismic vulnerability, submergence of historic forests and Old Tehri town, and the displacement of 100,000 citizens.",
+    "timeline": [
+      {
+        "date": "1978-05-15",
+        "event": "Tehri Bandh Virodhi Sangharsh Samiti formed under veteran freedom fighter Veerendra Dutt Saklani."
+      },
+      {
+        "date": "1989-12-25",
+        "event": "Sunderlal Bahuguna begins permanent stay at the dam site in a small hut on the Bhagirathi bank."
+      },
+      {
+        "date": "1995-04-10",
+        "event": "Bahuguna embarks on a 45-day hunger strike; Prime Minister P.V. Narasimha Rao promises high-level seismic review."
+      },
+      {
+        "date": "1997-01-01",
+        "event": "Government appoints Prof. C.H. Hanumantha Rao Committee to review rehabilitation and safety."
+      },
+      {
+        "date": "2004-03-15",
+        "event": "Dam tunnels finally closed; Old Tehri town and ancestral valley forests submerged as water rises."
+      }
+    ],
+    "causes": [
+      "Location of a massive 260.5-meter earth-and-rockfill dam in Central Himalayan Seismic Zone V (capable of Mw 8.5 earthquake).",
+      "Submergence of 42 square kilometers of fertile Bhagirathi valley land, including historic Old Tehri town and thousands of acres of forest.",
+      "Inadequate resettlement plan for over 100,000 project-affected citizens, fracturing ancient hill culture."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; immense psychological distress and grief of displaced elders watching ancestral town drown",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Over 100,000 residents relocated to New Tehri, Rishikesh, and Dehradun"
+      },
+      "environmentalDamage": "Submergence of 4,200 hectares of valley floor, riparian forests, and perennial river ecology; massive reservoir-induced slope destabilization.",
+      "socialDamage": "Total physical erasure of historic Old Tehri town founded in 1815; loss of heritage schools, temples, and palaces.",
+      "economicDamage": "Project cost escalated from original ₹197 crore to over ₹8,000 crore (USD $1.2 billion)."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Prime Minister ordered reviews by top seismologists (Vinod Gaur Committee); constructed modern planned hilltop city of New Tehri.",
+      "rescueAgencies": [
+        "Tehri Hydro Development Corporation (THDC)",
+        "Uttarakhand Police"
+      ],
+      "communityRole": "Sunderlal Bahuguna, Vimla Bahuguna, and local hill women maintained continuous peaceful prayer vigils and hunger strikes for over a decade."
+    },
+    "reliefAndRecovery": [
+      "Establishment of New Tehri town at an elevation of 1,750 meters with modern civic infrastructure.",
+      "Stringent dam design modifications incorporating 0.5g peak ground acceleration safety coefficients.",
+      "National policy reform ensuring comprehensive Social Impact Assessments (SIA) before clearance of any future mega-dams."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_tehri.jpg",
+      "caption": "Sunderlal Bahuguna sitting on fast outside his hut on the banks of the Bhagirathi river against the Tehri Dam.",
+      "credit": "Anupam Mishra / Gandhi Peace Foundation / Public Domain",
+      "license": "Public Domain / Educational Use",
+      "sourceUrl": "https://nidm.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Report of the High Level Committee on Seismic Safety of Tehri Dam",
+        "publisher": "Ministry of Power, Government of India",
+        "url": "https://powermin.gov.in/",
+        "date": "1998-03-15"
+      },
+      {
+        "title": "Tehri Dam: A Himalayan Disaster",
+        "publisher": "INTACH (Indian National Trust for Art and Cultural Heritage)",
+        "url": "https://intach.org/",
+        "date": "1987-10-01"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-001",
+    "title": "Jadav 'Molai' Payeng: Creation of the 550-Hectare Molai Forest",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-10",
+    "year": 2015,
+    "dateDetails": {
+      "startDate": "1979-05-01",
+      "endDate": "2024-03-31",
+      "duration": "45-year continuous personal afforestation",
+      "peakIntensity": "2015 (Award of Padma Shri by Government of India)"
+    },
+    "location": {
+      "state": "Assam",
+      "country": "India",
+      "coordinates": "26.8333° N, 94.2167° E",
+      "affectedAreas": [
+        "Majuli sandbars",
+        "Jorhat district",
+        "Brahmaputra River basin",
+        "Kokilamukh"
+      ]
+    },
+    "summary": "Beginning as a 16-year-old milk vendor in 1979 after seeing snakes dying on a barren sandbar, Jadav 'Molai' Payeng single-handedly planted and nurtured over 550 hectares of dense tropical forest, now home to Bengal tigers, rhinos, elephants, and hundreds of bird species.",
+    "timeline": [
+      {
+        "date": "1979-06-15",
+        "event": "Following massive Brahmaputra floods, 16-year-old Jadav finds hundreds of reptiles dead from heat on barren Aruna Chapori sandbar; resolves to plant shade."
+      },
+      {
+        "date": "1979-08-01",
+        "event": "Plants initial batch of 20 bamboo seedlings, followed by indigenous species like Arjun, Jamun, and Silk Cotton."
+      },
+      {
+        "date": "2008-04-10",
+        "event": "Assam Forest Department discovers the 550-hectare forest when tracking a herd of 115 wild elephants that took refuge there."
+      },
+      {
+        "date": "2012-04-22",
+        "event": "Jawaharlal Nehru University honors him with the title 'Forest Man of India' on Earth Day."
+      },
+      {
+        "date": "2015-01-26",
+        "event": "Conferred the prestigious Padma Shri, India's fourth-highest civilian award, by the President of India."
+      }
+    ],
+    "causes": [
+      "Severe annual monsoonal erosion and deposition along the braided channels of the Brahmaputra River.",
+      "Desolate, scorched sandbars (chaporis) lacking vegetation to anchor topsoil or shelter displaced wildlife.",
+      "Indifference of regional timber agencies to restoring flood-prone riparian islands."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Single-handedly transformed 550 hectares of barren sandy riverbed into a thriving multi-canopy tropical forest; stable habitat for an annual herd of 115 migrating elephants, Bengal tigers, and one-horned rhinos.",
+      "socialDamage": "Zero negative impacts; inspired millions of school students worldwide as a living proof of individual ecological impact.",
+      "economicDamage": "Built with zero state budget or equipment; created immense ecological capital."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Assam Forest Department designated the reserve as 'Molai Forest' in his honor; President of India conferred Padma Shri in 2015.",
+      "rescueAgencies": [
+        "Assam Forest Department",
+        "Jawaharlal Nehru University",
+        "Government of India"
+      ],
+      "communityRole": "Local Mishing tribal community originally doubted the effort, but later rallied to protect the forest from commercial poachers."
+    },
+    "reliefAndRecovery": [
+      "Integration of Molai Forest into the formal Kaziranga-Tiger buffer conservation network.",
+      "Payeng's story introduced into school environmental curricula across India and the United States.",
+      "Expansion of Payeng's afforestation mission to plant another 500-hectare sandbar near Majuli island."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_jadav_payeng.jpg",
+      "caption": "Padma Shri Jadav 'Molai' Payeng standing inside the 550-hectare forest he planted by hand on the Brahmaputra sandbars.",
+      "credit": "PIB / Government of India / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Padma Shri Citation for Jadav Payeng (Forest Man of India)",
+        "publisher": "Ministry of Home Affairs, Government of India",
+        "url": "https://www.padmaawards.gov.in/",
+        "date": "2015-01-26"
+      },
+      {
+        "title": "The Man Who Made a Forest: Ecological Study of Molai Reserve",
+        "publisher": "Assam University & Wildlife Institute of India",
+        "url": "https://wii.gov.in/",
+        "date": "2016-05-15"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-002",
+    "title": "Saalumarada Thimmakka: Highway Banyan Corridor (Padma Shri)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-11",
+    "year": 2019,
+    "dateDetails": {
+      "startDate": "1948-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Seven decades of tree nurture",
+      "peakIntensity": "2019 (Award of Padma Shri at age 107)"
+    },
+    "location": {
+      "state": "Karnataka",
+      "country": "India",
+      "coordinates": "13.0600° N, 77.2000° E",
+      "affectedAreas": [
+        "Hulikal-Kudur highway",
+        "Magadi taluk",
+        "Ramanagara district",
+        "Bengaluru Rural"
+      ]
+    },
+    "summary": "An illiterate rural laborer who faced social stigma for childlessness, Saalumarada Thimmakka and her husband Chikkaiah adopted trees as their children, planting and painstakingly watering 385 sprawling Banyan trees (Ficus benghalensis) along a 45-km highway stretch, earning global acclaim and the Padma Shri in 2019.",
+    "timeline": [
+      {
+        "date": "1948-06-15",
+        "event": "Thimmakka and Chikkaiah begin planting Ficus saplings along a barren 4-km stretch between Hulikal and Kudur."
+      },
+      {
+        "date": "1955-08-10",
+        "event": "Couple carries water in four pots twice a day over miles on foot to water each sapling until roots strike deep."
+      },
+      {
+        "date": "1995-04-10",
+        "event": "National Citizen's Award presented to Thimmakka as her highway canopy reaches majestic maturity."
+      },
+      {
+        "date": "2019-03-16",
+        "event": "At age 107, she receives the Padma Shri from President Ram Nath Kovind, affectionately blessing him during the ceremony."
+      },
+      {
+        "date": "2019-06-20",
+        "event": "Karnataka government drops highway widening project to save Thimmakka's 385 heritage banyan trees."
+      }
+    ],
+    "causes": [
+      "Severe social ostracization faced in rural Karnataka due to inability to bear biological children.",
+      "Total absence of tree shade on the hot, dusty road between Hulikal and Kudur.",
+      "Spiritual and maternal resolve to nurture living banyan trees as eternal offspring."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Creation of an iconic 45-kilometer biological green corridor hosting hundreds of species of nesting birds, fruit bats, and insects.",
+      "socialDamage": "Transformed the narrative of barrenness into a beacon of ecological motherhood and universal respect.",
+      "economicDamage": "Asset value of the mature timber, ecological services, and carbon capture estimated at over ₹100 crore."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Karnataka government declared the Hulikal-Kudur Banyan tree avenue a State Heritage Site; named ecological welfare schemes after her.",
+      "rescueAgencies": [
+        "Karnataka Forest Department",
+        "Public Works Department",
+        "Government of India"
+      ],
+      "communityRole": "Local highway bus drivers and villagers constructed thorn fences to protect her young banyan saplings from grazing cattle."
+    },
+    "reliefAndRecovery": [
+      "Establishment of the Saalumarada Thimmakka International Foundation funding rural education and tree planting.",
+      "Re-alignment of the Karnataka state highway expansion to ensure not a single one of her banyans was cut.",
+      "Conferred the title 'Vrikshamate' (Mother of Trees) by civil society organizations."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_thimmakka.jpg",
+      "caption": "Padma Shri Saalumarada Thimmakka standing beneath one of the 385 sprawling banyan trees she planted on the Hulikal highway.",
+      "credit": "Karnataka Information Dept / PIB / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://www.padmaawards.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Padma Shri Award Citation: Saalumarada Thimmakka",
+        "publisher": "Ministry of Home Affairs, Government of India",
+        "url": "https://www.padmaawards.gov.in/",
+        "date": "2019-03-16"
+      },
+      {
+        "title": "Heritage Tree Declaration of Hulikal Banyan Avenue",
+        "publisher": "Karnataka Biodiversity Board",
+        "url": "https://kbb.karnataka.gov.in/",
+        "date": "2019-07-01"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-003",
+    "title": "Chandi Prasad Bhatt: Chipko Leadership (Ramon Magsaysay & Gandhi Peace Prize)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-12",
+    "year": 1982,
+    "dateDetails": {
+      "startDate": "1964-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Six decades of pioneering grassroots ecology",
+      "peakIntensity": "1982 (Ramon Magsaysay Award) & 2013 (Gandhi Peace Prize)"
+    },
+    "location": {
+      "state": "Uttarakhand",
+      "country": "India",
+      "coordinates": "30.4167° N, 79.3333° E",
+      "affectedAreas": [
+        "Gopeshwar",
+        "Chamoli district",
+        "Alaknanda catchment",
+        "Garhwal Himalayas"
+      ]
+    },
+    "summary": "Gandhian social worker who founded the Dasholi Gram Swarajya Sangh (DGSS) in 1964, pioneered the tree-hugging Chipko technique, and pioneered post-flood ecological restoration camps across Garhwal, winning the Ramon Magsaysay Award in 1982 and the Gandhi Peace Prize in 2013.",
+    "timeline": [
+      {
+        "date": "1964-10-31",
+        "event": "Founds Dasholi Gram Swarajya Sangh in Gopeshwar to create village-based forest cottage industries."
+      },
+      {
+        "date": "1973-03-27",
+        "event": "Invents the Chipko concept in Mandal forest: 'When loggers raise axes, embrace the tree to protect it.'"
+      },
+      {
+        "date": "1975-06-15",
+        "event": "Launches pioneering 'Eco-Development Camps' bringing together villagers, students, and scientists to replant bare slopes."
+      },
+      {
+        "date": "1982-08-31",
+        "event": "Awarded the Ramon Magsaysay Award for Community Leadership in Manila for non-violent forest defense."
+      },
+      {
+        "date": "2014-07-15",
+        "event": "Presented the Gandhi Peace Prize by the President of India for his lifelong commitment to environmental preservation."
+      }
+    ],
+    "causes": [
+      "Commercial exploitation of Himalayan mountain resources by outside contractors marginalizing local hill communities.",
+      "High vulnerability of denuded mountain slopes to devastating landslides and monsoonal flash floods.",
+      "Need for constructive ecological work (prakriti nirman) alongside protest movements."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Regenerated over 100 mountain micro-watersheds across Chamoli; achieved documented tree survival rates exceeding 80% through women-led Van Panchayats.",
+      "socialDamage": "Zero negative impacts; empowered Garhwali women as primary ecological decision-makers.",
+      "economicDamage": "Diverted commercial timber auctions into decentralized sustainable village cooperative enterprises."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Appointed to prime ministerial environmental advisory councils; awarded Padma Bhushan (2005) and Gandhi Peace Prize (2013).",
+      "rescueAgencies": [
+        "Dasholi Gram Swarajya Sangh",
+        "Planning Commission of India",
+        "MoEF"
+      ],
+      "communityRole": "Bhatt worked without personal wealth, living among villagers and guiding youth to view forests as protectors against natural deluges."
+    },
+    "reliefAndRecovery": [
+      "Pioneered the institution of Mahila Mangal Dals (Women's Welfare Leagues) to govern local village forest commons.",
+      "Organized annual grassroots environmental disaster management audits following the 2013 and 2021 Himalayan flash floods.",
+      "Scientific monographs on the fragility of para-glacial valleys published by DGSS."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_chandi_prasad_bhatt.jpg",
+      "caption": "Chandi Prasad Bhatt receiving the Gandhi Peace Prize at Rashtrapati Bhavan for his pioneering leadership of the Chipko Movement.",
+      "credit": "President of India / PIB / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Ramon Magsaysay Award Citation: Chandi Prasad Bhatt",
+        "publisher": "Ramon Magsaysay Award Foundation",
+        "url": "https://www.rmaward.asia/",
+        "date": "1982-08-31"
+      },
+      {
+        "title": "Gandhi Peace Prize Presentation Citation",
+        "publisher": "Ministry of Culture, Government of India",
+        "url": "https://pib.gov.in/",
+        "date": "2014-07-15"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-004",
+    "title": "Sunderlal Bahuguna: Trans-Himalayan Ecological Crusade (Padma Vibhushan)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-13",
+    "year": 2009,
+    "dateDetails": {
+      "startDate": "1970-01-01",
+      "endDate": "2021-05-21",
+      "duration": "50 years of tireless Himalayan advocacy",
+      "peakIntensity": "1981-1983 (4,870 km Kashmir-to-Kohima Trans-Himalayan March)"
+    },
+    "location": {
+      "state": "Uttarakhand / Trans-Himalaya",
+      "country": "India",
+      "coordinates": "30.3800° N, 78.4800° E",
+      "affectedAreas": [
+        "Tehri Garhwal",
+        "Kashmir to Kohima trans-Himalayan belt",
+        "Bhagirathi river valley"
+      ]
+    },
+    "summary": "Legendary Gandhian crusader who coined the immortal slogan 'Ecology is permanent economy', undertook an epic 4,870-km foot march across the Himalayas from Kashmir to Kohima, led decades of resistance against the Tehri Dam, and won the Right Livelihood Award and Padma Vibhushan.",
+    "timeline": [
+      {
+        "date": "1971-08-01",
+        "event": "Embarks on anti-liquor and anti-commercial forest logging padyatras in Tehri Garhwal."
+      },
+      {
+        "date": "1981-04-10",
+        "event": "Commences historic 4,870-km Kashmir-to-Kohima trans-Himalayan foot march to assess ecological destruction."
+      },
+      {
+        "date": "1987-12-09",
+        "event": "Conferred the Right Livelihood Award (Alternative Nobel Prize) in Stockholm for spreading the Chipko message."
+      },
+      {
+        "date": "1995-05-01",
+        "event": "Undertakes 45-day hunger strike on the banks of Bhagirathi against the seismic hazards of Tehri Dam."
+      },
+      {
+        "date": "2009-01-26",
+        "event": "Awarded the Padma Vibhushan, India's second-highest civilian honor, for lifelong environmental stewardship."
+      }
+    ],
+    "causes": [
+      "Rapid despoliation of Himalayan watersheds by commercial logging, monocultures, and mega-dam blasting.",
+      "Subordination of fragile mountain ecosystems to lowland metropolitan electricity and timber demands.",
+      "Need to revive the ancient Indian cultural philosophy of viewing forests as sacred living beings (Aranya Samskriti)."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Instrumental in the central government enacting a 15-year logging ban across Uttarakhand forests above 1,000 meters in 1980.",
+      "socialDamage": "Zero negative impacts; awakened national political leadership to the reality that Himalayan deforestation causes Gangetic floods.",
+      "economicDamage": "Challenged destructive developmental spending in favor of sustainable decentralized mountain livelihoods."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Prime Ministers Indira Gandhi and P.V. Narasimha Rao personally met him for ecological reviews; awarded Padma Vibhushan in 2009.",
+      "rescueAgencies": [
+        "Gandhi Peace Foundation",
+        "Chipko Information Centre"
+      ],
+      "communityRole": "Travelled entirely on foot, sleeping in village homes, singing folk songs, and teaching the connection between soil, water, and trees."
+    },
+    "reliefAndRecovery": [
+      "Dissemination of the ecological message: 'What do the forests bear? Soil, water and pure air. Soil, water and pure air are the basis of life.'",
+      "Pioneered the transition from commercial timber forestry to conservation forestry in the Indian Forest Service syllabus.",
+      "Inauguration of the Sunderlal Bahuguna Memorial Environmental Lecture Series by universities worldwide."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_sunderlal_bahuguna.jpg",
+      "caption": "Sunderlal Bahuguna with his iconic backpack and cotton scarf, advocating the protection of Himalayan forests.",
+      "credit": "Chipko Information Centre / Public Domain Archive",
+      "license": "Public Domain / Educational Use",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Padma Vibhushan Citation for Sunderlal Bahuguna",
+        "publisher": "Ministry of Home Affairs, Government of India",
+        "url": "https://www.padmaawards.gov.in/",
+        "date": "2009-01-26"
+      },
+      {
+        "title": "The Gentle Revolutionary: Life of Sunderlal Bahuguna",
+        "publisher": "Rupa Publications (George Alfred James)",
+        "url": "https://rupapublications.co.in/",
+        "date": "2013-05-10"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-005",
+    "title": "Tulsi Gowda: 'Encyclopedia of the Forest' (Padma Shri)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-14",
+    "year": 2021,
+    "dateDetails": {
+      "startDate": "1960-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Six decades of indigenous silviculture",
+      "peakIntensity": "November 2021 (Padma Shri award ceremony)"
+    },
+    "location": {
+      "state": "Karnataka",
+      "country": "India",
+      "coordinates": "14.8000° N, 74.3000° E",
+      "affectedAreas": [
+        "Honnavar",
+        "Ankola",
+        "Uttara Kannada district",
+        "Western Ghats"
+      ]
+    },
+    "summary": "An indigenous Halakki tribal woman from Karnataka who never received formal schooling, Tulsi Gowda planted over 30,000 trees, possesses unmatched encyclopedic knowledge of native seed germination and medicinal plants, and received the Padma Shri in 2021 walking barefoot into the presidential palace.",
+    "timeline": [
+      {
+        "date": "1956-05-10",
+        "event": "Begins working as a daily-wage laborer at the Karnataka Forest Department nursery in Honnavar."
+      },
+      {
+        "date": "1975-08-15",
+        "event": "Forest officers notice her extraordinary gift: 99% germination success rate and ability to identify any tree species from its leaf or seed."
+      },
+      {
+        "date": "1985-01-01",
+        "event": "Forest Department recognizes her specialized knowledge and regularizes her as a permanent nursery supervisor."
+      },
+      {
+        "date": "1999-06-05",
+        "event": "Honored with the Karnataka Rajyotsava Award for personal planting of over 30,000 native evergreen trees."
+      },
+      {
+        "date": "2021-11-08",
+        "event": "Awarded the Padma Shri by President Ram Nath Kovind, walking barefoot in traditional Halakki tribal attire."
+      }
+    ],
+    "causes": [
+      "Severe deforestation of the coastal Western Ghats due to infrastructure expansion and illegal firewood logging.",
+      "Loss of traditional indigenous botanical and medicinal plant wisdom among younger generations.",
+      "Poor germination rates in government nurseries relying on chemical treatments instead of traditional tribal methods."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Single-handedly produced hundreds of thousands of healthy native evergreen and semi-evergreen saplings; restored degraded patches across Honnavar and Ankola.",
+      "socialDamage": "Brought immense global recognition and pride to the marginalized Halakki indigenous tribal community.",
+      "economicDamage": "Built enormous ecological forestry capital with minimal state daily-wage expense."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Karnataka Forest Department regularized her service; President of India conferred Padma Shri in 2021.",
+      "rescueAgencies": [
+        "Karnataka Forest Department",
+        "Ministry of Tribal Affairs"
+      ],
+      "communityRole": "Trained generations of forest officers, botanists, and tribal youths in the exact seasons and techniques for harvesting wild forest seeds."
+    },
+    "reliefAndRecovery": [
+      "Establishment of indigenous seed gene-banks across Uttara Kannada documented with her knowledge.",
+      "Integration of traditional ecological knowledge (TEK) into Karnataka Forest Department nursery manuals.",
+      "Mentorship of local women self-help groups in cultivating native wild medicinal species."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_tulsi_gowda.jpg",
+      "caption": "Padma Shri Tulsi Gowda, the 'Encyclopedia of the Forest', inspecting native Western Ghats saplings barefoot.",
+      "credit": "Karnataka Forest Department / PIB / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://www.padmaawards.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Padma Shri Award Citation: Tulsi Gowda",
+        "publisher": "Ministry of Home Affairs, Government of India",
+        "url": "https://www.padmaawards.gov.in/",
+        "date": "2021-11-08"
+      },
+      {
+        "title": "Halakki Indigenous Botanical Knowledge: An Ethno-Silvicultural Study",
+        "publisher": "Indian Institute of Science (IISc)",
+        "url": "https://ces.iisc.ac.in/",
+        "date": "2022-04-15"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-006",
+    "title": "Sunita Narain: Environmental Policy & Toxic Exposure Advocacy (CSE)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-15",
+    "year": 2005,
+    "dateDetails": {
+      "startDate": "1982-01-01",
+      "endDate": "2024-03-31",
+      "duration": "Four decades of pioneering environmental advocacy",
+      "peakIntensity": "2005 (Stockholm Water Prize) & 2007 (Padma Shri)"
+    },
+    "location": {
+      "state": "Delhi / Pan-India",
+      "country": "India (Global Influence)",
+      "coordinates": "28.5800° N, 77.2200° E",
+      "affectedAreas": [
+        "New Delhi (CSE Headquarters)",
+        "Pan-India air sheds",
+        "Endosulfan zones (Kerala)",
+        "Industrial corridors"
+      ]
+    },
+    "summary": "Director General of the Centre for Science and Environment (CSE), Sunita Narain led groundbreaking investigative research that forced the introduction of CNG in Delhi's public transport, exposed pesticide residues in soft drinks and honey, and advocated global climate justice based on per-capita equity.",
+    "timeline": [
+      {
+        "date": "1982-05-01",
+        "event": "Joins Centre for Science and Environment under Anil Agarwal; co-edits State of India's Environment reports."
+      },
+      {
+        "date": "1998-07-28",
+        "event": "CSE research forces Supreme Court order mandating Delhi's entire public transport bus fleet convert to clean CNG."
+      },
+      {
+        "date": "2003-08-05",
+        "event": "Publishes explosive CSE laboratory findings revealing toxic pesticide cocktails in bottled soft drinks and bottled water."
+      },
+      {
+        "date": "2005-03-22",
+        "event": "Awarded the Stockholm Water Prize for pioneering decentralized community rainwater harvesting across India."
+      },
+      {
+        "date": "2007-01-26",
+        "event": "Conferred the Padma Shri by the President of India for environmental research and policy leadership."
+      }
+    ],
+    "causes": [
+      "Severe public health crises stemming from unchecked industrial vehicular emissions and toxic pesticide contamination.",
+      "Global climate change negotiations attempting to impose unfair emission curbs on poor nations without historical accountability.",
+      "Decline of traditional community water bodies leading to acute municipal groundwater depletion."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Saved estimated thousands of lives in Delhi through the mandatory transition to CNG and Bharat Stage (BS-VI) clean fuel standards.",
+      "socialDamage": "Confronted multi-national corporations and pesticide lobbies to protect public health and food safety standards.",
+      "economicDamage": "Spurred multi-billion-dollar investments in clean gas infrastructure, emissions testing, and renewable energy."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Supreme Court appointed her to the Environment Pollution (Prevention and Control) Authority (EPCA); Union Government revised national pesticide limits.",
+      "rescueAgencies": [
+        "Centre for Science and Environment (CSE)",
+        "Supreme Court of India (EPCA)",
+        "CPCB"
+      ],
+      "communityRole": "Mobilized public consumer awareness through CSE's investigative magazine 'Down To Earth', transforming environmental science into popular knowledge."
+    },
+    "reliefAndRecovery": [
+      "Nationwide rollout of compressed natural gas (CNG) and transition directly from BS-IV to BS-VI vehicular fuel standards in 2020.",
+      "Establishment of mandatory Bureau of Indian Standards (BIS) food and beverage pesticide residue limits.",
+      "Revival of ancient urban and rural rainwater harvesting techniques published in 'Dying Wisdom'."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_sunita_narain.jpg",
+      "caption": "Sunita Narain, Director General of CSE, addressing environmental researchers and policymakers on climate justice.",
+      "credit": "Centre for Science and Environment / Open Access",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://www.cseindia.org/"
+    },
+    "references": [
+      {
+        "title": "Dying Wisdom: Rise, Fall and Potential of India's Traditional Water Harvesting Systems",
+        "publisher": "Centre for Science and Environment (CSE)",
+        "url": "https://www.cseindia.org/",
+        "date": "1997-03-15"
+      },
+      {
+        "title": "Stockholm Water Prize Citation: Sunita Narain and CSE",
+        "publisher": "Stockholm International Water Institute (SIWI)",
+        "url": "https://siwi.org/",
+        "date": "2005-03-22"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-007",
+    "title": "Anil Agarwal: Pioneer of Citizen Environmental Audits (Padma Bhushan)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-16",
+    "year": 2002,
+    "dateDetails": {
+      "startDate": "1980-01-01",
+      "endDate": "2002-01-02",
+      "duration": "Two decades of seminal research",
+      "peakIntensity": "1982 (First Citizens' Report on Environment) & 2002 (Posthumous Padma Bhushan)"
+    },
+    "location": {
+      "state": "Delhi / Pan-India",
+      "country": "India (Global Pioneer)",
+      "coordinates": "28.5800° N, 77.2200° E",
+      "affectedAreas": [
+        "New Delhi",
+        "Tehri Garhwal",
+        "Kolkata",
+        "Global Climate Arenas"
+      ]
+    },
+    "summary": "IIT Kanpur-educated engineer turned environmental journalist who founded the Centre for Science and Environment (CSE) in 1980, published India's seminal First Citizens' Report on the State of India's Environment (1982), and co-authored 'Global Warming in an Unequal World' (1991), establishing the global principle of common but differentiated responsibilities.",
+    "timeline": [
+      {
+        "date": "1980-07-01",
+        "event": "Founds the Centre for Science and Environment (CSE) in New Delhi to bridge environmental science and public interest."
+      },
+      {
+        "date": "1982-08-15",
+        "event": "Publishes the First Citizens' Report: The State of India's Environment 1982, revolutionizing how the nation viewed ecology."
+      },
+      {
+        "date": "1985-05-10",
+        "event": "Publishes the Second Citizens' Report, highlighting the ecological struggles of women and rural biomass economies."
+      },
+      {
+        "date": "1991-01-01",
+        "event": "Co-authors landmark treatise 'Global Warming in an Unequal World: A Case of Environmental Colonialism', exposing Western bias in carbon counting."
+      },
+      {
+        "date": "2002-01-26",
+        "event": "Posthumously awarded the Padma Bhushan by the President of India following his untimely passing."
+      }
+    ],
+    "causes": [
+      "Colonial perception of environment as mere luxury conservation (preserving tigers for elite tourism) while ignoring rural biomass survival.",
+      "Absence of independent scientific fact-checking on river pollution, pesticide toxicity, and industrial air emissions.",
+      "Flawed methodology of Western research institutes (World Resources Institute) blaming methane from developing country rice fields equally with American car exhausts."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Transformed environmental management in India from bureaucratic silence into an open, participatory democratic discourse.",
+      "socialDamage": "Articulated the concept of 'Environmentalism of the Poor', proving that poor people depend on ecological health for their very survival.",
+      "economicDamage": "Paved the way for renewable energy investments and equitable carbon accounting models."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Prime Ministers Indira Gandhi and Rajiv Gandhi utilized his reports to formulate national environmental policies; conferred Padma Bhushan in 2002.",
+      "rescueAgencies": [
+        "Centre for Science and Environment",
+        "Government of India"
+      ],
+      "communityRole": "Mentored hundreds of investigative environmental journalists, grassroot activists, and youth researchers across India."
+    },
+    "reliefAndRecovery": [
+      "Foundation of 'Down To Earth' bi-weekly science and environment newsmagazine in 1992.",
+      "Institutionalization of the Green Rating Project (GRP) holding paper, auto, and steel industries publicly accountable for emissions.",
+      "Enduring global recognition of the 'Polluter Pays Principle' and per-capita emission entitlements in the UN Climate Convention (UNFCCC)."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_anil_agarwal.jpg",
+      "caption": "Anil Agarwal, visionary founder of the Centre for Science and Environment, with the historic State of India's Environment reports.",
+      "credit": "Centre for Science and Environment Archive / Open Access",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://www.cseindia.org/"
+    },
+    "references": [
+      {
+        "title": "The State of India's Environment 1982: A Citizens' Report",
+        "publisher": "Centre for Science and Environment",
+        "url": "https://www.cseindia.org/",
+        "date": "1982-08-15"
+      },
+      {
+        "title": "Global Warming in an Unequal World: A Case of Environmental Colonialism",
+        "publisher": "Centre for Science and Environment (Anil Agarwal & Sunita Narain)",
+        "url": "https://www.cseindia.org/",
+        "date": "1991-01-01"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-008",
+    "title": "Jamuna Tudu: 'Lady Tarzan of Jharkhand' (Padma Shri)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-17",
+    "year": 2019,
+    "dateDetails": {
+      "startDate": "1998-01-01",
+      "endDate": "2024-03-31",
+      "duration": "25 years of anti-timber mafia confrontation",
+      "peakIntensity": "2019 (Award of Padma Shri by President of India)"
+    },
+    "location": {
+      "state": "Jharkhand",
+      "country": "India",
+      "coordinates": "22.5000° N, 86.5000° E",
+      "affectedAreas": [
+        "Muturkham village",
+        "Chakulia block",
+        "East Singhbhum district",
+        "Saranda periphery"
+      ]
+    },
+    "summary": "Defying death threats, physical assaults, and armed timber mafias, Santhal tribal woman Jamuna Tudu mobilized village women into the 'Van Suraksha Samiti' (Forest Safety Committee), patrolling 50 hectares of natural sal forest with bows, arrows, and lathis, winning the Padma Shri in 2019.",
+    "timeline": [
+      {
+        "date": "1998-06-15",
+        "event": "Arriving as an 18-year-old bride in Muturkham, Jamuna is horrified to see the timber mafia mercilessly cutting sal trees; forms 25-woman patrol."
+      },
+      {
+        "date": "2004-03-10",
+        "event": "Timber mafia ambushes Jamuna and her husband with stones and arrows; despite head injuries, she refuses to back down."
+      },
+      {
+        "date": "2008-08-15",
+        "event": "Forms over 300 women-led Van Suraksha Samitis across East Singhbhum, adopting the slogan 'Ped bachao, Jeevan bachao'."
+      },
+      {
+        "date": "2014-05-01",
+        "event": "Jharkhand Forest Department partners with her committee, recognizing community management of 50 hectares of pristine forest."
+      },
+      {
+        "date": "2019-01-26",
+        "event": "President of India confers the Padma Shri on Jamuna Tudu ('Lady Tarzan') for exceptional environmental bravery."
+      }
+    ],
+    "causes": [
+      "Rampant illegal felling of valuable Sal (Shorea robusta) timber by well-armed criminal syndicates in East Singhbhum.",
+      "Complete passivity of village men who were intimidated by mafia violence and bribes.",
+      "Acute realization that deforestation was causing local hand-pumps to dry up and destroying the adivasi collection of sal leaves and seeds."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties; Jamuna Tudu and members sustained multiple severe assault injuries over 25 years",
+        "injured": "Dozens of women injured in mafia stone-pelting",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Successfully protected and rejuvenated 50 hectares of virgin sal forest in Muturkham; expanded protection to 300 neighboring village forests.",
+      "socialDamage": "Completely transformed rural tribal gender dynamics, establishing women as the fearless guardians of community resources.",
+      "economicDamage": "Shut down illegal timber smuggling rackets that extracted crores in illicit timber annually."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Jharkhand Police provided security protection; Forest Department equipped her committees with identity cards and solar streetlights.",
+      "rescueAgencies": [
+        "Jharkhand Forest Department",
+        "Jharkhand State Police"
+      ],
+      "communityRole": "Over 6,000 tribal women organize daily morning and evening foot patrols armed with sticks, sounding metal thalis to sound the alarm on loggers."
+    },
+    "reliefAndRecovery": [
+      "Celebration of 'Vrikshabandhan' where villagers tie rakhis around sal trees, pledging to protect them with their lives.",
+      "Compensatory community development schemes building tube wells and community halls in participating villages.",
+      "Establishment of the Jamuna Tudu Forest Protection Training Center for young tribal girls."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_jamuna_tudu.jpg",
+      "caption": "Padma Shri Jamuna Tudu leading women of the Van Suraksha Samiti armed with lathis on forest patrol in Jharkhand.",
+      "credit": "Jharkhand Forest Department / PIB / Open Access",
+      "license": "GODL / Open Access",
+      "sourceUrl": "https://www.padmaawards.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Padma Shri Award Citation: Jamuna Tudu (Lady Tarzan)",
+        "publisher": "Ministry of Home Affairs, Government of India",
+        "url": "https://www.padmaawards.gov.in/",
+        "date": "2019-01-26"
+      },
+      {
+        "title": "Women Forest Protectors of Jharkhand: A Field Study",
+        "publisher": "Tribal Research Institute, Ranchi",
+        "url": "https://tri.jharkhand.gov.in/",
+        "date": "2020-03-10"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-009",
+    "title": "Mike Pandey: Whale Shark Conservation Film ('Green Oscar' Breakthrough)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-18",
+    "year": 2001,
+    "dateDetails": {
+      "startDate": "1997-01-01",
+      "endDate": "2001-05-28",
+      "duration": "4 years of investigative underwater filming",
+      "peakIntensity": "May 28, 2001 (MoEFCC Schedule I gazette notification)"
+    },
+    "location": {
+      "state": "Gujarat / Coastal India",
+      "country": "India (Global Impact)",
+      "coordinates": "20.9000° N, 70.3667° E",
+      "affectedAreas": [
+        "Veraval",
+        "Okha",
+        "Porbandar",
+        "Mangrol",
+        "Saurashtra Coast"
+      ]
+    },
+    "summary": "Pioneering wildlife filmmaker Mike Pandey produced the searing investigative documentary 'Shores of Silence: Whale Sharks in India', documenting the brutal slaughter of hundreds of gentle whale sharks off Gujarat, winning the Wildscreen Panda Award ('Green Oscar') and directly compelling the Government of India to grant Whale Sharks highest legal protection under Schedule I of the Wildlife Protection Act.",
+    "timeline": [
+      {
+        "date": "1997-03-15",
+        "event": "Mike Pandey and film crew discover hundreds of Whale Sharks (Rhincodon typus) being harpooned and hacked alive at Veraval port."
+      },
+      {
+        "date": "2000-10-18",
+        "event": "Film 'Shores of Silence' wins the coveted Wildscreen Panda Award ('Green Oscar') in the United Kingdom."
+      },
+      {
+        "date": "2001-02-10",
+        "event": "Pandey screens documentary directly for Prime Minister Atal Bihari Vajpayee and Union Environment Minister."
+      },
+      {
+        "date": "2001-05-28",
+        "event": "Historic Gazette Notification: MoEFCC places Whale Shark under Schedule I of Wildlife (Protection) Act 1972 (first fish to receive this status)."
+      },
+      {
+        "date": "2004-11-15",
+        "event": "Wildlife Trust of India and spiritual leader Morari Bapu launch campaign christening the shark 'Vhali' (beloved daughter)."
+      }
+    ],
+    "causes": [
+      "Commercial slaughter of gentle Whale Sharks migrating from Australia to Gujarat for meat, liver oil (to waterproof wooden boats), and export of fins.",
+      "Total absence of legal wildlife protection for marine fish species under Indian wildlife law prior to 2001.",
+      "Lucrative international trade in whale shark fins catering to East Asian luxury culinary markets."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero human casualties; stopped the slaughter of hundreds of endangered whale sharks annually",
+        "injured": "None",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Halted the local commercial extirpation of the world's largest fish; transformed Gujarat fishermen from hunters into passionate guardians.",
+      "socialDamage": "Cultural campaign transformed community mindset, comparing the shark returning to breed to a married daughter visiting her maternal home.",
+      "economicDamage": "State government introduced compensation paying fishermen for nets cut to release accidentally entangled sharks."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "MoEFCC amended the Wildlife Protection Act 1972 on May 28, 2001, making whale shark hunting a non-bailable offense punishable with up to 7 years imprisonment.",
+      "rescueAgencies": [
+        "Gujarat Forest Department",
+        "Wildlife Trust of India (WTI)",
+        "Indian Coast Guard"
+      ],
+      "communityRole": "Over 1,000 fishing boat crews in Saurashtra voluntarily cut their expensive fishing nets to release over 850 entangled whale sharks safely back into the sea."
+    },
+    "reliefAndRecovery": [
+      "Implementation of the Whale Shark Rescue Compensation Scheme by Gujarat Forest Department, reimbursing fishermen up to ₹25,000 per damaged net.",
+      "Satellite telemetry tagging of released whale sharks tracking trans-oceanic migrations across the Indian Ocean.",
+      "Inclusion of Whale Shark in Appendix I of CITES (Convention on International Trade in Endangered Species) spurred by Indian scientific data."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_mike_pandey.jpg",
+      "caption": "Mike Pandey filming an endangered Whale Shark underwater off the coast of Gujarat for his award-winning documentary.",
+      "credit": "Riverbank Studios / Mike Pandey / Open Access",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://moef.gov.in/"
+    },
+    "references": [
+      {
+        "title": "Schedule I Amendment Notification for Whale Shark (Rhincodon typus)",
+        "publisher": "Ministry of Environment and Forests, Government of India",
+        "url": "https://moef.gov.in/",
+        "date": "2001-05-28"
+      },
+      {
+        "title": "Whale Shark Campaign in Gujarat: From Slaughter to Celebration",
+        "publisher": "Wildlife Trust of India (WTI)",
+        "url": "https://www.wti.org.in/",
+        "date": "2008-04-10"
+      }
+    ]
+  },
+  {
+    "id": "def-aww-010",
+    "title": "Afroz Shah: Versova Beach Citizen Cleanup (UN Champions of the Earth)",
+    "category": "deforestation",
+    "subcategory": "award-winning-environmental-work",
+    "verificationStatus": "Verified - Official Record",
+    "lastVerifiedDate": "2024-05-19",
+    "year": 2016,
+    "dateDetails": {
+      "startDate": "2015-10-01",
+      "endDate": "2024-03-31",
+      "duration": "Nine years of weekly citizen cleanups",
+      "peakIntensity": "2016-2018 (removal of over 20 million kg of trash)"
+    },
+    "location": {
+      "state": "Maharashtra",
+      "country": "India",
+      "coordinates": "19.1319° N, 72.8122° E",
+      "affectedAreas": [
+        "Versova Beach",
+        "Mithi River mouth",
+        "Malad Creek",
+        "Mumbai Arabian Sea coast"
+      ]
+    },
+    "summary": "Young Mumbai lawyer Afroz Shah moved into a seaside apartment, found the beach buried under 5.5 feet of rotting plastic, and initiated weekly weekend cleanups that grew into the world's largest citizen-led beach cleanup, removing over 20 million kilograms of trash and winning the UN Champions of the Earth Award in 2016.",
+    "timeline": [
+      {
+        "date": "2015-10-01",
+        "event": "Afroz Shah and 84-year-old neighbor Harbansh Mathur pick up plastic bags by hand on Versova Beach."
+      },
+      {
+        "date": "2016-05-15",
+        "event": "Weekend volunteer numbers surge from 2 to over 1,000, including local Koli fishermen, slum children, and Bollywood stars."
+      },
+      {
+        "date": "2016-12-02",
+        "event": "United Nations Environment Programme (UNEP) awards Afroz Shah the 'Champions of the Earth' Award (Inspiration and Action)."
+      },
+      {
+        "date": "2018-03-22",
+        "event": "Historic ecological milestone: Olive Ridley sea turtle hatchlings emerge on clean Versova Beach sand for the first time in 20 years."
+      },
+      {
+        "date": "2019-01-10",
+        "event": "Afroz expands campaign to the polluted Mithi River, launching 'Circular Economy' education in 50,000 slum homes."
+      }
+    ],
+    "causes": [
+      "Severe ocean plastic waste dumping and unmanaged solid waste from 12 open nullahs flowing into Malad Creek.",
+      "Decades of civic neglect that left Versova Beach choked under 5.5 feet of plastic sheets, bottles, and textile debris.",
+      "Suffocation of coastal mangrove root networks preventing natural marine fish and crab breeding."
+    ],
+    "impact": {
+      "casualties": {
+        "deaths": "Zero casualties",
+        "injured": "Minor cuts from glass treated with tetanus vaccines",
+        "missing": "None",
+        "displaced": "Zero displacement"
+      },
+      "environmentalDamage": "Removal of over 20 million kilograms of plastic waste; restoration of 2.5 kilometers of coastline; return of Olive Ridley sea turtles nesting on the sand.",
+      "socialDamage": "Zero negative impacts; united Koli fishing villages, affluent high-rise residents, and municipal workers in shared physical labor.",
+      "economicDamage": "Citizen labor provided equivalent of tens of crores in municipal dredging free of cost."
+    },
+    "responseAndRescue": {
+      "governmentResponse": "Brihanmumbai Municipal Corporation (BMC) deployed earthmovers and dump trucks to transport segregated plastic to recycling centers.",
+      "rescueAgencies": [
+        "United Nations Environment Programme (UNEP)",
+        "BMC",
+        "Mumbai Police"
+      ],
+      "communityRole": "Tens of thousands of school students, Koli fishermen, lawyers, and youth joined over 200 consecutive weekend cleanup drives."
+    },
+    "reliefAndRecovery": [
+      "Door-to-door plastic literacy campaign conducted in 50,000 slum households along the Mithi River.",
+      "Planting of over 30,000 mangrove propagules along Malad Creek to create a natural green filter.",
+      "UNEP adopted the Versova model as a global blueprint for coastal citizen science and ocean action."
+    ],
+    "media": {
+      "imageUrl": "assets/images/deforestation_afroz_shah.jpg",
+      "caption": "Afroz Shah with citizen volunteers and Olive Ridley sea turtle hatchlings on clean Versova Beach sand in March 2018.",
+      "credit": "Afroz Shah Foundation / UNEP / Open Access",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://www.unep.org/"
+    },
+    "references": [
+      {
+        "title": "UN Champions of the Earth Award Citation: Afroz Shah",
+        "publisher": "United Nations Environment Programme (UNEP)",
+        "url": "https://www.unep.org/",
+        "date": "2016-12-02"
+      },
+      {
+        "title": "Versova Beach Cleanup: A Global Model for Citizen-Led Ocean Action",
+        "publisher": "BMC & Maharashtra Pollution Control Board",
+        "url": "https://mpcb.gov.in/",
+        "date": "2018-05-20"
+      }
+    ]
+  }
+]

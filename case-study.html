@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Case Study Dossier | Environmental Knowledge Hub</title>
+  <meta name="description" content="In-depth factual environmental case study dossier with chronology, damages, rescue mobilization, and verified government references.">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- Top Academic Notice Bar -->
+  <div class="top-notice-bar">
+    <div class="container top-notice-content">
+      <span>
+        <span class="badge-academic">Case Study Dossier</span>
+        Empirical Incident Record & Scientific Post-Event Audit
+      </span>
+      <span>
+        <a href="about.html" style="color: #d1e7dd; text-decoration: underline;">How this case study was verified</a>
+      </span>
+    </div>
+  </div>
+
+  <!-- Main Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="site-brand">
+        <div class="brand-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            <path d="m9 12 2 2 4-4"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Environmental Knowledge Hub</h1>
+          <span class="brand-subtitle">Empirical Case Studies & Disaster Archive</span>
+        </div>
+      </a>
+
+      <button class="mobile-nav-toggle" id="mobileNavToggle" aria-label="Toggle navigation menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/>
+        </svg>
+      </button>
+
+      <nav class="site-nav" id="siteNav">
+        <a href="index.html" class="nav-link">Home Dashboard</a>
+        <a href="subcategories.html" class="nav-link active">Explore Case Studies</a>
+        <a href="about.html" class="nav-link">Verification Checklist & Sources</a>
+        <a href="subcategories.html" class="nav-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+          Back to Explorer
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Container for Case Study Content (Handled by case-study-detail.js) -->
+  <div id="caseDetailContainer">
+    <!-- Header & Fact Banner -->
+    <section class="case-detail-header">
+      <div class="container">
+        <nav class="breadcrumbs" id="detailBreadcrumbs" aria-label="Breadcrumb navigation">
+          <!-- Rendered dynamically -->
+        </nav>
+
+        <div id="detailHeaderBlock">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <div class="case-key-facts-panel" id="detailKeyFacts">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Layout -->
+    <main class="container">
+      <div class="detail-content-layout">
+        <!-- Main Dossier Column -->
+        <div class="detail-main-column">
+          <!-- Photographic Media with Credit & License -->
+          <div id="detailMediaContainer">
+            <!-- Rendered dynamically -->
+          </div>
+
+          <!-- Section 1: Chronological Event Timeline -->
+          <div class="detail-section-block">
+            <h3 class="detail-section-title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+              </svg>
+              Chronological Event Timeline
+            </h3>
+            <div id="detailTimeline"></div>
+          </div>
+
+          <!-- Section 2: Verified Causes & Triggering Factors -->
+          <div class="detail-section-block">
+            <h3 class="detail-section-title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+              </svg>
+              Reported Causes & Triggering Mechanisms
+            </h3>
+            <div id="detailCauses"></div>
+          </div>
+
+          <!-- Section 3: Comprehensive Impact & Damage Assessment -->
+          <div class="detail-section-block">
+            <h3 class="detail-section-title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+              </svg>
+              Human, Ecological & Economic Damage Assessment
+            </h3>
+            <div id="detailImpact"></div>
+          </div>
+
+          <!-- Section 4: Emergency Response & Rescue Mobilization -->
+          <div class="detail-section-block">
+            <h3 class="detail-section-title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/>
+              </svg>
+              Government Response & Rescue Operations
+            </h3>
+            <div id="detailRescue"></div>
+          </div>
+
+          <!-- Section 5: Relief, Rehabilitation & Subsequent Solutions -->
+          <div class="detail-section-block">
+            <h3 class="detail-section-title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>
+              </svg>
+              Relief, Long-term Rehabilitation & Institutional Reforms
+            </h3>
+            <div id="detailRelief"></div>
+          </div>
+
+          <!-- Section 6: Official References & Archival Sources -->
+          <div class="detail-section-block">
+            <h3 class="detail-section-title">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/>
+              </svg>
+              Official References & Primary Scientific Documentation
+            </h3>
+            <div id="detailReferences"></div>
+          </div>
+        </div>
+
+        <!-- Sidebar Column -->
+        <aside class="detail-sidebar">
+          <!-- Verification Box -->
+          <div class="sidebar-box">
+            <h4 class="sidebar-box-title">Source Verification Audit</h4>
+            <div id="sidebarVerificationBox">
+              <!-- Rendered dynamically -->
+            </div>
+          </div>
+
+          <!-- Share / Print Box -->
+          <div class="sidebar-box">
+            <h4 class="sidebar-box-title">Academic Citation</h4>
+            <p style="font-size: 0.8125rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: 1rem;">
+              Cite this record in collegiate research:
+            </p>
+            <div style="background: var(--bg-surface-alt); padding: 0.75rem; border-radius: var(--radius-sm); font-size: 0.775rem; font-family: monospace; color: var(--text-main); word-break: break-all; margin-bottom: 1rem; border: 1px solid var(--border-subtle);">
+              Environmental Knowledge Hub (2026). "Case Study Dossier". Verified College Archive.
+            </div>
+            <button onclick="window.print()" class="pill-item" style="width: 100%; justify-content: center; cursor: pointer;">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                <rect width="12" height="8" x="6" y="14"></rect>
+              </svg>
+              Print / Save Dossier PDF
+            </button>
+          </div>
+
+          <!-- Related Studies Box -->
+          <div class="sidebar-box">
+            <h4 class="sidebar-box-title">Related Case Studies</h4>
+            <div id="sidebarRelatedStudies">
+              <!-- Rendered dynamically -->
+            </div>
+          </div>
+        </aside>
+      </div>
+    </main>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h3>Environmental Knowledge Hub</h3>
+          <p class="footer-desc">
+            An empirical archive of real environmental events, natural disasters, industrial pollution incidents, and ecological restoration movements.
+          </p>
+        </div>
+
+        <div class="footer-column">
+          <h4>Navigation</h4>
+          <ul class="footer-links">
+            <li><a href="index.html">Home Dashboard</a></li>
+            <li><a href="subcategories.html">All Case Studies</a></li>
+            <li><a href="about.html">Verification Checklist</a></li>
+            <li><a href="about.html#sources-directory">Sources Directory</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Direct Official Sources</h4>
+          <ul class="footer-links">
+            <li><a href="https://ndma.gov.in/" target="_blank" rel="noopener noreferrer">NDMA Official Site</a></li>
+            <li><a href="https://nidm.gov.in/CaseStudies.asp" target="_blank" rel="noopener noreferrer">NIDM Case Studies</a></li>
+            <li><a href="https://cpcb.nic.in/" target="_blank" rel="noopener noreferrer">Central Pollution Control Board</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Collegiate Research Note</h4>
+          <p style="font-size: 0.8125rem; color: #8da698; line-height: 1.5;">
+            All case studies are compiled from verified public domain government reports, disaster management authority publications, and scientific post-disaster audits.
+          </p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2026 Environmental Knowledge Hub • Open Academic Resource
+        </div>
+        <div>
+          <a href="about.html">Verification Protocol</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/icons.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/case-study-detail.js"></script>
+</body>
+</html>

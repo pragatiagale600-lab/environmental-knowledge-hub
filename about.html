@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About & Verification Checklist | Environmental Knowledge Hub</title>
+  <meta name="description" content="Research methodology, source verification protocol, live audit breakdown across 23 environmental subcategories, and government archival directory.">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- Top Academic Notice Bar -->
+  <div class="top-notice-bar">
+    <div class="container top-notice-content">
+      <span>
+        <span class="badge-academic">Methodology & Audit</span>
+        Live Verification Metrics Across All 23 Subcategories
+      </span>
+      <span>
+        Zero-Fabrication Policy: All Data Sourced from Official Reports
+      </span>
+    </div>
+  </div>
+
+  <!-- Main Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="site-brand">
+        <div class="brand-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            <path d="m9 12 2 2 4-4"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Environmental Knowledge Hub</h1>
+          <span class="brand-subtitle">Empirical Case Studies & Disaster Archive</span>
+        </div>
+      </a>
+
+      <button class="mobile-nav-toggle" id="mobileNavToggle" aria-label="Toggle navigation menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/>
+        </svg>
+      </button>
+
+      <nav class="site-nav" id="siteNav">
+        <a href="index.html" class="nav-link">Home Dashboard</a>
+        <a href="subcategories.html" class="nav-link">Explore Case Studies</a>
+        <a href="about.html" class="nav-link active">Verification Checklist & Sources</a>
+        <a href="subcategories.html" class="nav-btn">Explore Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Banner -->
+  <div style="background-color: var(--bg-surface); border-bottom: 1px solid var(--border-subtle); padding: 2.5rem 0 2rem;">
+    <div class="container">
+      <div class="hero-badge-wrap">
+        <span class="hero-tag">Academic Quality Assurance</span>
+      </div>
+      <h1 class="hero-title" style="font-size: 2.5rem; margin-bottom: 0.75rem;">
+        About the Hub & Verification Checklist
+      </h1>
+      <p class="hero-lead" style="margin-bottom: 0;">
+        The Environmental Knowledge Hub is an academic, empirical repository built for collegiate environmental science and disaster management coursework. It strictly prioritizes verified, primary historical events over generic environmental definitions.
+      </p>
+    </div>
+  </div>
+
+  <main class="container" style="padding-top: 3rem; padding-bottom: 5rem;">
+    
+    <!-- Section 1: Live Verification Audit Table -->
+    <section id="audit-section" style="margin-bottom: 4rem;">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Live Verification Audit & Progress Checklist</h2>
+          <p class="section-desc">
+            Dynamic, real-time audit calculated directly from the repository JSON datasets. Tracks completed, verified, in-review, and pending entries toward the collegiate benchmark of 10+ case studies per subcategory.
+          </p>
+        </div>
+      </div>
+
+      <!-- Quick Metrics Counters -->
+      <div class="live-stats-bar" style="margin-bottom: 2rem;">
+        <div class="stat-item">
+          <span class="stat-value" id="auditTotalStudies">--</span>
+          <span class="stat-label">Total Case Studies in Dataset</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value" id="auditVerifiedCount" style="color: var(--color-success);">--</span>
+          <span class="stat-label">Verified Official Records</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value" id="auditInReviewCount" style="color: var(--color-warning);">--</span>
+          <span class="stat-label">Documented - In Peer Review</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value" id="auditUnverifiedCount" style="color: var(--text-muted);">--</span>
+          <span class="stat-label">Needs Field Verification</span>
+        </div>
+      </div>
+
+      <!-- Live Audit Table -->
+      <div style="background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-lg); overflow-x: auto; box-shadow: var(--shadow-sm);">
+        <table class="audit-table">
+          <thead>
+            <tr>
+              <th style="min-width: 220px;">Subcategory (23 Total)</th>
+              <th>Total Entries</th>
+              <th>Verified (Official)</th>
+              <th>In Review</th>
+              <th>Needs Verification</th>
+              <th style="min-width: 180px;">Target Benchmark (10+)</th>
+            </tr>
+          </thead>
+          <tbody id="auditTableBody">
+            <tr>
+              <td colspan="6" style="text-align: center; padding: 2rem;">
+                <div class="loading-spinner"></div>
+                <p>Auditing case study records...</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Section 2: Research Methodology & Verification Protocol -->
+    <section id="methodology" style="margin-bottom: 4rem;">
+      <h2 class="section-title" style="margin-bottom: 1.25rem;">Research Methodology & Verification Protocol</h2>
+      <div style="background: var(--bg-surface); border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); padding: 2rem; box-shadow: var(--shadow-sm);">
+        <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: 1.5rem;">
+          To preserve rigorous academic integrity for college evaluation, this repository enforces a strict <strong>Zero-Fabrication Policy</strong>. In environmental science and disaster management, inaccurate statistics or fabricated relief efforts lead to misinformation. Therefore:
+        </p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 1.5rem;">
+          <div style="background: var(--bg-surface-alt); padding: 1.25rem; border-radius: var(--radius-md); border-left: 4px solid var(--color-primary-700);">
+            <h4 style="font-family: var(--font-body); font-size: 1rem; color: var(--color-primary-900); margin-bottom: 0.5rem;">1. Primary Source Attribution</h4>
+            <p style="font-size: 0.875rem; color: var(--text-secondary); margin: 0;">
+              Every casualty count, flood level, and financial damage figure is cited from government post-disaster audits, official gazettes, or verified meteorological agencies.
+            </p>
+          </div>
+
+          <div style="background: var(--bg-surface-alt); padding: 1.25rem; border-radius: var(--radius-md); border-left: 4px solid var(--color-primary-700);">
+            <h4 style="font-family: var(--font-body); font-size: 1rem; color: var(--color-primary-900); margin-bottom: 0.5rem;">2. Authentic Photographic Media</h4>
+            <p style="font-size: 0.875rem; color: var(--text-secondary); margin: 0;">
+              No AI-generated or synthetic disaster imagery is permitted. All photos are sourced from public domain archives, Wikimedia Commons, or government defense press releases with full attribution and licensing details.
+            </p>
+          </div>
+
+          <div style="background: var(--bg-surface-alt); padding: 1.25rem; border-radius: var(--radius-md); border-left: 4px solid var(--color-warning);">
+            <h4 style="font-family: var(--font-body); font-size: 1rem; color: var(--color-primary-900); margin-bottom: 0.5rem;">3. Explicit Uncertainty Disclosure</h4>
+            <p style="font-size: 0.875rem; color: var(--text-secondary); margin: 0;">
+              Where official data is ambiguous or still undergoing multi-year scientific appraisal, it is explicitly flagged with "Needs verification" or "Documented - In Review" rather than conjectured.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Official Trusted Scientific & Government Directory -->
+    <section id="sources-directory">
+      <h2 class="section-title" style="margin-bottom: 1.25rem;">Directory of Trusted Primary Sources</h2>
+      <p class="section-desc" style="margin-bottom: 1.75rem;">
+        The case studies across the 5 domains are curated by cross-referencing these premier national and international environmental institutions:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem;">
+        
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            National Disaster Management Authority (NDMA)
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            Apex statutory body headed by the Prime Minister for disaster planning, standard operating procedures, and state hazard mitigation guidelines.
+          </p>
+          <a href="https://ndma.gov.in/" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit ndma.gov.in <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            National Institute of Disaster Management (NIDM)
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            Premier institute for human resource development, specialized capacity building, and empirical case study documentation of Indian disasters.
+          </p>
+          <a href="https://nidm.gov.in/CaseStudies.asp" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit nidm.gov.in/CaseStudies.asp <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            National Disaster Response Force (NDRF)
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            Specialized multi-disciplinary force deployed for specialized response during threatening disasters, floods, collapses, and chemical emergencies.
+          </p>
+          <a href="https://ndrf.gov.in/" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit ndrf.gov.in <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            India Meteorological Department (IMD)
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            National meteorological agency responsible for weather forecasting, cyclone tracking, monsoon monitoring, and severe rainfall warning bulletins.
+          </p>
+          <a href="https://mausam.imd.gov.in/" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit mausam.imd.gov.in <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            Central Pollution Control Board (CPCB)
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            Statutory organization under MoEFCC providing technical services for air and water pollution prevention, river quality monitoring, and emission limits.
+          </p>
+          <a href="https://cpcb.nic.in/" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit cpcb.nic.in <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            Forest Survey of India (FSI) & MoEFCC
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            Publishes the biennial India State of Forest Report (ISFR), forest fire alerts (SNPP-VIIRS), canopy change analyses, and afforestation surveys.
+          </p>
+          <a href="https://fsi.nic.in/" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit fsi.nic.in <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <div class="sidebar-box">
+          <h4 style="font-family: var(--font-body); font-size: 1.05rem; color: var(--color-primary-900); margin-bottom: 0.4rem;">
+            Intergovernmental Panel on Climate Change (IPCC)
+          </h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            United Nations body for assessing the science related to climate change, sea-level rises, glacial recession rates, and extreme meteorological trends.
+          </p>
+          <a href="https://www.ipcc.ch/" target="_blank" rel="noopener noreferrer" class="reference-link">
+            Visit ipcc.ch <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h3>Environmental Knowledge Hub</h3>
+          <p class="footer-desc">
+            An open academic case study repository built for undergraduate collegiate environmental science curricula.
+          </p>
+        </div>
+
+        <div class="footer-column">
+          <h4>Navigation</h4>
+          <ul class="footer-links">
+            <li><a href="index.html">Home Dashboard</a></li>
+            <li><a href="subcategories.html">Explore Case Studies</a></li>
+            <li><a href="about.html">Verification Checklist</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Primary Official Sources</h4>
+          <ul class="footer-links">
+            <li><a href="https://ndma.gov.in/" target="_blank" rel="noopener noreferrer">NDMA Official Site</a></li>
+            <li><a href="https://nidm.gov.in/CaseStudies.asp" target="_blank" rel="noopener noreferrer">NIDM Case Studies</a></li>
+            <li><a href="https://cpcb.nic.in/" target="_blank" rel="noopener noreferrer">Central Pollution Control Board</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Academic Citation</h4>
+          <p style="font-size: 0.8125rem; color: #8da698; line-height: 1.5;">
+            Environmental Knowledge Hub (2026). Collegiate Open Educational Resource for Environmental Studies.
+          </p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2026 Environmental Knowledge Hub • Open Academic Project
+        </div>
+        <div>
+          <a href="about.html#methodology">Research Methodology</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/icons.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/verification-audit.js"></script>
+</body>
+</html>

@@ -1,0 +1,338 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Environmental Knowledge Hub | Explore Environmental Challenges</title>
+
+  <meta name="description" content="Explore environmental disasters, pollution, climate change, deforestation, and conservation through real-world case studies and environmental knowledge.">
+
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+  <!-- Top Notice Bar -->
+  <div class="top-notice-bar">
+    <div class="container top-notice-content">
+      <span>
+        <span class="badge-academic">Environmental Knowledge Hub</span>
+        Explore Environmental Topics and Case Studies
+      </span>
+      <span>
+        Learn • Explore • Understand • Protect
+      </span>
+    </div>
+  </div>
+
+  <!-- Main Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+
+      <a href="index.html" class="site-brand" id="brandLogoLink">
+        <div class="brand-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2"
+               stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            <path d="m9 12 2 2 4-4"/>
+          </svg>
+        </div>
+
+        <div class="brand-text">
+          <h1>Environmental Knowledge Hub</h1>
+          <span class="brand-subtitle">
+            Environmental Topics, Case Studies &amp; Solutions
+          </span>
+        </div>
+      </a>
+
+      <button class="mobile-nav-toggle"
+              id="mobileNavToggle"
+              aria-label="Toggle navigation menu">
+        <svg width="22" height="22" viewBox="0 0 24 24"
+             fill="none" stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" x2="20" y1="12" y2="12"/>
+          <line x1="4" x2="20" y1="6" y2="6"/>
+          <line x1="4" x2="20" y1="18" y2="18"/>
+        </svg>
+      </button>
+
+      <nav class="site-nav" id="siteNav">
+        <a href="index.html" class="nav-link active">Home Dashboard</a>
+        <a href="subcategories.html" class="nav-link">Explore Case Studies</a>
+        <a href="about.html" class="nav-link">Verification Checklist &amp; Sources</a>
+        <a href="subcategories.html" class="nav-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2"
+               stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/>
+            <path d="m21 21-4.3-4.3"/>
+          </svg>
+          Search Archive
+        </a>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="editorial-hero">
+    <div class="container">
+
+      <div class="hero-badge-wrap">
+        <span class="hero-tag">
+          <svg width="14" height="14" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2"
+               stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+            <polyline points="22 4 12 14.01 9 11.01"/>
+          </svg>
+          Discover • Learn • Take Action
+        </span>
+      </div>
+
+      <!-- Updated Main Heading -->
+      <h2 class="hero-title">
+        Explore Our Environmental World
+      </h2>
+
+      <!-- Updated Subtitle -->
+      <p class="hero-lead">
+        Understand environmental challenges. Discover real-world impacts.
+        Explore solutions for a sustainable future.
+      </p>
+
+      <!-- Search Bar and Filters -->
+      <div class="search-filter-wrapper">
+        <form id="homeSearchForm">
+
+          <div class="search-main-row">
+            <div class="search-input-group">
+              <svg class="search-icon" viewBox="0 0 24 24"
+                   fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"/>
+                <path d="m21 21-4.3-4.3"/>
+              </svg>
+
+              <input
+                type="text"
+                id="mainSearchInput"
+                class="search-input"
+                placeholder="Search environmental topics, events, locations, or solutions..."
+                aria-label="Search environmental topics and case studies">
+            </div>
+
+            <button type="submit" class="btn-search" id="btnHomeSearch">
+              <svg width="18" height="18" viewBox="0 0 24 24"
+                   fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"/>
+                <path d="m21 21-4.3-4.3"/>
+              </svg>
+              Search
+            </button>
+          </div>
+
+          <div class="filter-row">
+            <span class="filter-label">Quick Filters:</span>
+
+            <select id="filterCategory" class="select-filter"
+                    aria-label="Filter by Topic Category">
+              <option value="all">All Main Categories</option>
+            </select>
+
+            <select id="filterLocation" class="select-filter"
+                    aria-label="Filter by Location">
+              <option value="all">All Locations / States</option>
+            </select>
+
+            <select id="filterYear" class="select-filter"
+                    aria-label="Filter by Year">
+              <option value="all">All Documented Years</option>
+            </select>
+
+            <button type="button" class="btn-reset-filters" id="btnResetFilters">
+              Clear Filters
+            </button>
+          </div>
+
+        </form>
+      </div>
+
+      <!-- Live Statistics -->
+      <div class="live-stats-bar" id="liveStatsBar">
+
+        <div class="stat-item">
+          <span class="stat-value" id="statTotalStudies">--</span>
+          <span class="stat-label">Documented Case Studies</span>
+        </div>
+
+        <div class="stat-item">
+          <span class="stat-value" id="statTotalCategories">5</span>
+          <span class="stat-label">Environmental Topics</span>
+        </div>
+
+        <div class="stat-item">
+          <span class="stat-value" id="statTotalSubcategories">23</span>
+          <span class="stat-label">Specialized Subcategories</span>
+        </div>
+
+        <div class="stat-item">
+          <span class="stat-value" id="statVerifiedRatio">--</span>
+          <span class="stat-label">Verified Official Records</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Environmental Topics -->
+  <main class="topics-section container" id="mainContent">
+
+    <div class="section-header">
+      <div>
+        <h3 class="section-title">Explore by Environmental Topic</h3>
+        <p class="section-desc">
+          Discover environmental issues, understand their impacts,
+          and explore case studies and solutions.
+        </p>
+      </div>
+
+      <a href="subcategories.html"
+         style="font-weight: 700; font-size: 0.95rem; color: var(--color-primary-700);">
+        View Complete Archive →
+      </a>
+    </div>
+
+    <!-- Topic Cards -->
+    <div class="topics-grid" id="topicsGrid">
+      <div class="state-container" style="grid-column: 1 / -1;">
+        <div class="loading-spinner"></div>
+        <p class="state-desc">Loading environmental topics...</p>
+      </div>
+    </div>
+
+    <!-- Featured Case Studies -->
+    <div style="margin-top: 4rem;">
+
+      <div class="section-header">
+        <div>
+          <h3 class="section-title">Featured Environmental Case Studies</h3>
+          <p class="section-desc">
+            Explore documented environmental events, their impacts,
+            and the efforts made to protect and restore our environment.
+          </p>
+        </div>
+
+        <a href="subcategories.html"
+           style="font-weight: 700; font-size: 0.95rem; color: var(--color-primary-700);">
+          Explore All Case Studies →
+        </a>
+      </div>
+
+      <div class="case-study-grid" id="recentStudiesGrid">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+
+      <div class="footer-grid">
+
+        <div class="footer-brand">
+          <h3>Environmental Knowledge Hub</h3>
+          <p class="footer-desc">
+            Discover environmental challenges, learn from real-world
+            case studies, and explore ideas for a cleaner, greener,
+            and more sustainable future.
+          </p>
+        </div>
+
+        <div class="footer-column">
+          <h4>Environmental Topics</h4>
+          <ul class="footer-links">
+            <li><a href="subcategories.html?category=disaster">Natural Disasters</a></li>
+            <li><a href="subcategories.html?category=deforestation">Deforestation</a></li>
+            <li><a href="subcategories.html?category=pollution">Pollution</a></li>
+            <li><a href="subcategories.html?category=climate-change">Climate Change</a></li>
+            <li><a href="subcategories.html?category=conservation">Conservation</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Explore More</h4>
+          <ul class="footer-links">
+            <li><a href="subcategories.html">Case Study Directory</a></li>
+            <li><a href="about.html#audit-section">Verification Checklist</a></li>
+            <li><a href="about.html#methodology">Research Methodology</a></li>
+            <li><a href="about.html#sources-directory">Official Sources</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Official Environmental Sources</h4>
+          <ul class="footer-sources-list">
+            <li>
+              <a href="https://ndma.gov.in/" target="_blank" rel="noopener noreferrer">
+                National Disaster Management Authority
+              </a>
+            </li>
+            <li>
+              <a href="https://nidm.gov.in/CaseStudies.asp" target="_blank" rel="noopener noreferrer">
+                National Institute of Disaster Management
+              </a>
+            </li>
+            <li>
+              <a href="https://cpcb.nic.in/" target="_blank" rel="noopener noreferrer">
+                Central Pollution Control Board
+              </a>
+            </li>
+            <li>
+              <a href="https://mausam.imd.gov.in/" target="_blank" rel="noopener noreferrer">
+                India Meteorological Department
+              </a>
+            </li>
+            <li>
+              <a href="https://www.ipcc.ch/" target="_blank" rel="noopener noreferrer">
+                Intergovernmental Panel on Climate Change
+              </a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2026 Environmental Knowledge Hub • College Research Project
+        </div>
+
+        <div>
+          <a href="about.html">Source Verification Protocol</a>
+          •
+          <a href="about.html#disclaimer">Academic Fair-Use Statement</a>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="js/icons.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/app.js"></script>
+  <script src="data/api-integration.js"></script>
+
+</body>
+</html>
